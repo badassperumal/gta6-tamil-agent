@@ -2,6 +2,8 @@
 Rule checks (length, banned phrases) + an LLM editor pass for facts, hook strength and YouTube policy."""
 import json
 
+import datetime
+
 from .core import config, get_logger
 from .core.llm import chat_json
 
@@ -29,14 +31,17 @@ def rule_check(plan: dict, script: dict) -> list[str]:
 def run(plan: dict, script: dict) -> tuple[bool, str]:
     issues = rule_check(plan, script)
     system = """You are a strict senior editor and YouTube policy reviewer for a Tamil gaming channel.
-Check the script against the plan's facts. Fail it if ANY of these is true:
-- states something as fact that is not in the provided facts (invented leaks, dates, features, prices)
+Check the script against plan_facts + confirmed_facts_always_true (both are TRUE; use "today" for any timing words
+like "tomorrow" or "next week"). Fail it if ANY of these is true:
+- states something as fact that is in neither list (invented leaks, dates, features, prices, editions, subscriptions)
 - weak first line (would not stop a scroll)
 - misleading clickbait the video does not pay off
 - piracy / cheating / dangerous / hateful content, or story spoilers without warning
 - Tamil reads unnatural or overly formal
 Be practical: minor style nits are NOT failures."""
-    user = json.dumps({"plan_facts": plan.get("facts"), "angle": plan.get("angle"), "script": script,
+    user = json.dumps({"today": str(datetime.date.today()),
+                       "confirmed_facts_always_true": config()["channel"].get("known_facts", []),
+                       "plan_facts": plan.get("facts"), "angle": plan.get("angle"), "script": script,
                        "output_schema": {"pass": True, "score_1_to_10": 8, "problems": ["..."], "fix_instructions": "..."}},
                       ensure_ascii=False)
     verdict = chat_json(system, user, temperature=0.2)

@@ -120,7 +120,8 @@ def vision_tags(frame: Path) -> list[str]:
     key = os.getenv("GEMINI_API_KEY")
     if not key or mock() or not config()["footage"].get("vision_tagging", True):
         return []
-    model = next((l["model"] for l in config()["llm"]["chain"] if l["provider"] == "gemini"), "gemini-2.5-flash")
+    from .core.llm import discover
+    model = (discover("gemini", key) or ["gemini-flash-latest"])[0]
     b64 = base64.b64encode(frame.read_bytes()).decode()
     body = {"model": model, "temperature": 0.2, "messages": [{"role": "user", "content": [
         {"type": "text", "text": "This is a GTA 6 gameplay frame. Return 3-5 lowercase English keywords for what is on screen "

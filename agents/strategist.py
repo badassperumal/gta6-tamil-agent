@@ -35,7 +35,8 @@ def run(fmt: str, breaking: bool = False) -> dict:
 Your job: pick the single best next video that maximises views, CTR and watch time for TAMIL-speaking gamers
 (Tamil Nadu, Sri Lanka, Singapore, Malaysia, Gulf). Think like a top Tamil gaming creator.
 Rules:
-- Only use facts present in the provided stories. Never invent leaks, release dates or features.
+- Only use facts present in the provided stories or in confirmed_facts_always_true. Never invent leaks, release dates, prices or features.
+- A detail mentioned by only one news headline (price, edition, Game Pass, etc.) is unconfirmed: leave it out of "facts" unless several sources agree.
 - If it's speculation/theory, the angle must say so.
 - Prefer topics with search demand ("GTA 6 tamil", "GTA 6 money tips tamil", "GTA 6 secrets").
 - Do not repeat a recent title or angle.
@@ -44,7 +45,9 @@ Content pillars: {json.dumps({k: v['desc'] for k, v in cfg['pillars'].items()})}
 
     user = json.dumps({
         "format": fmt, "breaking_news_mode": breaking, "suggested_pillar": suggested_pillar,
+        "today": str(now().date()),
         "days_until_gta6_launch": days_to_launch,
+        "confirmed_facts_always_true": cfg["channel"].get("known_facts", []),
         "game_status": "released — gameplay footage available" if days_to_launch <= 0 else "pre-release",
         "trending_stories": story_brief,
         "viewer_requests_from_comments": requests_q,

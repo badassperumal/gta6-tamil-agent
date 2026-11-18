@@ -1,5 +1,5 @@
 name: Agent setup
-description: Python, FFmpeg (libass) and Tamil fonts
+description: Python, FFmpeg (libass) and Tamil fonts. Apt packages are cached, so only the first run is slow.
 runs:
   using: composite
   steps:
@@ -10,11 +10,21 @@ runs:
     - uses: denoland/setup-deno@v2   # yt-dlp needs a JS runtime for YouTube downloads
       with:
         deno-version: v2.x
-    - name: System packages
+    - name: System packages (cached)
+      uses: awalsh128/cache-apt-pkgs-action@latest
+      continue-on-error: true
+      with:
+        packages: ffmpeg fonts-noto-core
+        version: "1.0"
+    - name: Check FFmpeg + Tamil font
       shell: bash
       run: |
-        sudo apt-get update -qq
-        sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-ui-core > /dev/null
+        if ! command -v ffmpeg >/dev/null || ! fc-list | grep -qi "Noto Sans Tamil"; then
+          echo "cache miss → plain apt install"
+          sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends ffmpeg fonts-noto-core > /dev/null
+        fi
+        sudo fc-cache -f > /dev/null
+        ffmpeg -hide_banner -filters | grep -q " ass " && echo "FFmpeg with libass OK"
         fc-list | grep -qi "Noto Sans Tamil" && echo "Tamil font OK"
     - name: Python packages
       shell: bash

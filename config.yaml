@@ -13,19 +13,24 @@ channel:
     mixing common English gaming words (mission, car, map, update, glitch)
     the way Tamil gaming YouTubers actually speak. Friendly, hype, never cringe.
   game_release_date: "2026-11-19"  # GTA 6 launch (PS5 / Xbox Series X|S)
+  # Facts the writer may always use and the reviewer accepts as true. Add confirmed facts here (prices, updates…).
+  known_facts:
+    - "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S."
+    - "The game is set in the state of Leonida, which includes Vice City. The two main characters are Jason and Lucia."
+    - "There is no PC version at launch."
 
 # Free LLMs, tried in order. Missing keys are skipped automatically.
 # Gemini = best Tamil quality. Groq / OpenRouter = open-weight models (Llama, gpt-oss, Qwen, DeepSeek).
 llm:
+  # "auto" = ask the provider which models are live today and use the newest (retired names never break the channel)
   chain:
-    - { provider: gemini,     model: "gemini-2.5-flash" }
-    - { provider: gemini,     model: "gemini-2.0-flash" }
-    - { provider: groq,       model: "openai/gpt-oss-120b" }
-    - { provider: groq,       model: "llama-3.3-70b-versatile" }
-    - { provider: openrouter, model: "deepseek/deepseek-chat-v3-0324:free" }
+    - { provider: gemini,     model: "auto" }
+    - { provider: gemini,     model: "gemini-flash-latest" }
+    - { provider: groq,       model: "auto" }
+    # - { provider: openrouter, model: "<a model id ending in :free from openrouter.ai/models>" }
     - { provider: ollama,     model: "qwen2.5:7b" }       # only if you self-host
   temperature: 0.8
-  max_retries_per_model: 2
+  max_retries_per_model: 4
 
 # Content strategy — the strategist agent rotates through these pillars and
 # re-weights them every day from real analytics.

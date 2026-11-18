@@ -25,7 +25,9 @@ Write narration in natural SPOKEN Tamil (Tamil script), keeping common English g
 (GTA 6, mission, car, map, update, Rockstar, Jason, Lucia, Vice City, Leonida). No formal/literary Tamil.
 {structure}
 Hard rules:
-- Use ONLY the facts given. If something is a rumour or theory, say so in the narration ("இது ஒரு theory தான்").
+- Use ONLY the plan's facts and the confirmed facts. Never add prices, editions, dates or platforms that aren't listed there.
+  If something is a rumour or theory, say so in the narration ("இது ஒரு theory தான்").
+- Use "today" to talk about timing correctly (e.g. "நாளைக்கு release" only if the release date is tomorrow).
 - Story content: add a spoiler warning at the start.
 - No piracy, cracks, free-download claims, cheats that break ToS, hate, or misleading clickbait.
 - Total narration {lo}-{hi} words, {scenes}.
@@ -33,6 +35,8 @@ Hard rules:
 - "onscreen" = optional 1-4 word caption (English or Tamil) shown big on screen, for emphasis."""
 
     user = json.dumps({
+        "today": str(__import__("datetime").date.today()),
+        "confirmed_facts_always_true": cfg["channel"].get("known_facts", []),
         "plan": {k: plan.get(k) for k in ("format", "pillar", "topic", "angle", "working_title", "hook_line", "facts")},
         "reviewer_feedback_to_fix": feedback,
         "output_schema": {"scenes": [{"narration": "Tamil text", "visual": "english keywords", "onscreen": "short caption or empty"}],
