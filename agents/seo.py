@@ -24,10 +24,13 @@ def run(plan: dict, script: dict) -> dict:
     fmt = plan["format"]
     system = f"""You are a YouTube SEO expert for Tamil gaming channels. Channel: {cfg['channel']['name']} ({cfg['channel']['handle']}).
 Tamil viewers search in Tanglish and English ("gta 6 tamil", "gta 6 money tips tamil", "gta 6 secrets in tamil").
-Write metadata that is accurate to the script (no false clickbait)."""
+Write metadata from the FINAL SCRIPT only. The title and description may only promise what the script actually
+says — no invented numbers, hours played, or secrets the script doesn't reveal. Curiosity is fine; lying is not.
+Use Tamil as spoken in Tamil Nadu (not Sri Lankan vocabulary such as "மணித்தியாலம்")."""
     user = json.dumps({
-        "format": fmt, "pillar": plan["pillar"], "angle": plan.get("angle"), "working_title": plan.get("working_title"),
-        "script_excerpt": " ".join(s["narration"] for s in script["scenes"])[:1500],
+        "format": fmt, "pillar": plan["pillar"],
+        "final_script": " ".join(s["narration"] for s in script["scenes"])[:2500],
+        "thumbnail_text": script.get("thumbnail_text"),
         "rules": {
             "title": "max 70 chars, must contain 'GTA 6' and 'Tamil' or Tamil words, curiosity + clarity" + (", end with #Shorts" if fmt == "short" else ""),
             "description": "first 2 lines = hook with main keywords; then 3-5 line Tamil summary; no links section (added automatically)",

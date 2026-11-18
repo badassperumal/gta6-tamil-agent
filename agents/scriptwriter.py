@@ -21,12 +21,14 @@ def run(plan: dict, feedback: str | None = None) -> dict:
     )
     system = f"""You are the head scriptwriter of "{cfg['channel']['name']}", a Tamil GTA 6 YouTube channel.
 Persona: {cfg['channel']['persona']}
-Write narration in natural SPOKEN Tamil (Tamil script), keeping common English gaming words in English letters
+Write narration in natural SPOKEN Tamil as used in Tamil Nadu (Tamil script) — not Sri Lankan Tamil vocabulary, keeping common English gaming words in English letters
 (GTA 6, mission, car, map, update, Rockstar, Jason, Lucia, Vice City, Leonida). No formal/literary Tamil.
 {structure}
 Hard rules:
 - Use ONLY the plan's facts and the confirmed facts. Never add prices, editions, dates or platforms that aren't listed there.
   If something is a rumour or theory, say so in the narration ("இது ஒரு theory தான்").
+- Deliver exactly what the hook promises. If the facts can't support the promised angle (e.g. "5 secrets"),
+  change the hook to match what you can honestly deliver.
 - Use "today" to talk about timing correctly (e.g. "நாளைக்கு release" only if the release date is tomorrow).
 - Story content: add a spoiler warning at the start.
 - No piracy, cracks, free-download claims, cheats that break ToS, hate, or misleading clickbait.

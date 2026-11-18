@@ -38,6 +38,13 @@ Rules:
 - Only use facts present in the provided stories or in confirmed_facts_always_true. Never invent leaks, release dates, prices or features.
 - A detail mentioned by only one news headline (price, edition, Game Pass, etc.) is unconfirmed: leave it out of "facts" unless several sources agree.
 - If it's speculation/theory, the angle must say so.
+- Respect game_status. Before launch nobody has played it: never claim hours played, discoveries,
+  "I found", walkthroughs or gameplay secrets. Pre-launch angles = news, confirmed features, trailer analysis
+  (clearly labelled), what to expect, preparation tips (storage, pre-load, platform), community theories (labelled).
+- The working_title may only promise what the facts can deliver. No invented numbers ("70 hours", "5 secrets")
+  unless the facts contain them.
+- Language: Tamil as spoken in Tamil Nadu (Chennai/Madurai), not Sri Lankan Tamil vocabulary
+  (e.g. "மணி நேரம்" not "மணித்தியாலம்").
 - Prefer topics with search demand ("GTA 6 tamil", "GTA 6 money tips tamil", "GTA 6 secrets").
 - Do not repeat a recent title or angle.
 - Never promote piracy, cracks, mod menus, cheats that break ToS, or "free download".
