@@ -1,106 +1,104 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "GTA 6 massive map and future content teased by Rockstar",
-    "story_key": "df6f1795acb3",
-    "angle": "Rockstar hints that the massive GTA 6 map in Leonida and Vice City has saved room for future content updates.",
-    "working_title": "GTA 6 Map இவ்வளவு பெருசா? Future-க்கு வேற என்ன இருக்கு! #Shorts",
-    "hook_line": "GTA 6-ன் பிரம்மாண்டமான மேப் பத்தி ராக்ஸ்டார் சொன்ன செம அப்டேட் தெரியுமா?",
+    "topic": "GTA 6 reviews and streaming records launch eve",
+    "story_key": "f3242f02bc0b",
+    "angle": "Highlighting the massive global reviews and streaming hype right on the eve of the Nov 19 launch for PS5 and Xbox Series X|S.",
+    "working_title": "GTA 6 ரிலீசுக்கு முன் வேற ಲೆವೆಲ್ Hype! 🔥 #Shorts",
+    "hook_line": "நாளைக்கு GTA 6 ரிலீஸ்! உலகமே திரும்பிப் பார்க்கும் அளவுக்கு என்ன நடந்துட்டு இருக்கு தெரியுமா?",
     "footage_tags": [
-      "GTA 6 map",
-      "Vice City",
-      "Leonida",
-      "Rockstar Games logo"
+      "gta 6 trailer",
+      "leonida",
+      "jason and lucia",
+      "ps5 controller"
     ],
     "facts": [
-      "Rockstar hints massive 'GTA 6' map saved room for future content.",
-      "GTA 6 is set in the state of Leonida, which includes Vice City.",
-      "The game releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S."
+      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
+      "The game is set in the state of Leonida, which includes Vice City. The two main characters are Jason and Lucia."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2VRMGhHMzg1OTZBN2hRYkstdmR0c2ZFN21KZkVzVExVZ1M4bzRSTFZ1bmxfOG5xaW9OUXhVa244dkJrbVctM19UYXh3ZW1INmJySHN0OXdGRFRBR2pERXpjYWpOdzlqc2NNQUZoamlFSkJqcHROVlJ6N3ZSQXVJZ0Zn?oc=5"
+      "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWdjJtbzBsRW5VNWQxcTFYUU82ejNvUEY3Q211UjRXNWRfYzhGTFp3YVdkZWJnTU1qRGZTTkU2SDVWMUZXYjBoRWtZUG9VSXVoOE54YnhoX2h0NjlzUGRsbm9FTzFPUURoT0lXdA?oc=5"
     ],
-    "why": "With launch day tomorrow (19 November 2026), fans are extremely hyped about the map size and future updates, making this official Rockstar hint a high-CTR news short for Tamil gamers.",
+    "why": "With launch just 1 day away on Nov 19, focusing on the massive global reviews and breaking records creates peak excitement for Tamil gamers on launch eve.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "GTA 6-ன் பிரம்மாண்டமான மேப் பத்தி ராக்ஸ்டார் சொன்ன செம அப்டேட் தெரியுமா?",
-        "visual": "map overview vice city",
-        "onscreen": "MASSIVE MAP",
+        "narration": "இன்னும் ஒரே நாள்ல GTA 6 ரிலீஸ்! உலகமே திரும்பிப் பார்க்கும் அளவுக்கு இப்ப என்ன நடந்துட்டு இருக்கு தெரியுமா?",
+        "visual": "vice city neon lights night",
+        "onscreen": "LAUNCH EVE HYPE",
         "start": 0.0,
-        "end": 5.674
+        "end": 7.69
       },
       {
-        "narration": "Leonida ஸ்டேட்ல இருக்க இந்த செம மேப்ல, பின்னாடி வர போற content updates-க்குனு பிரத்யேகமா இடம் விட்டுருக்காங்களாம்.",
-        "visual": "leonida countryside aerial",
-        "onscreen": "Future Updates",
-        "start": 5.674,
-        "end": 12.812
+        "narration": "Rockstar Games-ன் இந்த மான்ஸ்டர் கேம், நாளைக்கு நவம்பர் 19-ந்தேதி PS5 மற்றும் Xbox Series X|S-ல அதிகாரப்பூர்வமா வெளிவருது!",
+        "visual": "ps5 xbox controller glowing",
+        "onscreen": "NOV 19 RELEASE",
+        "start": 7.69,
+        "end": 17.396
       },
       {
-        "narration": "அதாவது Vice City மட்டும் இல்லாம, சுத்துப்பட்டு இருக்க எல்லா இடங்களையும் gta online போல மாத்த திட்டமாம்.",
-        "visual": "beach vice city",
-        "onscreen": "Vice City",
-        "start": 12.812,
-        "end": 20.358
+        "narration": "இப்போதைக்கு PC வெர்ஷன் கிடையாதுனு சொல்லிட்டாங்க, ஆனா கன்சோல் பிளேயர்ஸ்க்கு வேற லெவல் ட்ரீட் காத்துட்டு இருக்கு.",
+        "visual": "jason and lucia artwork",
+        "onscreen": "NO PC AT LAUNCH",
+        "start": 17.396,
+        "end": 24.774
       },
       {
-        "narration": "Jason கூட சேர்ந்து இந்த பிரம்மாண்டமான world-ஐ explore பண்ண நாமும் தயாராகிட்டு இருக்கோம்.",
-        "visual": "jason lucia trailer",
-        "onscreen": "Jason & Lucia",
-        "start": 20.358,
-        "end": 26.128
+        "narration": "Leonida ஸ்டேட் மற்றும் நம்மகிட்ட ஃபேவரெட்டான Vice City-ல இறங்கி கலக்க போறோம்.",
+        "visual": "leonida map overview beach",
+        "onscreen": "WELCOME TO LEONIDA",
+        "start": 24.774,
+        "end": 29.848
       },
       {
-        "narration": "வரும் November 19, 2026-ல PS5 மற்றும் Xbox Series X|S-ல game அதிகாரப்பூர்வமா ரிலீஸ் ஆகுது.",
-        "visual": "ps5 xbox console",
-        "onscreen": "Nov 19, 2026",
-        "start": 26.128,
-        "end": 35.042
+        "narration": "Jason மற்றும் Lucia ஜோடியோட கதை எப்படி இருக்கப் போகுதுன்னு உலகத்துக்கே பெரிய எதிர்பார்ப்பு கூடிருச்சு.",
+        "visual": "lucia and jason car driving",
+        "onscreen": "JASON & LUCIA",
+        "start": 29.848,
+        "end": 36.674
       },
       {
-        "narration": "PC-க்கு இப்போதைக்கு launch கிடையாது, அது ஒரு theory தான்.",
-        "visual": "pc gaming setup",
-        "onscreen": "No PC at Launch",
-        "start": 35.042,
-        "end": 38.916
+        "narration": "streaming ஹிஸ்டரியையே இந்த கேம் மாற்றப் போவது கன்பார்ம்.",
+        "visual": "gaming stream setup neon",
+        "onscreen": "STREAMING RECORDS",
+        "start": 36.674,
+        "end": 40.452
       },
       {
-        "narration": "இந்த giant map-ல எந்த city-ல first mission பண்ண போறீங்க? Subscribe பண்ணுங்க!",
-        "visual": "car chase night",
-        "onscreen": "Subscribe பண்ணுங்க",
-        "start": 38.916,
-        "end": 44.398
+        "narration": "நீங்க எந்த கன்சோல்ல விளையாடப் போறீங்க? கமெண்ட்ல சொல்லுங்க, Subscribe பண்ணுங்க!",
+        "visual": "controller close up",
+        "onscreen": "SUBSCRIBE",
+        "start": 40.452,
+        "end": 46.726
       }
     ],
-    "thumbnail_text": "GTA 6 MASSIVE MAP",
-    "end_question": "இந்த பிரம்மாண்டமான மேப்ல நீங்க First எங்கு போக போறீங்க?",
+    "thumbnail_text": "GTA 6 LAUNCH EVE",
+    "end_question": "நீங்க எந்த கன்சோல்ல GTA 6 விளையாடப் போறீங்க?",
     "word_count": 81
   },
   "meta": {
-    "title": "GTA 6 Tamil-ல் Massive Map ரகசியம்? 🎮 #Shorts",
-    "description": "GTA 6 Tamil-ல் புதிய Massive Map ரகசியம்! 🎮\nRelease date, cities, மற்றும் online போல map details இங்கே!\nஇந்த மேப் Vice City மட்டும் அல்ல, பல நகரங்களை கொண்டுள்ளது.\nநவம்பர் 19, 2026-ல் PS5 & Xbox Series X|S-ல் அதிகாரப்பூர்வ ரிலீஸ்.\nPC ல் லான்ச் இன்னும் theory மட்டுமே, எதிர்கால content updates-க்கு இடம் வைத்திருக்கிறது.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த பிரம்மாண்டமான மேப்ல நீங்க First எங்கு போக போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 ரிலீஸ்! உலகமே காத்திருக்கும் பிரம்மாண்டம் #Shorts",
+    "description": "இன்னும் ஒரே நாள்ல GTA 6 ரிலீஸ்! உலகமே திரும்பிப் பார்க்கும் அளவுக்கு இப்ப என்ன நடந்துட்டு இருக்கு தெரியுமா?\nRockstar Games-ன் இந்த மான்ஸ்டர் கேம் நாளைக்கு PS5 மற்றும் Xbox Series X|S-ல் அதிகாரப்பூர்வமாக வெளிவருகிறது. இப்போதைக்கு PC வெர்ஷன் கிடையாது என்றாலும், கன்சோல் பிளேயர்ஸ்க்கு வேற லெவல் ட்ரீட் காத்துட்டு இருக்கு. Leonida ஸ்டேட் மற்றும் Vice City-ல் Jason மற்றும் Lucia ஜோடியோட கதை எப்படி இருக்கப் போகிறது என்ற எதிர்பார்ப்பு அதிகரித்துள்ளது.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க எந்த கன்சோல்ல GTA 6 விளையாடப் போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "GTA 6 Tamil",
-      "GTA 6 map",
-      "GTA 6 massive map",
-      "GTA 6 release date",
-      "GTA 6 Tamil news",
-      "Tamil gaming",
-      "GTA 6 update",
-      "GTA 6 secrets",
-      "GTA 6 Tamil shorts",
-      "GTA 6 PS5",
-      "GTA 6 Xbox",
-      "GTA 6 November 2026",
-      "GTA 6 online map",
-      "GTA 6 Leonida",
-      "GTA 6 Jason",
-      "GTA 6 Tamil gameplay",
-      "GTA 6 Tamil guide",
+      "gta 6 tamil",
+      "gta 6 release tamil",
+      "gta 6 news tamil",
+      "rockstar games tamil",
+      "gta 6 ps5 tamil",
+      "gta 6 xbox tamil",
+      "vice city tamil",
+      "jason and lucia tamil",
+      "gta 6 update tamil",
+      "tamil gaming",
+      "gta v tamil",
+      "gta 6 trailer tamil",
+      "gaming news tamil",
+      "gta 6 gameplay tamil",
+      "gta tamilshorts",
+      "gta 6 launch tamil",
       "GTA 6",
       "GTA VI"
     ]

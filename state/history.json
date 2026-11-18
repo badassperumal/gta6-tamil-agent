@@ -23,13 +23,29 @@
       "duration": 44.4,
       "published_at": "2026-11-18T16:49:25.287682+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261118-202919-short",
+      "video_id": null,
+      "title": "GTA 6 ரிலீஸ்! உலகமே காத்திருக்கும் பிரம்மாண்டம் #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 reviews and streaming records launch eve",
+      "hook": "இன்னும் ஒரே நாள்ல GTA 6 ரிலீஸ்! உலகமே திரும்பிப் பார்க்கும் அளவுக்கு இப்ப என்ன நடந்துட்டு இருக்கு தெரியுமா?",
+      "duration": 46.7,
+      "published_at": "2026-11-18T20:31:04.858394+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
     "b7ef61cec16c",
     "5481a5385ee6",
     "df6f1795acb3",
-    "5790ec7eb9ef"
+    "5790ec7eb9ef",
+    "f3242f02bc0b",
+    "b326ac5c0d38"
   ],
-  "breaking_days": {}
+  "breaking_days": {
+    "2026-11-18": 1
+  }
 }

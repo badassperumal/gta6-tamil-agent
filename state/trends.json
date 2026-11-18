@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T20:28:38.585767+00:00",
+  "updated": "2026-11-18T20:29:21.751070+00:00",
   "stories": [
     {
       "key": "df6f1795acb3",
@@ -202,30 +202,6 @@
       "covered": true
     },
     {
-      "key": "34f3140f168a",
-      "title": "'GTA 6' New Zealand release time: The internet goes completely Kiwi - Mashable",
-      "items": [
-        {
-          "title": "'GTA 6' New Zealand release time: The internet goes completely Kiwi - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUnlZdVdvQ2pLY1lhaDdxeEMzNnEybG5Tc1lydFd1Ymw0NzAyMk04b09ZNmxUVm9KM1JJSm5fVWZCOEZuclRYc1RiRmRlT2p3ME9jSkVrZG5peENNUDlKVEJPLUlnNDhaTU5FODRfUUVyR3owM25ZRXBoVHRWMFZ5Q1pB?oc=5",
-          "source": "google_news",
-          "summary": " 'GTA 6' New Zealand release time: The internet goes completely Kiwi &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-18T17:17:43+00:00",
-          "pop": 1
-        },
-        {
-          "title": "'GTA 6' New Zealand release time: The internet goes completely Kiwi - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUnlZdVdvQ2pLY1lhaDdxeEMzNnEybG5Tc1lydFd1Ymw0NzAyMk04b09ZNmxUVm9KM1JJSm5fVWZCOEZuclRYc1RiRmRlT2p3ME9jSkVrZG5peENNUDlKVEJPLUlnNDhaTU5FODRfUUVyR3owM25ZRXBoVHRWMFZ5Q1pB?oc=5",
-          "source": "google_news",
-          "summary": " 'GTA 6' New Zealand release time: The internet goes completely Kiwi &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-18T17:17:43+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 6.0,
-      "covered": false
-    },
-    {
       "key": "4b3df8eb6304",
       "title": "How Am I Supposed To Wait Until The PC Version To Play GTA 6? - Kotaku",
       "items": [
@@ -243,6 +219,30 @@
           "source": "google_news",
           "summary": " How Am I Supposed To Wait Until The PC Version To Play GTA 6? &nbsp;&nbsp; Kotaku ",
           "published": "2026-11-18T17:30:37+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 6.0,
+      "covered": false
+    },
+    {
+      "key": "34f3140f168a",
+      "title": "'GTA 6' New Zealand release time: The internet goes completely Kiwi - Mashable",
+      "items": [
+        {
+          "title": "'GTA 6' New Zealand release time: The internet goes completely Kiwi - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUnlZdVdvQ2pLY1lhaDdxeEMzNnEybG5Tc1lydFd1Ymw0NzAyMk04b09ZNmxUVm9KM1JJSm5fVWZCOEZuclRYc1RiRmRlT2p3ME9jSkVrZG5peENNUDlKVEJPLUlnNDhaTU5FODRfUUVyR3owM25ZRXBoVHRWMFZ5Q1pB?oc=5",
+          "source": "google_news",
+          "summary": " 'GTA 6' New Zealand release time: The internet goes completely Kiwi &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-18T17:17:43+00:00",
+          "pop": 1
+        },
+        {
+          "title": "'GTA 6' New Zealand release time: The internet goes completely Kiwi - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUnlZdVdvQ2pLY1lhaDdxeEMzNnEybG5Tc1lydFd1Ymw0NzAyMk04b09ZNmxUVm9KM1JJSm5fVWZCOEZuclRYc1RiRmRlT2p3ME9jSkVrZG5peENNUDlKVEJPLUlnNDhaTU5FODRfUUVyR3owM25ZRXBoVHRWMFZ5Q1pB?oc=5",
+          "source": "google_news",
+          "summary": " 'GTA 6' New Zealand release time: The internet goes completely Kiwi &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-18T17:17:43+00:00",
           "pop": 1
         }
       ],
