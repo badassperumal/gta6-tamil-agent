@@ -1,0 +1,9 @@
+output/*
+!output/.gitkeep
+assets/footage/*
+!assets/footage/README.md
+__pycache__/
+*.pyc
+client_secret*.json
+.env
+state/*.tmp

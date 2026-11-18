@@ -1,0 +1,39 @@
+name: 📡 Trend scout (breaking news)
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"   # every 3 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write     # lets it trigger the produce workflow for breaking news
+  issues: write
+
+concurrency:
+  group: scout
+  cancel-in-progress: true
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -q -r requirements.txt
+      - name: Scan news & Reddit
+        id: scout
+        run: python orchestrator.py scout
+      - name: Breaking news → make a Short now
+        if: steps.scout.outputs.breaking == 'true'
+        run: gh workflow run produce.yml -f format=short -f breaking=true
+      - name: Save agent memory
+        if: always()
+        run: bash scripts/commit_state.sh "scout"
+      - name: Alert on failure
+        if: failure()
+        run: bash scripts/report_failure.sh "Scout"

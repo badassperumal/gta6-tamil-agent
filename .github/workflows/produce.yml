@@ -1,0 +1,92 @@
+name: 🎬 Produce & publish video
+
+on:
+  schedule:
+    - cron: "30 5 * * *"    # 11:00 IST → Short
+    - cron: "30 12 * * *"   # 18:00 IST → Long video
+    - cron: "30 15 * * *"   # 21:00 IST → Short
+  workflow_dispatch:
+    inputs:
+      format:   { description: "Video format", type: choice, options: [short, long], default: short }
+      breaking: { description: "Breaking-news mode", type: boolean, default: false }
+      dry_run:  { description: "Render only, don't upload", type: boolean, default: false }
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: produce
+  cancel-in-progress: false
+
+jobs:
+  produce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GEMINI_API_KEY:      ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY:        ${{ secrets.GROQ_API_KEY }}
+      OPENROUTER_API_KEY:  ${{ secrets.OPENROUTER_API_KEY }}
+      PEXELS_API_KEY:      ${{ secrets.PEXELS_API_KEY }}
+      YT_CLIENT_ID:        ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET:    ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN:    ${{ secrets.YT_REFRESH_TOKEN }}
+      TELEGRAM_BOT_TOKEN:  ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID:    ${{ secrets.TELEGRAM_CHAT_ID }}
+      TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      DRY_RUN:             ${{ (inputs.dry_run || vars.MANUAL_UPLOAD == 'true') && '1' || '0' }}   # MANUAL_UPLOAD repo variable = render only, you upload in Studio
+      GH_TOKEN:            ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+
+      - name: Pick format
+        id: fmt
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "format=${{ inputs.format }}" >> "$GITHUB_OUTPUT"
+            echo "flags=${{ inputs.breaking && '--breaking' || '' }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "30 12 * * *" ]; then
+            echo "format=long" >> "$GITHUB_OUTPUT"
+          else
+            echo "format=short" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Footage fingerprint
+        id: fp
+        run: |
+          LIST=$(gh release view footage --json assets -q '.assets[].name' 2>/dev/null | sort || true)
+          echo "hash=$(echo "$LIST" | sha256sum | cut -c1-16)" >> "$GITHUB_OUTPUT"
+          echo "Footage clips in release: $(echo "$LIST" | grep -c . || true)"
+
+      - name: Cache footage library
+        uses: actions/cache@v4
+        with:
+          path: assets/footage
+          key: footage-${{ steps.fp.outputs.hash }}
+          restore-keys: footage-
+
+      - name: Download footage (your GTA 6 clips)
+        continue-on-error: true
+        run: gh release download footage -D assets/footage --skip-existing
+
+      - name: Run agents
+        run: python orchestrator.py produce --format ${{ steps.fmt.outputs.format }} ${{ steps.fmt.outputs.flags }}
+
+      - name: Keep rendered files (7 days)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-${{ steps.fmt.outputs.format }}-${{ github.run_id }}
+          path: output/latest/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Save agent memory
+        if: always()
+        run: bash scripts/commit_state.sh "produce ${{ steps.fmt.outputs.format }}"
+
+      - name: Alert on failure
+        if: failure()
+        run: bash scripts/report_failure.sh "Produce (${{ steps.fmt.outputs.format }})"

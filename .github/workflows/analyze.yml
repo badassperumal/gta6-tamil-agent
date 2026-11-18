@@ -1,0 +1,43 @@
+name: 📊 Analyst (learn & report)
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 06:30 IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY:       ${{ secrets.GROQ_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      YT_CLIENT_ID:       ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET:   ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN:   ${{ secrets.YT_REFRESH_TOKEN }}
+      GH_TOKEN:           ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -q -r requirements.txt
+      - name: Analyse channel & re-weight strategy
+        run: python orchestrator.py analyze
+      - name: Weekly report → GitHub Issue (Mondays)
+        if: success()
+        run: |
+          if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            gh label create weekly-report --color 0e8a16 2>/dev/null || true
+            gh issue create --title "📈 Weekly report $(date -u +%F)" --label weekly-report --body-file output/weekly_report.md
+          fi
+      - name: Save agent memory
+        if: always()
+        run: bash scripts/commit_state.sh "analyze"
+      - name: Alert on failure
+        if: failure()
+        run: bash scripts/report_failure.sh "Analyst"

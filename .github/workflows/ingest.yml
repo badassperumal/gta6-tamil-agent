@@ -1,0 +1,50 @@
+name: 🎮 Ingest gameplay footage
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+  workflow_dispatch:
+    inputs:
+      urls: { description: "YouTube links of your own gameplay (space or newline separated)", required: true }
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    if: github.event_name == 'workflow_dispatch' || (contains(github.event.issue.labels.*.name, 'footage') && github.event.issue.user.login == github.repository_owner)
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
+      YT_CLIENT_ID:     ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YTDLP_COOKIES:    ${{ secrets.YTDLP_COOKIES }}
+      GH_TOKEN:         ${{ github.token }}
+      INGEST_TEXT:      ${{ github.event_name == 'workflow_dispatch' && inputs.urls || github.event.issue.body }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - name: Acknowledge
+        if: github.event_name == 'issues'
+        run: gh issue comment ${{ github.event.issue.number }} --body "🎬 Got it — checking ownership, downloading and cutting clips… (≈5–15 min per video)"
+      - name: Download, cut, tag, upload
+        run: python orchestrator.py ingest
+      - name: Report back on the issue
+        if: always() && github.event_name == 'issues'
+        run: |
+          if [ -f output/ingest_report.md ]; then
+            gh issue comment ${{ github.event.issue.number }} --body-file output/ingest_report.md
+            grep -q "✅" output/ingest_report.md && gh issue close ${{ github.event.issue.number }} || true
+          else
+            gh issue comment ${{ github.event.issue.number }} --body "⚠️ Ingest failed — see ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
+      - name: Save agent memory
+        if: always()
+        run: bash scripts/commit_state.sh "ingest footage"

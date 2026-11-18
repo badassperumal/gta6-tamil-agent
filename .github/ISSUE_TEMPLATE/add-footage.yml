@@ -1,0 +1,19 @@
+name: 🎮 Add gameplay footage
+description: Paste YouTube links of YOUR OWN GTA 6 gameplay — the agent cuts & tags them into the clip library
+title: "Footage: "
+labels: ["footage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Upload your PS5 / Xbox recording to **your** YouTube channel (Unlisted is perfect), then paste the links below.
+        Links from other channels are rejected automatically.
+  - type: textarea
+    id: links
+    attributes:
+      label: YouTube links (one per line)
+      placeholder: |
+        https://youtu.be/XXXXXXXXXXX
+        https://www.youtube.com/watch?v=YYYYYYYYYYY
+    validations:
+      required: true
