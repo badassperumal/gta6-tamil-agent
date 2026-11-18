@@ -35,6 +35,18 @@
       "duration": 46.7,
       "published_at": "2026-11-18T20:31:04.858394+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261118-223936-short",
+      "video_id": null,
+      "title": "GTA 6 PC-ல கிடையாதா? 😭 Shocking News Tamil #Shorts",
+      "format": "short",
+      "pillar": "comparison",
+      "topic": "GTA 6 console launch vs PC wait comparison",
+      "hook": "ஹேய் மக்களே, GTA 6 இன்னைக்கு நவம்பர் 19, 2026ல அதிகாரப்பூர்வமா ரிலீஸ் ஆயிடுச்சு! ஆனா PC பிளேயர்ஸ்க்கு ஒரு செம்ம சோகமான ச",
+      "duration": 52.8,
+      "published_at": "2026-11-18T22:41:11.315640+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -43,7 +55,9 @@
     "df6f1795acb3",
     "5790ec7eb9ef",
     "f3242f02bc0b",
-    "b326ac5c0d38"
+    "b326ac5c0d38",
+    "4b3df8eb6304",
+    "9c10f58e6e78"
   ],
   "breaking_days": {
     "2026-11-18": 1
