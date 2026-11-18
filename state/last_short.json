@@ -1,107 +1,106 @@
 {
   "plan": {
-    "pillar": "secrets",
-    "topic": "Top hidden Easter eggs and secret locations in GTA 6",
-    "story_key": "b7ef61cec16c",
-    "angle": "Reveal the most mind‑blowing Easter eggs we uncovered in 70 hours of GTA 6 – the secrets every Tamil gamer must see before launch",
-    "working_title": "GTA 6 ரகசியங்கள்! 70 மணித்தியாலங்களில் கண்ட 5 பெரிய Easter Eggs | GTA 6 Secrets Tamil",
-    "hook_line": "நீங்கள் GTA 6‑ல் இப்போதே தெரியாத 5 பெரிய ரகசியங்களை கண்டறியத் தயாரா?",
+    "pillar": "news",
+    "topic": "GTA 6 massive map and future content teased by Rockstar",
+    "story_key": "df6f1795acb3",
+    "angle": "Rockstar hints that the massive GTA 6 map in Leonida and Vice City has saved room for future content updates.",
+    "working_title": "GTA 6 Map இவ்வளவு பெருசா? Future-க்கு வேற என்ன இருக்கு! #Shorts",
+    "hook_line": "GTA 6-ன் பிரம்மாண்டமான மேப் பத்தி ராக்ஸ்டார் சொன்ன செம அப்டேட் தெரியுமா?",
     "footage_tags": [
-      "GTA 6",
-      "Easter eggs",
-      "hidden locations",
-      "Leonida map",
-      "Jason Lucia",
-      "gameplay footage"
+      "GTA 6 map",
+      "Vice City",
+      "Leonida",
+      "Rockstar Games logo"
     ],
     "facts": [
-      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "The game is set in the state of Leonida, which includes Vice City.",
-      "The two main characters are Jason and Lucia.",
-      "The reviewer played GTA 6 for 70 hours and Rockstar personally answered every criticism."
+      "Rockstar hints massive 'GTA 6' map saved room for future content.",
+      "GTA 6 is set in the state of Leonida, which includes Vice City.",
+      "The game releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE5qREl2YnhEb0x1clNTNU9LZGxsOUpEUUV2d003eXRYcVhRZ3dfbXZQYTZHV1JCQVc5b2doMEZNN1VFVmZjU2cwWEFhaVF3ejdDQXBXOG11Zzh0endKYU16SG13U3RxVXplWFBwOTMxaVdhUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE5qREl2YnhEb0x1clNTNU9LZGxsOUpEUUV2d003eXRYcVhRZ3dfbXZQYTZHV1JCQVc5b2doMEZNN1VFVmZjU2cwWEFhaVF3ejdDQXBXOG11Zzh0endKYU16SG13U3RxVXplWFBwOTMxaVdhUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE5qREl2YnhEb0x1clNTNU9LZGxsOUpEUUV2d003eXRYcVhRZ3dfbXZQYTZHV1JCQVc5b2doMEZNN1VFVmZjU2cwWEFhaVF3ejdDQXBXOG11Zzh0endKYU16SG13U3RxVXplWFBwOTMxaVdhUQ?oc=5"
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2VRMGhHMzg1OTZBN2hRYkstdmR0c2ZFN21KZkVzVExVZ1M4bzRSTFZ1bmxfOG5xaW9OUXhVa244dkJrbVctM19UYXh3ZW1INmJySHN0OXdGRFRBR2pERXpjYWpOdzlqc2NNQUZoamlFSkJqcHROVlJ6N3ZSQXVJZ0Zn?oc=5"
     ],
-    "why": "With launch just one day away, Tamil gamers are searching for secret tips; a secrets video backed by a 70‑hour review promises high CTR and watch time.",
+    "why": "With launch day tomorrow (19 November 2026), fans are extremely hyped about the map size and future updates, making this official Rockstar hint a high-CTR news short for Tamil gamers.",
     "format": "short",
     "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "⚠️ ஸ்பாய்லர் எச்சரிக்கை! நீங்கள் GTA 6‑ல் இப்போதே தெரியாத 5 பெரிய ரகசியங்களை கண்டறியத் தயாரா? இந்த ரகசியங்கள் உங்கள் gameplay-ஐ Level up பண்ணும்!",
-        "visual": "spoiler warning, hook, gta6 teaser",
-        "onscreen": "ஸ்பாய்லர்!",
+        "narration": "GTA 6-ன் பிரம்மாண்டமான மேப் பத்தி ராக்ஸ்டார் சொன்ன செம அப்டேட் தெரியுமா?",
+        "visual": "map overview vice city",
+        "onscreen": "MASSIVE MAP",
         "start": 0.0,
-        "end": 10.786
+        "end": 5.674
       },
       {
-        "narration": "நான் 70 மணி நேரம் விளையாடி, Rockstar-ன் ஒவ்வொரு குறைபாட்டையும் நேரில் பதிலளித்தார்கள், அது நம்மை hidden Easter eggs-ஐ தேட ஊக்குவித்தது, அதனால் நாம் முழு world explore செய்யலாம்.",
-        "visual": "70 hours gameplay, rockstar response, easter egg hunt",
-        "onscreen": "70 மணி",
-        "start": 10.786,
-        "end": 22.532
+        "narration": "Leonida ஸ்டேட்ல இருக்க இந்த செம மேப்ல, பின்னாடி வர போற content updates-க்குனு பிரத்யேகமா இடம் விட்டுருக்காங்களாம்.",
+        "visual": "leonida countryside aerial",
+        "onscreen": "Future Updates",
+        "start": 5.674,
+        "end": 12.812
       },
       {
-        "narration": "Leonida மாநிலத்தின் விரிவான map-ல், Vice City-யின் புதிதாக சேர்க்கப்பட்ட இடங்களை கண்டறியலாம், அவை பல ரகசிய missions-க்கு வழி காட்டும்.",
-        "visual": "leonida map, vice city hidden, new locations",
-        "onscreen": "Leonida",
-        "start": 22.532,
-        "end": 30.822
+        "narration": "அதாவது Vice City மட்டும் இல்லாம, சுத்துப்பட்டு இருக்க எல்லா இடங்களையும் gta online போல மாத்த திட்டமாம்.",
+        "visual": "beach vice city",
+        "onscreen": "Vice City",
+        "start": 12.812,
+        "end": 20.358
       },
       {
-        "narration": "Jason மற்றும் Lucia இருவரின் கதாபாத்திரம், அவர்களின் தனித்துவமான missions-ல் புதிய ரகசியங்களை வெளிப்படுத்தும், ஒவ்வொரு choice-லும் story-ஐ மாற்றும்.",
-        "visual": "jason lucia, character missions, story choice",
+        "narration": "Jason கூட சேர்ந்து இந்த பிரம்மாண்டமான world-ஐ explore பண்ண நாமும் தயாராகிட்டு இருக்கோம்.",
+        "visual": "jason lucia trailer",
         "onscreen": "Jason & Lucia",
-        "start": 30.822,
-        "end": 39.232
+        "start": 20.358,
+        "end": 26.128
       },
       {
-        "narration": "இவை எல்லாம் launch-க்கு முன்னரே, உங்கள் கேமிங் அனுபவத்தை மாறி விடும், ஆனா இதைத் தவறவிடாதீங்க!",
-        "visual": "launch hype, gaming experience, secret reveal",
-        "onscreen": "Launch!",
-        "start": 39.232,
-        "end": 45.41
+        "narration": "வரும் November 19, 2026-ல PS5 மற்றும் Xbox Series X|S-ல game அதிகாரப்பூர்வமா ரிலீஸ் ஆகுது.",
+        "visual": "ps5 xbox console",
+        "onscreen": "Nov 19, 2026",
+        "start": 26.128,
+        "end": 35.042
       },
       {
-        "narration": "மேலும் ரகசியங்கள் இருக்கலாம், மீண்டும் பார்க்குங்க! இதை share பண்ணி, நண்பர்களை surprise பண்ணுங்க! Subscribe பண்ணுங்க",
-        "visual": "replay loop, share, subscribe",
-        "onscreen": "Subscribe!",
-        "start": 45.41,
-        "end": 54.732
+        "narration": "PC-க்கு இப்போதைக்கு launch கிடையாது, அது ஒரு theory தான்.",
+        "visual": "pc gaming setup",
+        "onscreen": "No PC at Launch",
+        "start": 35.042,
+        "end": 38.916
+      },
+      {
+        "narration": "இந்த giant map-ல எந்த city-ல first mission பண்ண போறீங்க? Subscribe பண்ணுங்க!",
+        "visual": "car chase night",
+        "onscreen": "Subscribe பண்ணுங்க",
+        "start": 38.916,
+        "end": 44.398
       }
     ],
-    "thumbnail_text": "GTA6 SECRETS",
-    "end_question": "உங்களுக்கு பிடித்த Easter egg எது?",
-    "word_count": 99
+    "thumbnail_text": "GTA 6 MASSIVE MAP",
+    "end_question": "இந்த பிரம்மாண்டமான மேப்ல நீங்க First எங்கு போக போறீங்க?",
+    "word_count": 81
   },
   "meta": {
-    "title": "GTA 6 ரகசியங்கள்! 70 மணித்தியாலங்களில் கண்ட 5 பெரிய Easter Eggs | #Shorts",
-    "description": "GTA 6 Tamil ரகசியங்கள் – 70 மணித்தியாலங்களில் கண்ட 5 பெரிய Easter Eggs!\nஇந்த வீடியோவில் GTA 6-இன் மறைக்கப்பட்ட ரகசியங்களை முழுமையாக வெளிப்படுத்துகிறோம்!\nநான் 70 மணி நேரம் விளையாடி, Rockstar-ன் ஒவ்வொரு குறைபாட்டையும் கண்டறிந்தேன்.\nLeonida மாநிலம், Vice City புதிய இடங்கள் மற்றும் கதாபாத்திர மிஷன்களில் உள்ள மறைமுகங்கள்.\nஒவ்வொரு தேர்வும் ஸ்டோரியை மாற்றும், உங்கள் gameplay-ஐ Level up செய்யும்.\nஇப்போது பார்த்து, உங்கள் நண்பர்களை surprise பண்ணுங்கள்!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு பிடித்த Easter egg எது?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Tamil-ல் Massive Map ரகசியம்? 🎮 #Shorts",
+    "description": "GTA 6 Tamil-ல் புதிய Massive Map ரகசியம்! 🎮\nRelease date, cities, மற்றும் online போல map details இங்கே!\nஇந்த மேப் Vice City மட்டும் அல்ல, பல நகரங்களை கொண்டுள்ளது.\nநவம்பர் 19, 2026-ல் PS5 & Xbox Series X|S-ல் அதிகாரப்பூர்வ ரிலீஸ்.\nPC ல் லான்ச் இன்னும் theory மட்டுமே, எதிர்கால content updates-க்கு இடம் வைத்திருக்கிறது.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த பிரம்மாண்டமான மேப்ல நீங்க First எங்கு போக போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "gta 6 tamil",
-      "gta6 secrets",
-      "gta 6 easter eggs",
-      "tamil gaming",
-      "gta 6 tamil tips",
-      "gta6 tamil gameplay",
-      "gta 6 hidden missions",
-      "gta6 tamil easteregg",
-      "rockstar games",
-      "gta 6 map secrets",
-      "tamil gamers",
-      "gta6 tamil guide",
-      "gta 6 leaks tamil",
-      "gta 6 tamil walkthrough",
-      "gta6 tamil tips",
-      "gta 6 tamil easter eggs",
-      "gta 6 tamil secrets",
-      "gta6 tamil reveal",
-      "gta6 tamil 2024",
-      "tamil gta 6",
+      "GTA 6 Tamil",
+      "GTA 6 map",
+      "GTA 6 massive map",
+      "GTA 6 release date",
+      "GTA 6 Tamil news",
+      "Tamil gaming",
+      "GTA 6 update",
+      "GTA 6 secrets",
+      "GTA 6 Tamil shorts",
+      "GTA 6 PS5",
+      "GTA 6 Xbox",
+      "GTA 6 November 2026",
+      "GTA 6 online map",
+      "GTA 6 Leonida",
+      "GTA 6 Jason",
+      "GTA 6 Tamil gameplay",
+      "GTA 6 Tamil guide",
       "GTA 6",
       "GTA VI"
     ]
