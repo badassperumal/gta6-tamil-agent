@@ -1,100 +1,106 @@
 {
   "plan": {
-    "pillar": "comparison",
-    "topic": "GTA 6 console launch vs PC wait comparison",
-    "story_key": "4b3df8eb6304",
-    "angle": "Discussing the pain of PC players waiting for GTA 6 while PS5 and Xbox Series X|S players get to play right now on November 19, 2026",
-    "working_title": "GTA 6 PC-ல வரலையா? 😭 PS5 vs PC நிலைமை என்ன! #Shorts",
-    "hook_title": "GTA 6 PC-ல வரலையா? 😭 PS5 vs PC நிலமை என்ன! #Shorts",
-    "hook_line": "ப்ளேஸ்டேஷன்ல GTA 6 வந்துடுச்சு... ஆனா PC பிளேயர்ஸ் நிலைமை ரொம்ப மோசம்!",
+    "pillar": "news",
+    "topic": "GTA 6 critical acclaim review roundup",
+    "story_key": "33c7ccaddad4",
+    "angle": "Critics hail GTA 6 as an extraordinary masterpiece and virtual world upon release",
+    "working_title": "GTA 6 ரிலீஸ் ஆச்சு! உலக விமர்சகர்கள் சொல்வது என்ன? 🎮 #Shorts",
+    "hook_line": "GTA 6 வெளிவந்துவிட்டது! உலகெங்கிலும் உள்ள விமர்சகர்கள் இதைப் பற்றி என்ன சொல்கிறார்கள் தெரியுமா?",
     "footage_tags": [
-      "PS5 console",
-      "PC gaming setup",
-      "Grand Theft Auto VI logo",
-      "Vice City"
+      "gta 6 launch day",
+      "vice city gameplay",
+      "jason and lucia",
+      "ps5 xbox series x"
     ],
     "facts": [
-      "GTA 6 releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "There is no PC version at launch."
+      "GTA 6 by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
+      "Critics hail Grand Theft Auto VI as a masterwork and the most extraordinary virtual world.",
+      "The game is set in the state of Leonida, which includes Vice City."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEExYWlHM0hhQnRRajVtNnViRUpOMHJlZjFucEJsNVlnbFlPeVlRV3hXRkdwWVR2dUlLdVRSeVM2U1BXOVpZMGUtZ0JnQmhNNkg1LUpJNFZ1YkRCVEhBRU43Wk5aYUh0Zzg3OGpFQUVvVkZjUGxXZVJ6T1VRMUFzQ25LeUhxbGEyN0FpbG9XeGstYzh2bDN6V3NRMA?oc=5"
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEpENXdfS1UtRWFLQzVhd2pUTnlfZG5HZlN4Mk5RaHdVTk5nUlBuUTVFQ3dLeU8tMklDZktOODZsRFgzRUlzM21kNXJ0VGdzSlJld0RkaUhWWlpuVFdySVZibElTeWdid1FzbThSRzlpVmdQQ01xZklsN2lWTnhPZTdpOFZPblBhNlkzNzNHTWpfdEJNZWNWWFZn?oc=5"
     ],
-    "why": "With launch day here (Nov 19, 2026), addressing the lack of a PC version versus PS5/Xbox Series X|S availability directly taps into massive community frustration and search interest from PC gamers in Tamil Nadu and worldwide.",
+    "why": "Capitalizes on launch day hype with critical acclaim news while strictly adhering to real-time facts and avoiding pre-launch speculation.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "ஹேய் மக்களே, GTA 6 இன்னைக்கு நவம்பர் 19, 2026ல அதிகாரப்பூர்வமா ரிலீஸ் ஆயிடுச்சு! ஆனா PC பிளேயர்ஸ்க்கு ஒரு செம்ம சோகமான செய்தி.",
-        "visual": "PS5 console launch party Vice City",
-        "onscreen": "GTA 6 IS HERE!",
+        "narration": "மச்சான்ஸ், GTA 6 இன்னைக்கு ரிலீஸ் ஆச்சு! உலகத்துல உள்ள எல்லா கிரிட்டிக்ஸும் இதை ஒரு மாஸ்டர்வொர்க்னு கொண்டாடுறாங்க.",
+        "visual": "GTA 6 release celebration Vice City neon",
+        "onscreen": "GTA 6 OUT NOW!",
         "start": 0.0,
-        "end": 11.842
+        "end": 8.938
       },
       {
-        "narration": "Rockstar Games நிறுவனத்தலிருந்து PS5 மற்றும் Xbox Series X|S-க்கு மட்டும் தான் இன்னைக்கு இந்த கேம் வந்துருக்கு.",
-        "visual": "PlayStation 5 and Xbox Series X",
-        "onscreen": "PS5 & Xbox Only",
-        "start": 11.842,
-        "end": 19.292
+        "narration": "இந்த கேம் பத்தி ரிவ்யூஸ்ல என்ன சொல்றாங்கன்னா, இதுவரைக்கும் எந்த ஒரு ஓபன் வேர்ல்டு கேமும் இந்த அளவுக்கு கிராபிக்ஸ் கொடுத்தது இல்லையாம்.",
+        "visual": "Lucia Jason walking Leonida highway",
+        "onscreen": "Masterwork World",
+        "start": 8.938,
+        "end": 17.42
       },
       {
-        "narration": "Leonida மேப்ல Jason, Lucia கூட ஜாலியா மிஷன் பண்ணலாம்னு நம்ம Console நண்பர்கள் செம்ம மாஸா இறங்கிட்டாங்க.",
-        "visual": "Jason and Lucia Vice City gameplay",
-        "onscreen": "Leonida map action",
-        "start": 19.292,
-        "end": 26.982
+        "narration": "Rockstar Games பண்ணியிருக்கிற இந்த மேஜிக், பிளேஸ்டேஷன் 5 மற்றும் எக்ஸ்பாக்ஸ் சீரிஸ் எக்ஸ், எஸ்ல பயங்கரமா ஒர்க் அவுட் ஆகியிருக்கு.",
+        "visual": "PS5 Xbox Series X gameplay",
+        "onscreen": "Next Gen Magic",
+        "start": 17.42,
+        "end": 26.046
       },
       {
-        "narration": "ஆனா PC-ல விளையாடலாம்னு காத்திருந்த நம்ம பசங்களுக்குத் தான் இது மிகப்பெரிய ஏமாற்றம். ஏன்னா லான்ச் டைம்ல PC வெர்ஷன் கிடையாதுன்னு சொல்லிட்டாங்க.",
-        "visual": "sad gamer looking at PC monitor",
-        "onscreen": "No PC Version",
-        "start": 26.982,
-        "end": 36.76
+        "narration": "Leonida ஸ்டேட் அண்ட் நம்ம ஃபேவரைட் Vice City-யோட டீட்டெய்லிங் வேற லெவல்ல இருக்குன்னு எல்லா கேமிங் சைட்ஸும் அடிச்சு சொல்றாங்க.",
+        "visual": "Vice City beach sunset aerial",
+        "onscreen": "Stunning Leonida",
+        "start": 26.046,
+        "end": 33.448
       },
       {
-        "narration": "கான்சோல் வச்சிருக்கிறவங்க வைஸ் சிட்டி ரோடுல கெத்தா கார் ஓட்ட போறாங்க, நம்ம PC பிளேயர்ஸ் மட்டும் இன்னும் எவ்வளோ நாள் வெயிட் பண்ணனும்னு தெரியல.",
-        "visual": "fast sports car driving night",
-        "onscreen": "The Painful Wait",
-        "start": 36.76,
-        "end": 46.106
+        "narration": "Jason அண்ட் Lucia-வோட ஸ்டோரி லைன் நம்மள அப்படியே சீட் நுனிக்கே கொண்டு வந்துடுதுன்னு வேற லெவல் பிரைஸ் பண்றாங்க.",
+        "visual": "Jason Lucia action scene",
+        "onscreen": "Epic Story",
+        "start": 33.448,
+        "end": 40.154
       },
       {
-        "narration": "உங்ககிட்ட PS5 இல்ல PC இருக்கா? கமெண்ட்ல சொல்லுங்க. மறக்காம Subscribe பண்ணுங்க.",
-        "visual": "gaming setup neon lights",
-        "onscreen": "Subscribe pannunga",
-        "start": 46.106,
-        "end": 52.764
+        "narration": "PC வெர்ஷன் இப்போதைக்கு இல்லன்னாலும், கன்சோல் பிளேயர்ஸ்க்கு இது ஒரு மறக்க முடியாத கேமிங் எக்ஸ்பீரியன்ஸ்.",
+        "visual": "controller in hands gaming setup",
+        "onscreen": "Console Masterpiece",
+        "start": 40.154,
+        "end": 47.124
+      },
+      {
+        "narration": "இந்த பிரம்மாண்டமான உலகத்துல நீங்க ஃபர்ஸ்ட் எந்த car-ல போவீங்க? மறக்காம Subscribe பண்ணுங்க!",
+        "visual": "fast sports car driving night city",
+        "onscreen": "Subscribe பண்ணுங்க",
+        "start": 47.124,
+        "end": 53.95
       }
     ],
-    "thumbnail_text": "GTA 6 PC PAIN",
-    "end_question": "உங்ககிட்ட எந்த gaming console இருக்கு?",
-    "word_count": 92
+    "thumbnail_text": "GTA 6 REVIEWS OUT",
+    "end_question": "நீங்க ஃபர்ஸ்ட் எந்த car எடுப்பீங்க?",
+    "word_count": 101
   },
   "meta": {
-    "title": "GTA 6 PC-ல கிடையாதா? 😭 Shocking News Tamil #Shorts",
-    "description": "GTA 6 ரிலீஸ் பத்தின ஒரு ஷாக்கிங் நியூஸ் என்னன்னு இந்த வீடியோல பாக்க போறோம். நவம்பர் 19, 2026ல வந்த இந்த கேம் PS5 மற்றும் Xbox Series X|S-க்கு மட்டும் தான் வந்துருக்கு. PC பிளேயர்ஸுக்கு மிகப்பெரிய ஏமாற்றம் கிடைச்சிருக்கு. உங்ககிட்ட PS5 இருக்கா இல்ல PC இருக்கான்னு கமெண்ட்ல சொல்லுங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்ககிட்ட எந்த gaming console இருக்கு?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 ரிலீஸ்! உலகமே கொண்டாடும் மாஸ்டர்வொர்க் ரிவ்யூ #Shorts",
+    "description": "மச்சான்ஸ், GTA 6 இன்னைக்கு ரிலீஸ் ஆச்சு! உலகத்துல உள்ள எல்லா கிரிட்டிக்ஸும் இதை ஒரு மாஸ்டர்வொர்க்னு கொண்டாடுறாங்க.\n\nRockstar Games பண்ணியிருக்கிற இந்த மேஜிக், கிராபிக்ஸ் மற்றும் వైஸ் சிட்டி டீட்டெய்லிங் பத்தி ரிவ்யூஸ்ல என்ன சொல்றாங்கனு இந்த ஷார்ட்ஸ்ல பாருங்க. Jason அண்ட் Lucia-வோட ஸ்டோரி லைன் எப்படி இருக்குனு தெரிஞ்சிக்க உடனே பாருங்க!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க ஃபர்ஸ்ட் எந்த car எடுப்பீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 pc release date",
-      "gta 6 ps5 tamil",
-      "gta 6 gameplay tamil",
+      "gta 6 review tamil",
       "gta 6 news tamil",
-      "gta 6 pc version",
+      "gta 6 release tamil",
+      "gta 6 gameplay tamil",
       "rockstar games tamil",
-      "gta 6 tamil gaming",
-      "gta 6 updates tamil",
+      "vice city tamil",
+      "gta 6 ps5 tamil",
+      "gta 6 story tamil",
+      "gta 6 update tamil",
+      "gta tamil",
+      "tamil gaming",
+      "gaming news tamil",
       "gta vi tamil",
-      "gta 6 launch tamil",
-      "gta 6 console tamil",
       "gta 6 shorts tamil",
-      "gaming tamil",
-      "gta 6 trailer tamil",
       "GTA 6",
-      "GTA VI",
-      "Tamil Gaming"
+      "GTA VI"
     ]
   }
 }

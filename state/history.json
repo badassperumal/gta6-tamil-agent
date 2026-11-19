@@ -47,6 +47,18 @@
       "duration": 52.8,
       "published_at": "2026-11-18T22:41:11.315640+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261119-113624-short",
+      "video_id": null,
+      "title": "GTA 6 ரிலீஸ்! உலகமே கொண்டாடும் மாஸ்டர்வொர்க் ரிவ்யூ #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 critical acclaim review roundup",
+      "hook": "மச்சான்ஸ், GTA 6 இன்னைக்கு ரிலீஸ் ஆச்சு! உலகத்துல உள்ள எல்லா கிரிட்டிக்ஸும் இதை ஒரு மாஸ்டர்வொர்க்னு கொண்டாடுறாங்க.",
+      "duration": 54.0,
+      "published_at": "2026-11-19T11:39:55.487520+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -57,9 +69,12 @@
     "f3242f02bc0b",
     "b326ac5c0d38",
     "4b3df8eb6304",
-    "9c10f58e6e78"
+    "9c10f58e6e78",
+    "33c7ccaddad4",
+    "f7cdaf6281c7"
   ],
   "breaking_days": {
-    "2026-11-18": 1
+    "2026-11-18": 1,
+    "2026-11-19": 1
   }
 }
