@@ -71,6 +71,18 @@
       "duration": 42.0,
       "published_at": "2026-11-19T20:37:29.035159+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261119-224222-short",
+      "video_id": null,
+      "title": "GTA 6 செய்திகள் Tamil | Internet-ஐ அதிரவிட்ட சாதனை! #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 Launch Breaks Internet Records",
+      "hook": "GTA 6 ரிலீஸான முதல் சில மணி நேரத்துலயே Internet-ஐ அதிர வெச்ச சாதனை! 80 லட்சம் பேர் Live பாத்திருக்காங்க!",
+      "duration": 44.9,
+      "published_at": "2026-11-19T22:45:56.276778+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -85,7 +97,9 @@
     "33c7ccaddad4",
     "f7cdaf6281c7",
     "5bfea13947e1",
-    "f711a47d85cf"
+    "f711a47d85cf",
+    "cdbc23a039aa",
+    "df4b04e645cc"
   ],
   "breaking_days": {
     "2026-11-18": 1,

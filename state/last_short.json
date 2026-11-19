@@ -1,106 +1,107 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "GTA 6 Official Launch Day Release In Tamil",
-    "story_key": "5bfea13947e1",
-    "angle": "Celebrate the official launch day of GTA 6 on PS5 and Xbox Series X|S, highlighting that the game is finally out now to play.",
-    "working_title": "GTA 6 வந்தாச்சு! 🔥 Official Launch Day Update! #Shorts",
-    "hook_line": "ரசிகர்களின் நீண்ட காத்திருப்பு முடிவுக்கு வந்தது! GTA 6 அதிகாரப்பூர்வமா ரிலீஸ் ஆயிடுச்சு!",
+    "topic": "GTA 6 Launch Breaks Internet Records",
+    "story_key": "cdbc23a039aa",
+    "angle": "Highlighting how the launch of GTA 6 shattered global internet usage records with nearly 8 million livestream views in just the first hours.",
+    "working_title": "GTA 6 Launch-ல் முறிந்த உலக சாதனை! 8 Million Views! 💥 #Shorts",
+    "hook_line": "GTA 6 ரிலீஸான முதல் சில மணி நேரத்துலயே Internet-ஐ அதிர வெச்ச சாதனை! 80 லட்சம் பேர் Live பாத்திருக்காங்க!",
     "footage_tags": [
-      "gta 6 launch trailer",
-      "vice city",
-      "ps5",
-      "jason and lucia"
+      "GTA 6 release screen",
+      "Twitch livestream view counts",
+      "GTA 6 gameplay streaming",
+      "Vice City Jason Lucia driving"
     ],
     "facts": [
-      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "The game is set in the state of Leonida, which includes Vice City. The two main characters are Jason and Lucia.",
-      "There is no PC version at launch."
+      "GTA 6 launch broke internet usage records.",
+      "Livestreams hit nearly 8 million views on Twitch, YouTube and other platforms in the first hours of release.",
+      "Grand Theft Auto VI officially released on 19 November 2026 for PlayStation 5 and Xbox Series X|S."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMivgJBVV95cUxQaUNnMmRZcFRoTW41ZV9nZGJfT18wOE9FS25QVm1uUTJRdXRxTEZGdC1oRGNDdlhRMHJQWFJOLUlST3JwRU9zMXZqWV9DOHViQ3hmSjdJTjl6NlJuNjFES0duYlN5TUdBbmdod2k1akVNZnE0VXhfalN6bVUzQ3E0RGxTTnFsX1RJV3p3UTdTempLWGRpWEdDbVJzSjZlOVFJQUdMbXE1V3ZHVGh1WVVEVXVHcWZsblQ4X2E1SlE0cVFOREtoV0dieERZVUdDVmVxc1M4aHhkYnB5WEVZR2pQQVRvRHp1LWRzdXNGRG8tSW9MSGlxZ1UyZ0w3SEhaa0hzWVNYS2NGSnpDc0FFUy1vOW5JdmdLRFI1NGo2Z28xamE5VFBZSk5MbWY2W25OYW9XSGxiVVhBdEE0V2tyaGc?oc=5"
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxQd21HZXJfNEYzT01Zbm1uTmFmS0JmWTR3eW51OVJxRWVKS1hWeGU4QXBOX2pIcXdEdElrVjR5YVN5d0Y2el8zand6YjdTcGE2S2pfWmtucmRmUmprU015SWtHVDlwU1ZnVVBvM0k3LURiVDhkWWFmY2dRRkdqUS1zTTlOSWJWTkdOSi1PX25xN01OVTFKVlAyak5xeVBRUQ?oc=5"
     ],
-    "why": "Today is launch day (19 Nov 2026). Capitalizing on the biggest breaking news story of the year with a high-energy short will maximize immediate CTR and views from Tamil gamers.",
+    "why": "Massive launch day hype with record-breaking viewership stats delivers extreme virality and click-through among Tamil gaming audiences on day one.",
     "format": "short",
-    "breaking": true
+    "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "மச்சான்ஸ், பல வருஷ காத்திருப்பு முடிஞ்சுது! இன்னைக்கு GTA 6 அதிகாரப்பூர்வமா ரிலீஸ் ஆயிடுச்சு!",
-        "visual": "GTA 6 official launch day banner",
-        "onscreen": "GTA 6 OUT NOW! 🔥",
+        "narration": "GTA 6 ரிலீஸான முதல் சில மணி நேரத்துலயே Internet-ஐ அதிர வெச்ச சாதனை! 80 லட்சம் பேர் Live பாத்திருக்காங்க!",
+        "visual": "GTA 6 launch hype screen, vice city neon",
+        "onscreen": "8M LIVE VIEWS! 💥",
         "start": 0.0,
-        "end": 7.69
+        "end": 8.218
       },
       {
-        "narration": "Rockstar Games நம்மளை Leonida ஸ்டேட்ல இறக்கி விடுறாங்க, குறிப்பா செம கலக்கலான Vice City-ல!",
-        "visual": "Vice City neon night view",
-        "onscreen": "Welcome to Leonida",
-        "start": 7.69,
-        "end": 13.82
+        "narration": "இன்னைக்கு அதாவது நவம்பர் 19, 2026-ல Rockstar Games வெளியிட்ட GTA 6 உலகத்தையே ஒரு வழி பண்ணிருச்சு.",
+        "visual": "PlayStation 5 console, Rockstar Games logo",
+        "onscreen": "OUT TODAY!",
+        "start": 8.218,
+        "end": 17.348
       },
       {
-        "narration": "இந்த முறை நம்ம Jason மற்றும் Lucia கேரக்டர்ஸ் வச்சு செம்ம தரமான mission-கள பண்ணப் போறோம்.",
-        "visual": "Jason and Lucia gameplay trailer",
-        "onscreen": "Jason & Lucia",
-        "start": 13.82,
-        "end": 19.35
+        "narration": "Leonida ஸ்டேட்ல இருக்க Vice City-ல Jason மற்றும் Lucia ஜோடியோட வைப் வேற லெவல்ல இருக்குன்னு சொல்லிட்டு வராங்க.",
+        "visual": "Jason and Lucia beach scene, Leonida map",
+        "onscreen": "Leonida & Vice City",
+        "start": 17.348,
+        "end": 24.222
       },
       {
-        "narration": "இப்போதைக்கு PlayStation 5 மற்றும் Xbox Series X|S-ல மட்டும்தான் இந்த கேம் பிளே பண்ண முடியும்.",
-        "visual": "PS5 and Xbox consoles",
+        "narration": "Twitch மற்றும் YouTube-ல மட்டும் ஒரே நேரத்துல கிட்டத்தட்ட 8 million views தாண்டி internet records முறிஞ்சிருக்கு.",
+        "visual": "streaming platforms chart, view count spike",
+        "onscreen": "Records Broken!",
+        "start": 24.222,
+        "end": 30.568
+      },
+      {
+        "narration": "PlayStation 5 மற்றும் Xbox Series X|S-ல இந்த பிளாஸ்டிக் பொம்மை மாதிரி செதுக்கி இருக்காங்க, ஆனா PC-க்கு இப்போதைக்கு இல்லை.",
+        "visual": "PS5 controller gameplay, gorgeous graphics",
         "onscreen": "PS5 & Xbox Only",
-        "start": 19.35,
-        "end": 26.008
+        "start": 30.568,
+        "end": 38.882
       },
       {
-        "narration": "PC பிளேயர்ஸ்க்கு இப்போதைக்கு launch-ல version கிடையாது, கொஞ்சம் வெயிட் பண்ணனும் மச்சான்ஸ்.",
-        "visual": "sad gamer pc setup",
-        "onscreen": "No PC at Launch",
-        "start": 26.008,
-        "end": 31.514
+        "narration": "நீங்க எந்த console-ல இந்த epic mission-ஐ ட்ரை பண்ண போறீங்க?",
+        "visual": "Vice City night drive, car chase",
+        "onscreen": "Which console?",
+        "start": 38.882,
+        "end": 42.612
       },
       {
-        "narration": "இப்பவே உங்கள் console-கள ஆன் பண்ணி செம mass-ஆ விளையாட ஆரம்பிங்க.",
-        "visual": "controller in hand gaming",
-        "onscreen": "Play Now!",
-        "start": 31.514,
-        "end": 35.892
-      },
-      {
-        "narration": "நீங்க எந்த console-ல ஃபர்ஸ்ட் விளையாட போறீங்கனு கமெண்ட்ல சொல்லுங்க, அப்படியே Subscribe பண்ணுங்க!",
-        "visual": "gameplay action sequence",
-        "onscreen": "Subscribe பண்ணுங்க",
-        "start": 35.892,
-        "end": 41.974
+        "narration": "மறக்காம Subscribe பண்ணுங்க.",
+        "visual": "Subscribe button animation, gamer anna",
+        "onscreen": "Subscribe pannunga",
+        "start": 42.612,
+        "end": 44.902
       }
     ],
-    "thumbnail_text": "GTA 6 OUT NOW!",
-    "end_question": "நீங்க எந்த console-ல GTA 6 விளையாட போறீங்க?",
-    "word_count": 79
+    "thumbnail_text": "GTA 6 BREAKS INTERNET!",
+    "end_question": "நீங்க PS5-லா இல்ல Xbox-லா விளையாட போறீங்க?",
+    "word_count": 87
   },
   "meta": {
-    "title": "GTA 6 Released in Tamil! மாஸ் அப்டேட் #Shorts",
-    "description": "மச்சான்ஸ், பல வருஷ காத்திருப்பு முடிஞ்சுது! இன்னைக்கு GTA 6 அதிகாரப்பூர்வமா ரிலீஸ் ஆயிடுச்சு!\nRockstar Games நம்மளை Leonida ஸ்டேட்ல Vice City-ல இறக்கி விடுறாங்க. Jason மற்றும் Lucia கேரக்டர்ஸ் வச்சு செம்ம தரமான மிஷன்ஸ் பண்ணலாம். இப்போதைக்கு PS5 மற்றும் Xbox Series X|S-ல மட்டும் தான் விளையாட முடியும். பிசி பிளேயர்ஸ் கொஞ்சம் வெயிட் பண்ணனும்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க எந்த console-ல GTA 6 விளையாட போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 செய்திகள் Tamil | Internet-ஐ அதிரவிட்ட சாதனை! #Shorts",
+    "description": "GTA 6 ரிலீஸான முதல் சில மணி நேரத்துலயே internet-ஐ அதிர வெச்ச சாதனை பத்தி பாக்கலாம்.\n\nRockstar Games வெளியிட்ட GTA 6 உலகத்தையே ஒரு வழி பண்ணிருச்சு. Jason மற்றும் Lucia ஜோடியோட வைப் வேற லெவல்ல இருக்கு. Twitch மற்றும் YouTube-ல ஒரே நேரத்துல 80 லட்சம் பேர் Live பாத்து records முறிஞ்சிருக்கு.\n\nPlayStation 5 மற்றும் Xbox Series X|S-ல வந்திருக்கும் இந்த கேமை நீங்க எந்த console-ல ட்ரை பண்ண போறீங்க?\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க PS5-லா இல்ல Xbox-லா விளையாட போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 release tamil",
-      "gta 6 gameplay tamil",
-      "gta 6 vice city tamil",
-      "gta 6 ps5 tamil",
       "gta 6 news tamil",
-      "gta 6 update tamil",
+      "gta 6 release tamil",
+      "gta 6 updates tamil",
+      "gta 6 gameplay tamil",
+      "gta 6 trailer tamil",
+      "gta 6 vice city tamil",
       "rockstar games tamil",
-      "gta tamil",
-      "tamil gaming",
-      "gaming tamil",
-      "gta 6 jason lucia",
-      "gta 6 launch tamil",
-      "gta 6 shorts tamil",
-      "gta 6 facts tamil",
+      "gta 6 playstation 5",
+      "gta 6 xbox series x",
+      "gta 6 record tamil",
+      "tamil gaming channel",
+      "gta v tamil",
+      "gaming news tamil",
+      "gta 6 shorts",
       "GTA 6",
-      "GTA VI"
+      "GTA VI",
+      "Tamil Gaming"
     ]
   }
 }
