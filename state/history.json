@@ -59,6 +59,18 @@
       "duration": 54.0,
       "published_at": "2026-11-19T11:39:55.487520+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261119-203302-short",
+      "video_id": null,
+      "title": "GTA 6 Released in Tamil! மாஸ் அப்டேட் #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 Official Launch Day Release In Tamil",
+      "hook": "மச்சான்ஸ், பல வருஷ காத்திருப்பு முடிஞ்சுது! இன்னைக்கு GTA 6 அதிகாரப்பூர்வமா ரிலீஸ் ஆயிடுச்சு!",
+      "duration": 42.0,
+      "published_at": "2026-11-19T20:37:29.035159+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -71,10 +83,12 @@
     "4b3df8eb6304",
     "9c10f58e6e78",
     "33c7ccaddad4",
-    "f7cdaf6281c7"
+    "f7cdaf6281c7",
+    "5bfea13947e1",
+    "f711a47d85cf"
   ],
   "breaking_days": {
     "2026-11-18": 1,
-    "2026-11-19": 1
+    "2026-11-19": 2
   }
 }
