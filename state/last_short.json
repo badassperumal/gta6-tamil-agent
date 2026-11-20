@@ -1,104 +1,102 @@
 {
   "plan": {
-    "pillar": "news",
-    "topic": "GTA 6 Launch Breaks Internet Records",
-    "story_key": "cdbc23a039aa",
-    "angle": "Highlighting how the launch of GTA 6 shattered global internet usage records with nearly 8 million livestream views in just the first hours.",
-    "working_title": "GTA 6 Launch-ல் முறிந்த உலக சாதனை! 8 Million Views! 💥 #Shorts",
-    "hook_line": "GTA 6 ரிலீஸான முதல் சில மணி நேரத்துலயே Internet-ஐ அதிர வெச்ச சாதனை! 80 லட்சம் பேர் Live பாத்திருக்காங்க!",
+    "pillar": "tips",
+    "topic": "GTA 6 map and locked areas future options",
+    "story_key": "119f985b0c04",
+    "angle": "Highlight Rockstar's statement on locked casinos and unused map areas leaving options open for the future, exploring what it means for Tamil gamers exploring Leonida.",
+    "working_title": "GTA 6 Map-ல இந்த இடமெல்லாம் Locked-ஆ இருக்கா? 🗺️ Future-ல என்ன வரும்? #Shorts",
+    "hook_title": "",
+    "hook_line": "GTA 6 map-ல locked-ஆ இருக்கிற இடங்கள் பின்னாடி என்ன இருக்கு தெரியுமா?",
     "footage_tags": [
-      "GTA 6 release screen",
-      "Twitch livestream view counts",
-      "GTA 6 gameplay streaming",
-      "Vice City Jason Lucia driving"
+      "gta 6 map",
+      "vice city exploration",
+      "leonida map",
+      "locked areas"
     ],
     "facts": [
-      "GTA 6 launch broke internet usage records.",
-      "Livestreams hit nearly 8 million views on Twitch, YouTube and other platforms in the first hours of release.",
-      "Grand Theft Auto VI officially released on 19 November 2026 for PlayStation 5 and Xbox Series X|S."
+      "Rockstar says GTA 6's locked casinos and unused map areas leave \"options in the future\"."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxQd21HZXJfNEYzT01Zbm1uTmFmS0JmWTR3eW51OVJxRWVKS1hWeGU4QXBOX2pIcXdEdElrVjR5YVN5d0Y2el8zand6YjdTcGE2S2pfWmtucmRmUmprU015SWtHVDlwU1ZnVVBvM0k3LURiVDhkWWFmY2dRRkdqUS1zTTlOSWJWTkdOSi1PX25xN01OVTFKVlAyak5xeVBRUQ?oc=5"
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSUlWMVpvLVVyVkZmYUpRTDVoZDU3RGZDOHI4MjJueTdBcnNqanRMa3p0NTcwMW04dklFZTNwRHRwNV8taW9jcUNFMnJCQnVLMVN3bjdMcXB6bjlsLTBVandWQmhfR3ZXR0Z0TG9hbDY5bzJCMXgtanJmdTlXS1ZZTEV5Sm15UUpEVDNUYWJ0SzBkNWI5UzgtRmpVakZCbFRFWE55dDFHbElZWUhaQktQYjFsd3psT3NUVFUtNk5ydkF6cG5zcVFiMjJR?oc=5"
     ],
-    "why": "Massive launch day hype with record-breaking viewership stats delivers extreme virality and click-through among Tamil gaming audiences on day one.",
+    "why": "Focuses on the trending news about locked map areas and future options, fitting the tips/exploration pillar while providing an engaging Short for Tamil gamers.",
     "format": "short",
     "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "GTA 6 ரிலீஸான முதல் சில மணி நேரத்துலயே Internet-ஐ அதிர வெச்ச சாதனை! 80 லட்சம் பேர் Live பாத்திருக்காங்க!",
-        "visual": "GTA 6 launch hype screen, vice city neon",
-        "onscreen": "8M LIVE VIEWS! 💥",
+        "narration": "GTA 6 map-ல சில இடங்களும் casinos-ம் locked-ஆ இருக்கே, அதுக்கு பின்னாடி என்ன இருக்கு தெரியுமா?",
+        "visual": "vice city map overview",
+        "onscreen": "Locked Map Areas!",
         "start": 0.0,
-        "end": 8.218
+        "end": 5.89
       },
       {
-        "narration": "இன்னைக்கு அதாவது நவம்பர் 19, 2026-ல Rockstar Games வெளியிட்ட GTA 6 உலகத்தையே ஒரு வழி பண்ணிருச்சு.",
-        "visual": "PlayStation 5 console, Rockstar Games logo",
-        "onscreen": "OUT TODAY!",
-        "start": 8.218,
-        "end": 17.348
+        "narration": "Leonida map-ல இந்த மாதிரி பூட்டப்பட்ட இடங்கள் பத்தி Rockstar செம்மயான ஒரு update குடுத்திருக்காங்க.",
+        "visual": "jason lucia walking street",
+        "onscreen": "Rockstar Update",
+        "start": 5.89,
+        "end": 12.14
       },
       {
-        "narration": "Leonida ஸ்டேட்ல இருக்க Vice City-ல Jason மற்றும் Lucia ஜோடியோட வைப் வேற லெவல்ல இருக்குன்னு சொல்லிட்டு வராங்க.",
-        "visual": "Jason and Lucia beach scene, Leonida map",
-        "onscreen": "Leonida & Vice City",
-        "start": 17.348,
-        "end": 24.222
+        "narration": "இந்த unused map areas எல்லாமே future-ல வரப்போற updates-க்காக வச்சிருக்காங்களாம்.",
+        "visual": "casino exterior night neon",
+        "onscreen": "Future Updates",
+        "start": 12.14,
+        "end": 16.83
       },
       {
-        "narration": "Twitch மற்றும் YouTube-ல மட்டும் ஒரே நேரத்துல கிட்டத்தட்ட 8 million views தாண்டி internet records முறிஞ்சிருக்கு.",
-        "visual": "streaming platforms chart, view count spike",
-        "onscreen": "Records Broken!",
-        "start": 24.222,
-        "end": 30.568
+        "narration": "அதாவது நாங்க நினைக்கிறதுக்கு மேலயே இவங்க ஏதோ plan பண்ணி வச்சிருக்காங்க நண்பா.",
+        "visual": "leonida countryside highway",
+        "onscreen": "Big Plans",
+        "start": 16.83,
+        "end": 22.336
       },
       {
-        "narration": "PlayStation 5 மற்றும் Xbox Series X|S-ல இந்த பிளாஸ்டிக் பொம்மை மாதிரி செதுக்கி இருக்காங்க, ஆனா PC-க்கு இப்போதைக்கு இல்லை.",
-        "visual": "PS5 controller gameplay, gorgeous graphics",
-        "onscreen": "PS5 & Xbox Only",
-        "start": 30.568,
-        "end": 38.882
+        "narration": "Jason மற்றும் Lucia வச்சு இந்த locked areas-ல புது missions வரதுக்கு நிறைய chance இருக்கு.",
+        "visual": "lucia driving fast car",
+        "onscreen": "New Missions",
+        "start": 22.336,
+        "end": 27.674
       },
       {
-        "narration": "நீங்க எந்த console-ல இந்த epic mission-ஐ ட்ரை பண்ண போறீங்க?",
-        "visual": "Vice City night drive, car chase",
-        "onscreen": "Which console?",
-        "start": 38.882,
-        "end": 42.612
+        "narration": "இது உண்மையாவே Tamil gamers ஆகிய நமக்கு செம்ம treat-ஆ இருக்க போகுது.",
+        "visual": "vice city beach sunset",
+        "onscreen": "Tamil Gamers Hype",
+        "start": 27.674,
+        "end": 32.508
       },
       {
-        "narration": "மறக்காம Subscribe பண்ணுங்க.",
-        "visual": "Subscribe button animation, gamer anna",
-        "onscreen": "Subscribe pannunga",
-        "start": 42.612,
-        "end": 44.902
+        "narration": "இந்த map secrets பத்தி நீங்க என்ன நினைக்கிறீங்க, Subscribe பண்ணுங்க.",
+        "visual": "character looking at city",
+        "onscreen": "Subscribe பண்ணுங்க",
+        "start": 32.508,
+        "end": 37.39
       }
     ],
-    "thumbnail_text": "GTA 6 BREAKS INTERNET!",
-    "end_question": "நீங்க PS5-லா இல்ல Xbox-லா விளையாட போறீங்க?",
-    "word_count": 87
+    "thumbnail_text": "LOCKED MAP SECRETS",
+    "end_question": "GTA 6 map-ல எந்த இடத்தை நீங்க ஃபர்ஸ்ட் explore பண்ணுவீங்க?",
+    "word_count": 76
   },
   "meta": {
-    "title": "GTA 6 செய்திகள் Tamil | Internet-ஐ அதிரவிட்ட சாதனை! #Shorts",
-    "description": "GTA 6 ரிலீஸான முதல் சில மணி நேரத்துலயே internet-ஐ அதிர வெச்ச சாதனை பத்தி பாக்கலாம்.\n\nRockstar Games வெளியிட்ட GTA 6 உலகத்தையே ஒரு வழி பண்ணிருச்சு. Jason மற்றும் Lucia ஜோடியோட வைப் வேற லெவல்ல இருக்கு. Twitch மற்றும் YouTube-ல ஒரே நேரத்துல 80 லட்சம் பேர் Live பாத்து records முறிஞ்சிருக்கு.\n\nPlayStation 5 மற்றும் Xbox Series X|S-ல வந்திருக்கும் இந்த கேமை நீங்க எந்த console-ல ட்ரை பண்ண போறீங்க?\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க PS5-லா இல்ல Xbox-லா விளையாட போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Locked Map Secrets Tamil - என்ன இருக்கு தெரியுமா? #Shorts",
+    "description": "GTA 6 map-ல locked-ஆ இருக்கிற இடங்கள் பத்தி Rockstar என்ன update குடுத்திருக்காங்கன்னு பாருங்க.\nLeonida map-ல பூட்டப்பட்ட இந்த unused areas பத்தி இந்த ஷார்ட்ஸ்ல பாக்கலாம் நண்பா.\nRockstar இந்த locked areas-ல Jason மற்றும் Lucia வச்சு புது missions கொண்டு வர வாய்ப்பு இருக்கு.\nஇந்த map secrets பத்தி நீங்க என்ன நினைக்கிறீங்கனு கமெண்ட் பண்ணுங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 GTA 6 map-ல எந்த இடத்தை நீங்க ஃபர்ஸ்ட் explore பண்ணுவீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 news tamil",
-      "gta 6 release tamil",
+      "gta 6 map secrets tamil",
+      "gta 6 locked areas tamil",
       "gta 6 updates tamil",
+      "gta 6 map tamil",
+      "leonida map gta 6 tamil",
+      "rockstar gta 6 news tamil",
       "gta 6 gameplay tamil",
-      "gta 6 trailer tamil",
-      "gta 6 vice city tamil",
-      "rockstar games tamil",
-      "gta 6 playstation 5",
-      "gta 6 xbox series x",
-      "gta 6 record tamil",
-      "tamil gaming channel",
-      "gta v tamil",
-      "gaming news tamil",
-      "gta 6 shorts",
+      "gta vi tamil",
+      "gta 6 short tamil",
+      "gta 6 tamil gaming",
+      "tamil gta 6",
+      "gta 6 tips tamil",
+      "gta 6 secrets",
       "GTA 6",
       "GTA VI",
       "Tamil Gaming"

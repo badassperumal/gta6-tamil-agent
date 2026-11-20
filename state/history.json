@@ -83,6 +83,18 @@
       "duration": 44.9,
       "published_at": "2026-11-19T22:45:56.276778+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261120-141814-short",
+      "video_id": null,
+      "title": "GTA 6 Locked Map Secrets Tamil - என்ன இருக்கு தெரியுமா? #Shorts",
+      "format": "short",
+      "pillar": "tips",
+      "topic": "GTA 6 map and locked areas future options",
+      "hook": "GTA 6 map-ல சில இடங்களும் casinos-ம் locked-ஆ இருக்கே, அதுக்கு பின்னாடி என்ன இருக்கு தெரியுமா?",
+      "duration": 37.4,
+      "published_at": "2026-11-20T14:20:59.825810+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -99,7 +111,9 @@
     "5bfea13947e1",
     "f711a47d85cf",
     "cdbc23a039aa",
-    "df4b04e645cc"
+    "df4b04e645cc",
+    "119f985b0c04",
+    "e9372a3c55e2"
   ],
   "breaking_days": {
     "2026-11-18": 1,
