@@ -95,6 +95,18 @@
       "duration": 37.4,
       "published_at": "2026-11-20T14:20:59.825810+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261120-201315-short",
+      "video_id": null,
+      "title": "GTA 6 First Day Collection சாதனை! | GTA 6 Tamil #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 first day sales record",
+      "hook": "ரிலீஸ் ஆன ஒரே நாளில் GTA 6 செய்த மாஸ் சாதனை தெரியுமா? 3.79 பில்லியன் டாலர் கலெக்ஷன்!",
+      "duration": 45.3,
+      "published_at": "2026-11-20T20:16:47.548820+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -113,10 +125,13 @@
     "cdbc23a039aa",
     "df4b04e645cc",
     "119f985b0c04",
-    "e9372a3c55e2"
+    "e9372a3c55e2",
+    "c2bc53b35b24",
+    "27d4d82a33e0"
   ],
   "breaking_days": {
     "2026-11-18": 1,
-    "2026-11-19": 2
+    "2026-11-19": 2,
+    "2026-11-20": 1
   }
 }

@@ -1,102 +1,104 @@
 {
   "plan": {
-    "pillar": "tips",
-    "topic": "GTA 6 map and locked areas future options",
-    "story_key": "119f985b0c04",
-    "angle": "Highlight Rockstar's statement on locked casinos and unused map areas leaving options open for the future, exploring what it means for Tamil gamers exploring Leonida.",
-    "working_title": "GTA 6 Map-ல இந்த இடமெல்லாம் Locked-ஆ இருக்கா? 🗺️ Future-ல என்ன வரும்? #Shorts",
-    "hook_title": "",
-    "hook_line": "GTA 6 map-ல locked-ஆ இருக்கிற இடங்கள் பின்னாடி என்ன இருக்கு தெரியுமா?",
+    "pillar": "news",
+    "topic": "GTA 6 first day sales record",
+    "story_key": "c2bc53b35b24",
+    "angle": "Highlighting the insane 3.79 billion dollar first-day sales record broken by GTA 6 globally",
+    "working_title": "GTA 6 செய்திகள் Tamil | முதல் நாளே $3.79 பில்லியன் வசூல் சாதனை! 🤯 #Shorts",
+    "hook_line": "ரிலீஸ் ஆன ஒரே நாளில் GTA 6 செய்த மாஸ் சாதனை தெரியுமா? 3.79 பில்லியன் டாலர் கலெக்ஷன்!",
     "footage_tags": [
-      "gta 6 map",
-      "vice city exploration",
-      "leonida map",
-      "locked areas"
+      "gta 6 gameplay",
+      "vice city",
+      "jason and lucia",
+      "sales milestone"
     ],
     "facts": [
-      "Rockstar says GTA 6's locked casinos and unused map areas leave \"options in the future\"."
+      "GTA 6 hits massive $3.79 billion in first-day sales.",
+      "GTA 6 is set in the state of Leonida including Vice City with main characters Jason and Lucia.",
+      "Released on PlayStation 5 and Xbox Series X|S."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSUlWMVpvLVVyVkZmYUpRTDVoZDU3RGZDOHI4MjJueTdBcnNqanRMa3p0NTcwMW04dklFZTNwRHRwNV8taW9jcUNFMnJCQnVLMVN3bjdMcXB6bjlsLTBVandWQmhfR3ZXR0Z0TG9hbDY5bzJCMXgtanJmdTlXS1ZZTEV5Sm15UUpEVDNUYWJ0SzBkNWI5UzgtRmpVakZCbFRFWE55dDFHbElZWUhaQktQYjFsd3psT3NUVFUtNk5ydkF6cG5zcVFiMjJR?oc=5"
+      "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TUm0xUV9BZ3JHcmZKQXlyWTF3cHcyZ3BHcVlzQVBXVDhkZXhMVUhWakw4SUl2c3ZSR0NOenhPRnF6cDVfRndNWHhjY3RqTU9pN2ZfN0dNVjJZZ0lYYmlVN3dPSngzT1BiSmJvck11T2t6bFBvUmZ6R2RCSkZzZw?oc=5"
     ],
-    "why": "Focuses on the trending news about locked map areas and future options, fitting the tips/exploration pillar while providing an engaging Short for Tamil gamers.",
+    "why": "First-day sales milestone is massive breaking news that drives high CTR and taps into current global hype right after launch.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "GTA 6 map-ல சில இடங்களும் casinos-ம் locked-ஆ இருக்கே, அதுக்கு பின்னாடி என்ன இருக்கு தெரியுமா?",
-        "visual": "vice city map overview",
-        "onscreen": "Locked Map Areas!",
+        "narration": "ரிலீஸ் ஆன ஒரே நாளில் GTA 6 செய்த மாஸ் சாதனை தெரியுமா? 3.79 பில்லியன் டாலர் கலெக்ஷன்!",
+        "visual": "Vice City neon night",
+        "onscreen": "3.79 BILLION RECORED!",
         "start": 0.0,
-        "end": 5.89
+        "end": 8.65
       },
       {
-        "narration": "Leonida map-ல இந்த மாதிரி பூட்டப்பட்ட இடங்கள் பத்தி Rockstar செம்மயான ஒரு update குடுத்திருக்காங்க.",
-        "visual": "jason lucia walking street",
-        "onscreen": "Rockstar Update",
-        "start": 5.89,
-        "end": 12.14
+        "narration": "Rockstar Games தயாரிப்புல வெளியாகி இருக்கிற இந்த game, gaming வரலாத்துலயே எந்தப் படமும் செய்யாத வசூல் சாதனையை பண்ணிருக்கு.",
+        "visual": "Jason and Lucia art",
+        "onscreen": "MASSIVE SALES",
+        "start": 8.65,
+        "end": 16.844
       },
       {
-        "narration": "இந்த unused map areas எல்லாமே future-ல வரப்போற updates-க்காக வச்சிருக்காங்களாம்.",
-        "visual": "casino exterior night neon",
-        "onscreen": "Future Updates",
-        "start": 12.14,
-        "end": 16.83
+        "narration": "Leonida state முழுசும், குறிப்பா நம்ம Vice City mapல இந்த சாதனை வேற லெவல்ல செம hype கிரியேட் பண்ணிருக்கு.",
+        "visual": "map overview Leonida",
+        "onscreen": "Leonida Vice City",
+        "start": 16.844,
+        "end": 23.886
       },
       {
-        "narration": "அதாவது நாங்க நினைக்கிறதுக்கு மேலயே இவங்க ஏதோ plan பண்ணி வச்சிருக்காங்க நண்பா.",
-        "visual": "leonida countryside highway",
-        "onscreen": "Big Plans",
-        "start": 16.83,
-        "end": 22.336
+        "narration": "Jason மற்றும் Lucia character வச்சு PlayStation 5 மற்றும் Xbox Series X|S-ல செமத்தையா ஓடிட்டு இருக்கு இந்த mission.",
+        "visual": "PS5 controller gameplay",
+        "onscreen": "Jason & Lucia",
+        "start": 23.886,
+        "end": 31.984
       },
       {
-        "narration": "Jason மற்றும் Lucia வச்சு இந்த locked areas-ல புது missions வரதுக்கு நிறைய chance இருக்கு.",
-        "visual": "lucia driving fast car",
-        "onscreen": "New Missions",
-        "start": 22.336,
-        "end": 27.674
+        "narration": "PC version இப்போதைக்கு இல்லைனாலும், consoleல players அடிச்சு தூக்குறாங்க.",
+        "visual": "gameplay action shoot",
+        "onscreen": "No PC at Launch",
+        "start": 31.984,
+        "end": 36.626
       },
       {
-        "narration": "இது உண்மையாவே Tamil gamers ஆகிய நமக்கு செம்ம treat-ஆ இருக்க போகுது.",
-        "visual": "vice city beach sunset",
-        "onscreen": "Tamil Gamers Hype",
-        "start": 27.674,
-        "end": 32.508
+        "narration": "இந்த அளவுக்கு first day collection போகும்னு நீங்க நினைச்சு பார்த்தீங்களா?",
+        "visual": "crowd cheering gaming",
+        "onscreen": "Your thoughts?",
+        "start": 36.626,
+        "end": 41.316
       },
       {
-        "narration": "இந்த map secrets பத்தி நீங்க என்ன நினைக்கிறீங்க, Subscribe பண்ணுங்க.",
-        "visual": "character looking at city",
+        "narration": "கீழ comments-ல சொல்லுங்க, அப்புறம் மறக்காம Subscribe பண்ணுங்க.",
+        "visual": "subscribe button animation",
         "onscreen": "Subscribe பண்ணுங்க",
-        "start": 32.508,
-        "end": 37.39
+        "start": 41.316,
+        "end": 45.334
       }
     ],
-    "thumbnail_text": "LOCKED MAP SECRETS",
-    "end_question": "GTA 6 map-ல எந்த இடத்தை நீங்க ஃபர்ஸ்ட் explore பண்ணுவீங்க?",
-    "word_count": 76
+    "thumbnail_text": "$3.79 BILLION RECORD",
+    "end_question": "நீங்க எந்த consoleல GTA 6 விளையாட போறீங்க?",
+    "word_count": 85
   },
   "meta": {
-    "title": "GTA 6 Locked Map Secrets Tamil - என்ன இருக்கு தெரியுமா? #Shorts",
-    "description": "GTA 6 map-ல locked-ஆ இருக்கிற இடங்கள் பத்தி Rockstar என்ன update குடுத்திருக்காங்கன்னு பாருங்க.\nLeonida map-ல பூட்டப்பட்ட இந்த unused areas பத்தி இந்த ஷார்ட்ஸ்ல பாக்கலாம் நண்பா.\nRockstar இந்த locked areas-ல Jason மற்றும் Lucia வச்சு புது missions கொண்டு வர வாய்ப்பு இருக்கு.\nஇந்த map secrets பத்தி நீங்க என்ன நினைக்கிறீங்கனு கமெண்ட் பண்ணுங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 GTA 6 map-ல எந்த இடத்தை நீங்க ஃபர்ஸ்ட் explore பண்ணுவீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 First Day Collection சாதனை! | GTA 6 Tamil #Shorts",
+    "description": "GTA 6 முதல் நாளிலேயே செய்த மாஸ் சாதனை மற்றும் வசூல் விவரங்களை தெரிந்து கொள்ளுங்கள்.\n\nRockstar Games தயாரிப்பில் வெளியான GTA 6, gaming வரலாற்றிலேயே மிகப்பெரிய வசூலான 3.79 பில்லியன் டாலரை எட்டியுள்ளது. Leonida state மற்றும் Vice City மேப்பில் Jason, Lucia கதாபாத்திரங்களுடன் PS5 மற்றும் Xbox-ல் இந்த கேம் எப்படி சாதனை படைத்துள்ளது என்பதை இந்த வீடியோவில் பார்க்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க எந்த consoleல GTA 6 விளையாட போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "gta 6 tamil",
-      "gta 6 map secrets tamil",
-      "gta 6 locked areas tamil",
-      "gta 6 updates tamil",
-      "gta 6 map tamil",
-      "leonida map gta 6 tamil",
-      "rockstar gta 6 news tamil",
-      "gta 6 gameplay tamil",
-      "gta vi tamil",
-      "gta 6 short tamil",
-      "gta 6 tamil gaming",
-      "tamil gta 6",
-      "gta 6 tips tamil",
-      "gta 6 secrets",
+      "GTA 6 Tamil",
+      "GTA 6 first day collection",
+      "GTA 6 news tamil",
+      "GTA 6 record",
+      "GTA 6 gameplay tamil",
+      "GTA 6 ps5",
+      "GTA 6 xbox",
+      "Vice City tamil",
+      "Rockstar games tamil",
+      "GTA 6 update tamil",
+      "GTA 6 facts tamil",
+      "Gaming news tamil",
+      "GTA 6 shorts",
+      "GTA 6 tamil gaming",
+      "GTA 6 earnings",
       "GTA 6",
       "GTA VI",
       "Tamil Gaming"
