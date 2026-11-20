@@ -107,6 +107,18 @@
       "duration": 45.3,
       "published_at": "2026-11-20T20:16:47.548820+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261120-221741-short",
+      "video_id": null,
+      "title": "GTA 6 செய்த வசூல் சாதனை! 🤯 #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 first day sales record breakdown",
+      "hook": "ரிலீஸ் ஆன ஒரே நாளில் GTA 6 பண்ணிய சக்கைப் போடு சாதனை என்ன தெரியுமா?",
+      "duration": 46.0,
+      "published_at": "2026-11-20T22:22:03.688304+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -127,7 +139,9 @@
     "119f985b0c04",
     "e9372a3c55e2",
     "c2bc53b35b24",
-    "27d4d82a33e0"
+    "27d4d82a33e0",
+    "c2bc53b35b24",
+    "a2482784b2b2"
   ],
   "breaking_days": {
     "2026-11-18": 1,
