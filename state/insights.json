@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:56:23.765409+00:00",
+  "updated": "2026-11-21T07:57:29.781702+00:00",
   "pillar_weights": {
     "news": 3,
     "tips": 3,
@@ -9,23 +9,32 @@
     "reaction": 1
   },
   "notes": [
-    "High CTR observed on Tamil titles using local slang (e.g., ELAII ITS HAPPENNING LEY, கொடுமைகள்).",
-    "Long-form live streams for 'Free Roam' and 'World Exploration' are dominating regional watch time.",
-    "Shorts are successfully capturing algorithmic traffic via glitch/trick warnings (e.g., New Zealand trick).",
-    "Collabs and episodic numbering (Part 1, Epi 01) are establishing strong viewer retention loops.",
-    "Capitalize on high-energy emotional reactions and caps-lock phrasing in thumbnails."
+    "Capitalize on high-intent regional search by using colloquial Tamil slang in titles like JK and Soorya Gaming",
+    "Prioritize long-form live streams for free-roam and mission walkthroughs to match Tamil Gaming and Sharp Tamil Gaming",
+    "Leverage high-energy short-form content focusing on Easter eggs and glitches like 5 RubaGamer",
+    "Avoid generic English-only titles; hybrid English-Tamil text yields higher CTR in the Tamil gaming demographic",
+    "Focus on specific high-action milestones (military base infiltration, plane stealing) rather than generic gameplay"
   ],
   "title_patterns": [
+    "GTA 6 தமிழ் 🍿 [Colloquial Slang/Reaction] 🗣❗❗",
     "GTA 6 Part [X] Free Roam Live Tamil Gaming",
-    "GTA 6 தமிழ் 🍿 [Local Slang/Catchphrase] 🗣❗❗",
-    "GTA 6 [Shocking Event/Glitch] 🤯[Name] Resigned 😱",
-    "🚨 FINALLY GTA 6 GAMEPLAY LIVE!! TAMIL 😱🔥"
+    "GTA VI Peak Detailing😂🔥[Tamil Hook] ! #tamilgaming #gta6"
   ],
   "competitors": [
     {
-      "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
+      "title": "🔴 BEATING GTA 6 RIGHT NOW 100% (FINAL MISSION)",
       "channel": "IShowSpeed",
-      "id": "hwSg39yIBGU"
+      "id": "OIeLbmyraRQ"
+    },
+    {
+      "title": "Whatever You Steal in GTA 6, You Keep!",
+      "channel": "MrBeast Gaming",
+      "id": "QQV-0OUGxGs"
+    },
+    {
+      "title": "BEATING GTA 6 *FINALE*",
+      "channel": "Kai Cenat Live",
+      "id": "dSDUAAr-w_g"
     },
     {
       "title": "GTA 6 Part 1 Free Roam Live Tamil Gaming",
@@ -38,9 +47,9 @@
       "id": "RUFPTsvNCA8"
     },
     {
-      "title": "GTA 6 கொடுமைகள்🤯Mr Palam Resigned 😱",
-      "channel": "Tamil Tech - MrTT",
-      "id": "HcTKhO1b_9E"
+      "title": "GTA 6 - 13 Years of Waiting Ends 💪 - A Lifetime Experience Is Here 🔥",
+      "channel": "A2D Channel",
+      "id": "igC3oe2grN0"
     },
     {
       "title": "GTA 6 Tamil Gameplay LIVE - First look &amp; World Exploration 💥🔥",
@@ -48,24 +57,9 @@
       "id": "4FXFmPtd3HU"
     },
     {
-      "title": "Live! UNTIL FINISHING GTA 6",
-      "channel": "GrooT R6",
-      "id": "4CPc3Rcm-ZA"
-    },
-    {
-      "title": "Live! UNTIL FINISHING GTA 6 | PART 2",
-      "channel": "GrooT R6",
-      "id": "AxvjBuPKAig"
-    },
-    {
-      "title": "GTA 6 - 13 Years of Waiting Ends 💪 - A Lifetime Experience Is Here 🔥",
-      "channel": "A2D Channel",
-      "id": "igC3oe2grN0"
-    },
-    {
-      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 | Epi 02 | Manguni Gamer",
-      "channel": "Manguni Gamer",
-      "id": "qOVTjN4I0EM"
+      "title": "GTA 6 Forest Monster Random Event is Terrifying #gta6 #shorts #trending #gta #tamil #gaming #ps5",
+      "channel": "5 RubaGamer தமிழ்",
+      "id": "k4qZv9rl9gk"
     },
     {
       "title": "GTA 6 தமிழ் 🍿 ELAII ITS HAPPENNING LEY 🗣❗❗",
@@ -73,24 +67,14 @@
       "id": "w59jNIKh4wk"
     },
     {
+      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 | Epi 02 | Manguni Gamer",
+      "channel": "Manguni Gamer",
+      "id": "qOVTjN4I0EM"
+    },
+    {
       "title": "GTA 6 Part 2 Free Roam Live Tamil Gaming",
       "channel": "Tamil Gaming தமிழ் கேமிங்",
       "id": "4TiZpI_ApUk"
-    },
-    {
-      "title": "Doing CRAZY Things in GTA 6 Free Roam!💀",
-      "channel": "Sharp Tamil Gaming",
-      "id": "FWLaoOQMHzI"
-    },
-    {
-      "title": "GTA 6 Forest Monster Random Event is Terrifying #gta6 #shorts #trending #gta #tamil #gaming #ps5",
-      "channel": "5 RubaGamer தமிழ்",
-      "id": "k4qZv9rl9gk"
-    },
-    {
-      "title": "🔴 GTA 6 Has Me Hooked! (LIVE Gameplay)",
-      "channel": "Hazard",
-      "id": "PH6WdBYOzSI"
     },
     {
       "title": "GTA 6 Jason’s Beer Still Spawns Out of Nowhere #gta6 #shorts #trending #tamil #gaming #ps5 #xbox",
@@ -98,14 +82,24 @@
       "id": "Bnf3l9ooMAI"
     },
     {
-      "title": "GTA 6 New Zealand Trick Getting PSN Accounts Banned #gta6 #shorts #trending #tamil #gaming #gta #ps5",
-      "channel": "5 RubaGamer தமிழ்",
-      "id": "PyZR-LBYu2Y"
+      "title": "BREAKING INTO THE MILITARY BASE IN GTA 6!",
+      "channel": "Sharp Tamil Gaming",
+      "id": "B0UZtITJSsQ"
     },
     {
-      "title": "GTA 6 - Let&#39;s Begin #1",
+      "title": "GTA 6 Part 3 Free Roam Live Tamil Gaming",
+      "channel": "Tamil Gaming தமிழ் கேமிங்",
+      "id": "qGi9z8tO_7M"
+    },
+    {
+      "title": "GTA VI Peak Detailing😂🔥Ennaya Nadakudhu GTA 6 Tamil ! #tamilgaming #gta6 #gta6tamil",
+      "channel": "Soorya Gaming தமிழ்",
+      "id": "PkkamIgZw1Y"
+    },
+    {
+      "title": "GTA 6 First Impression Review",
       "channel": "MokkaCommentry 2",
-      "id": "p-mwI_Kpi1E"
+      "id": "ZuZ_7RtiMdc"
     },
     {
       "title": "GTA 6 LIVE STREAM EPISODE - 1| 18+  | 24 Hrs live stream #madan #madanop #gta6",
@@ -113,14 +107,19 @@
       "id": "WOmDc2Bwckw"
     },
     {
-      "title": "🚨 FINALLY GTA 6 GAMEPLAY LIVE!! TAMIL 😱🔥 | FIRST LOOK &amp; CRAZY MOMENTS | GT KING",
-      "channel": "Gaming Tamizhan",
-      "id": "__geGTZJdK4"
+      "title": "GTA 6 - பங்கு பங்கு இங்க பாரு 😲❗",
+      "channel": "JK",
+      "id": "Q7XEFgGymwY"
     },
     {
-      "title": "GTA VI ஆரம்பிக்கலாமா? 😍❤️💥🎮| DAN JR VLOGS",
-      "channel": "DAN JR VLOGS",
-      "id": "Y4977FVUSeI"
+      "title": "I&#39;m a PRO Bike Rider in GTA 6! 💀",
+      "channel": "Sharp Tamil Gaming",
+      "id": "4heIqjIaZCo"
+    },
+    {
+      "title": "I STOLE A PLANE in GTA 6! 😱",
+      "channel": "Sharp Tamil Gaming",
+      "id": "_OVLJl7KhVo"
     }
   ]
 }
