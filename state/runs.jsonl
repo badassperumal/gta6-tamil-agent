@@ -38,3 +38,5 @@
 {"ts": "2026-11-21T13:41:51.904669+00:00", "run": "20261121-134003-short", "event": "done", "video_id": null, "title": "GTA 6 First Day Collection சாதனை! Tamil #Shorts"}
 {"ts": "2026-11-21T19:13:12.992342+00:00", "run": "20261121-191312-short", "event": "start", "format": "short", "breaking": true}
 {"ts": "2026-11-21T19:17:17.415582+00:00", "run": "20261121-191312-short", "event": "done", "video_id": null, "title": "GTA 6 New Update: ரோட்ல நடக்கும்போதே Radio கேட்கலாம்! #Shorts"}
+{"ts": "2026-11-21T19:41:14.778870+00:00", "run": "20261121-194114-long", "event": "start", "format": "long", "breaking": false}
+{"ts": "2026-11-21T19:43:11.256307+00:00", "run": "20261121-194114-long", "event": "rejected", "feedback": "Too short: 436 words, need at least 900."}
