@@ -155,6 +155,18 @@
       "duration": 46.3,
       "published_at": "2026-11-21T19:17:17.415126+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261121-205800-short",
+      "video_id": null,
+      "title": "GTA 6-ல இப்படி ஒரு Love Story-ஆ? Jason & Lucia Tamil #Shorts",
+      "format": "short",
+      "pillar": "story",
+      "topic": "GTA 6 Jason and Lucia story mode reviews",
+      "hook": "சின்ன spoiler warning மக்களே! GTA 6-ல வெறும் heist-உம் gun fight-உம் மட்டும் இல்ல, Jason & Lucia-வோட love story தான் இப்",
+      "duration": 55.9,
+      "published_at": "2026-11-21T21:04:24.066110+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -183,7 +195,9 @@
     "c47242823b0d",
     "a2482784b2b2",
     "8688c66d8449",
-    "314cedd39693"
+    "314cedd39693",
+    "4f0625c11e1e",
+    "b39448f80532"
   ],
   "breaking_days": {
     "2026-11-18": 1,

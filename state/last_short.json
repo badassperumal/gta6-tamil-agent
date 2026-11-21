@@ -1,119 +1,99 @@
 {
   "plan": {
-    "pillar": "news",
-    "topic": "GTA 6 listening to radio outside vehicle feature",
-    "story_key": "8688c66d8449",
-    "angle": "Highlighting the newly confirmed post-launch feature reported by Mashable that allows players to listen to radio stations outside vehicles.",
-    "working_title": "GTA 6 Car இல்லாம Radio கேட்க முடியுமா? 📻 New Feature! #Shorts",
-    "hook_line": "GTA 6-ல கார் இல்லாம சும்மா நடந்து போகும்போதே Radio கேட்க முடியுமா? Rockstar குடுத்த மாஸ் Feature!",
+    "pillar": "story",
+    "topic": "GTA 6 Jason and Lucia story mode reviews",
+    "story_key": "4f0625c11e1e",
+    "angle": "Highlighting early critical praise for Jason and Lucia's emotional love story in Vice City without spoilers",
+    "working_title": "GTA 6-ல் Jason & Lucia Love Story! மனசை தொட்ட கதை ❤️ #Shorts",
+    "hook_line": "GTA 6-ல வெறும் கன் ஃபைட்டும் சேஸிங்கும் மட்டும் இல்ல, Jason & Lucia-வோட Love Story தான் இப்போ கலக்குது!",
     "footage_tags": [
-      "GTA 6 gameplay",
-      "Vice City walking",
-      "radio wheel",
-      "Lucia Jason walking",
-      "PS5 gameplay"
+      "gta 6 jason lucia cinematic",
+      "vice city gameplay ps5",
+      "gta 6 story mode",
+      "leonida drive cutscene"
     ],
     "facts": [
-      "GTA 6 allows players to listen to the radio outside of a vehicle.",
-      "GTA 6 released on 19 November 2026 on PlayStation 5 and Xbox Series X|S."
+      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
+      "The game is set in the state of Leonida, which includes Vice City. The two main characters are Jason and Lucia.",
+      "Critical reviews from outlets like PCMag highlight that GTA 6's love story between Jason and Lucia steals players' hearts rather than being a retread."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1kzMzV4LWNId2VrTkZ2Tm9DVzUybzRva0llRFItTzhfNE9PcEV1UnhiVl83Y2FVcUVaeG81bUJjeGpneTQ2eDJyem84dHZpMEtpcnZELWlxNkRNajhZRWRWZVFrU0g2ZXU0cGtMQ3E1WlBxSF9nX1dSOFo3Rkx6WU1fQXZONFky?oc=5"
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzVfXzNodnc2Q0RxdGZxOVdKbEY4OVA1bm9BTEltX0hfZ1JmYklZNXpFRlhYSlBsdUpZSnZsLXYtaVdNaTcwM0plZm9WMldXYWZ6aFF6aUZrbmF0OWxtTWVUTmRPZ3pwcFRNUDRBdTFFZVJRUmFJZXkxRWhWTmZIbzg5YVZTREFzVzZ5bGF4eXRQYU1UYUs4V0Y4WmhxWWZBWktuYWZ2NA?oc=5"
     ],
-    "why": "Delivers an exciting newly confirmed gameplay feature from Mashable that answers a long-standing wish for Tamil GTA fans.",
+    "why": "Recent shorts over-saturated sales records and generic map secrets; covering Jason and Lucia's critically acclaimed relationship taps into high Tamil curiosity around the story campaign.",
     "format": "short",
-    "breaking": true
+    "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "ஹலோ மக்களே, GTA 6-ல வந்திருக்கிற இந்த செம மாஸான புதிய update பத்தி உங்களுக்குத் தெரியுமா?",
-        "visual": "vice city neon street",
-        "onscreen": "MASSIVE UPDATE",
+        "narration": "சின்ன spoiler warning மக்களே! GTA 6-ல வெறும் heist-உம் gun fight-உம் மட்டும் இல்ல, Jason & Lucia-வோட love story தான் இப்போ உலக லெவல்ல செம்ம trending!",
+        "visual": "jason lucia couple",
+        "onscreen": "SPOILER WARNING",
         "start": 0.0,
-        "end": 7.282
+        "end": 10.186
       },
       {
-        "narration": "Mashable reports படி, இந்த தடவை செம தரமான ஒரு feature உள்ள வருது.",
-        "visual": "rockstar games logo",
-        "onscreen": "Confirmed feature",
-        "start": 7.282,
-        "end": 12.356
+        "narration": "நவம்பர் 19 அன்னைக்கு PS5 மற்றும் Xbox-ல ரிலீஸான GTA 6, Leonida மற்றும் Vice City-ல ஒரு புது உலகத்தையே காட்டியிருக்கு.",
+        "visual": "vice city neon night",
+        "onscreen": "VICE CITY",
+        "start": 10.186,
+        "end": 19.004
       },
       {
-        "narration": "அதாவது, கார் அல்லது bike குள்ள மட்டும் இல்லாம, நீங்க ரோட்ல நடக்கும்போதே radio கேட்கலாம்!",
-        "visual": "lucia walking street",
-        "onscreen": "Radio outside cars",
-        "start": 12.356,
-        "end": 18.846
+        "narration": "ஆனா எல்லாத்தையும் விட, மெயின் characters ஆன Jason மற்றும் Lucia நடுவுல இருக்கிற emotional chemistry தான் எல்லாரையும் உருக வைக்குது.",
+        "visual": "lucia jason driving",
+        "onscreen": "JASON & LUCIA",
+        "start": 19.004,
+        "end": 27.654
       },
       {
-        "narration": "இது உண்மையாவே game-ன் immersion லெவலை வேற லெவலுக்கு கொண்டு போயிடும் மக்களே.",
-        "visual": "jason lucia sunset",
-        "onscreen": "Next level vibe",
-        "start": 18.846,
-        "end": 23.632
+        "narration": "PCMag மாதிரியான பெரிய outlets கொடுத்த reviews-ல, இது வெறும் பழிவாங்குற கதை இல்லாம, மனசை தொடுற ஒரு அழகான love story-ன்னு சொல்லியிருக்காங்க!",
+        "visual": "cutscene dramatic emotional",
+        "onscreen": "PCMAG PRAISE",
+        "start": 27.654,
+        "end": 37.12
       },
       {
-        "narration": "கடந்த November 19, 2026-ல PlayStation 5 மற்றும் Xbox Series X|S-ல game release ஆனப்போவே இந்த detail செம hype ஆனது.",
-        "visual": "ps5 controller gaming",
-        "onscreen": "PS5 & Xbox Series X|S",
-        "start": 23.632,
-        "end": 33.818
+        "narration": "ஒவ்வொரு mission-லையும் அவங்க ஒருத்தருக்கு ஒருத்தர் குடுக்குற support ரொம்பவே realistic-ஆ வந்திருக்கு. Rockstar Games கதையில நிஜமாவே ஒரு emotional magic பண்ணிட்டாங்க!",
+        "visual": "action robbery sunset",
+        "onscreen": "PURE EMOTION",
+        "start": 37.12,
+        "end": 47.09
       },
       {
-        "narration": "இந்த feature உங்களோட gameplay அனுபவத்தை இன்னும் மிரட்டலா மாத்தப் போகுது.",
-        "visual": "vice city driving fast",
-        "onscreen": "Awesome gameplay",
-        "start": 33.818,
-        "end": 38.7
-      },
-      {
-        "narration": "நீங்க எந்த radio station-ல பாட்டு கேட்க வெயிட் பண்றீங்கன்னு கீழ கமெண்ட்ல சொல்லுங்க.",
-        "visual": "character looking map",
-        "onscreen": "Comment below",
-        "start": 38.7,
-        "end": 44.038
-      },
-      {
-        "narration": "மறக்காம Subscribe பண்ணுங்க!",
-        "visual": "subscribe animation youtube",
-        "onscreen": "Subscribe pannunga",
-        "start": 44.038,
-        "end": 46.256
+        "narration": "கண்டிப்பா story mode-ஐ மிஸ் பண்ணிடாதீங்க. இந்த ஜோடி பத்தி நீங்க என்ன நினைக்கிறீங்க? Subscribe பண்ணுங்க! ஏன்னா...",
+        "visual": "jason lucia looking back",
+        "onscreen": "SUBSCRIBE",
+        "start": 47.09,
+        "end": 55.908
       }
     ],
-    "thumbnail_text": "GTA 6 RADIO FEATURE",
-    "end_question": "GTA 6-ல உங்களோட favorite radio station எது மக்களே?",
-    "word_count": 87
+    "thumbnail_text": "JASON LUCIA LOVE",
+    "end_question": "Jason மற்றும் Lucia-வோட Love Story உங்களுக்கு பிடிச்சிருக்கா மக்களே?",
+    "word_count": 107
   },
   "meta": {
-    "title": "GTA 6 New Update: ரோட்ல நடக்கும்போதே Radio கேட்கலாம்! #Shorts",
-    "description": "GTA 6-ல வந்திருக்கிற செம மாஸான புதிய update பத்தி உங்களுக்குத் தெரியுமா? ரோட்ல நடக்கும்போதே radio கேட்கலாம்.\n\nMashable reports படி, கார் அல்லது bike குள்ள மட்டும் இல்லாம, நீங்க ரோட்ல நடக்கும்போதே radio கேட்கும் வசதி GTA 6-ல் வரவுள்ளது. இந்த செம feature பத்தி இந்த ஷார்ட்ஸில் முழுசா பாருங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 GTA 6-ல உங்களோட favorite radio station எது மக்களே?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6-ல இப்படி ஒரு Love Story-ஆ? Jason & Lucia Tamil #Shorts",
+    "description": "GTA 6 Tamil Jason and Lucia emotional love story details and story review!\nCheck out why Rockstar Games' new GTA 6 storyline is trending worldwide in Tamil.\n\nGTA 6 Leonida மற்றும் Vice City-ல வெறும் heist மற்றும் gun fights மட்டும் இல்லாம, Jason மற்றும் Lucia-வோட emotional love story இப்போ பயங்கர trending.\nPCMag reviews-ல கூட இந்த ஜோடியோட chemistry மற்றும் missions-ல அவங்க குடுக்குற support-ஐ ரொம்பவே பாராட்டியிருக்காங்க.\nRockstar Games நிஜமாவே இந்த story mode-ல ஒரு emotional magic பண்ணியிருக்காங்க!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 Jason மற்றும் Lucia-வோட Love Story உங்களுக்கு பிடிச்சிருக்கா மக்களே?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 update tamil",
-      "gta 6 news tamil",
-      "gta 6 radio feature",
+      "gta 6",
+      "gta 6 story tamil",
+      "gta 6 jason lucia tamil",
+      "gta 6 love story",
+      "gta 6 review tamil",
+      "gta vi tamil",
+      "gta 6 vice city tamil",
+      "tamil gaming",
+      "tamil gaming shorts",
+      "gta 6 tamil shorts",
+      "gta 6 leonida",
       "gta 6 gameplay tamil",
-      "gta 6 features",
-      "gta 6 tamil gaming",
-      "gta 6 secrets tamil",
-      "gta 6 leaks tamil",
-      "gta 6 shorts tamil",
-      "gta 6 new details",
-      "gta 6 ps5 tamil",
-      "gta 6 xbox tamil",
-      "tamil gaming channel",
       "gta tamil",
-      "gta 6 update",
-      "gta 6 news",
-      "gta 6 radio",
-      "gta six tamil",
-      "gta 6 2026",
-      "GTA 6",
-      "GTA VI",
-      "Tamil Gaming"
+      "jason lucia gta 6",
+      "gta 6 ps5 tamil",
+      "GTA VI"
     ]
   }
 }
