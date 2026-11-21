@@ -119,6 +119,18 @@
       "duration": 46.0,
       "published_at": "2026-11-20T22:22:03.688304+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261121-105844-short",
+      "video_id": null,
+      "title": "GTA 6 செய்த சாதனை என்ன? | GTA 6 Tamil #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 launch player count and sales records",
+      "hook": "மச்சான்ஸ், ரிலீஸ் ஆன உடனே GTA 6 பண்ணியிருக்கிற இந்த massive சாதனை என்ன தெரியுமா?",
+      "duration": 49.1,
+      "published_at": "2026-11-21T11:00:32.584217+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -141,11 +153,14 @@
     "c2bc53b35b24",
     "27d4d82a33e0",
     "c2bc53b35b24",
-    "a2482784b2b2"
+    "a2482784b2b2",
+    "846dc4659c61",
+    "dbcdb15457f5"
   ],
   "breaking_days": {
     "2026-11-18": 1,
     "2026-11-19": 2,
-    "2026-11-20": 1
+    "2026-11-20": 1,
+    "2026-11-21": 1
   }
 }

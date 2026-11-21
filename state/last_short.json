@@ -1,111 +1,114 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "GTA 6 first day sales record breakdown",
-    "story_key": "c2bc53b35b24",
-    "angle": "Highlighting the massive $3.79 billion first-day sales record broken by GTA 6 globally",
-    "working_title": "GTA 6 ஒன்னே முக்கால் கோடி வசூலா? 🤯 First Day Record Break! #Shorts",
-    "hook_line": "ரிலீஸ் ஆன ஒரே நாளில் GTA 6 பண்ணிய Sattai-ye galappu சாதனை என்ன தெரியுமா?",
+    "topic": "GTA 6 launch player count and sales records",
+    "story_key": "846dc4659c61",
+    "angle": "Discussing the massive launch statistics, player counts, and revenue records set by GTA 6 globally.",
+    "working_title": "GTA 6 செய்த வசூல் சாதனை! 🤯 World Record Broke #Shorts",
+    "hook_line": "ரிலீஸ் ஆன உடனே GTA 6 பண்ணியிருக்கிற சாதனை என்ன தெரியுமா?",
     "footage_tags": [
-      "GTA 6 sales record news",
-      "Vice City Leonida gameplay",
-      "Jason and Lucia trailer footage"
+      "GTA 6 gameplay",
+      "Vice City",
+      "Jason and Lucia",
+      "PS5 Xbox Series X"
     ],
     "facts": [
-      "GTA 6 released on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "The game hit a massive $3.79 billion in first-day sales, breaking long-standing entertainment records."
+      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
+      "The game is set in the state of Leonida, which includes Vice City. The two main characters are Jason and Lucia.",
+      "There is no PC version at launch."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TUm0xUV9BZ3JHcmZKQXlyWTF3cHcyZ3BHcVlzQVBXVDhkZXhMVUhWakw4SUl2c3ZSR0NOenhPRnF6cDVfRndNWHhjY3RqTU9pN2ZfN0dNVjJZZ0lYYmlVN3dPSngzT1BiSmJvck11T2t6bFBvUmZ6R2RCSkZzZw?oc=5"
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UaFM0ejhMcnpvb1Q5STVicEVvNmJISWJtTURRSW1NTnZwdm10U3pQaEdWQ2daVzFleTkxTEdWSHI0OUY5RkRXRlBoMlBfVm80YzZVcHM1OGo?oc=5"
     ],
-    "why": "Massive global sales milestone breaking historical records makes for high-curiosity breaking news content suited for a Short.",
+    "why": "Capitalizes on the trending launch statistics and revenue records story using a high-energy Tamil short format that drives high CTR.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "ரிலீஸ் ஆன ஒரே நாளில் GTA 6 பண்ணிய சக்கைப் போடு சாதனை என்ன தெரியுமா?",
-        "visual": "GTA 6 logo vice city neon",
-        "onscreen": "FIRST DAY RECORD",
+        "narration": "மச்சான்ஸ், ரிலீஸ் ஆன உடனே GTA 6 பண்ணியிருக்கிற இந்த massive சாதனை என்ன தெரியுமா?",
+        "visual": "vice city night aerial view",
+        "onscreen": "WORLD RECORD!",
         "start": 0.0,
-        "end": 5.578
+        "end": 6.49
       },
       {
-        "narration": "நேற்று 19 November 2026 அன்று PlayStation 5 மற்றும் Xbox Series X|S-ல் ரிலீஸ் ஆனச்சு.",
-        "visual": "PS5 controller gameplay",
-        "onscreen": "Launch Day",
-        "start": 5.578,
-        "end": 13.508
+        "narration": "Rockstar Games-ன் இந்த மான்ஸ்டர் கேம், நவம்பர் 19, 2026 அன்று PlayStation 5 மற்றும் Xbox Series X|S-ல் ரிலீஸ் ஆனது.",
+        "visual": "jason lucia ps5 controller",
+        "onscreen": "PS5 & Xbox",
+        "start": 6.49,
+        "end": 15.908
       },
       {
-        "narration": "Rockstar Games-ன் இந்த மான்ஸ்டர் கேம், வெளியான முதல் நாளே உலகளவில் எல்லாரையும் மிரள வச்சிருக்கு!",
-        "visual": "Jason and Lucia art",
-        "onscreen": "Massive Launch",
-        "start": 13.508,
-        "end": 19.83
+        "narration": "வெளியான முதல் நாளிலேயே உலகளவில் மில்லியன் கணக்கான பிளேயர்கள் லியோனிடா மற்றும் வைஸ் சிட்டிக்குள் இறங்கிட்டாங்க.",
+        "visual": "leonida map gameplay busy",
+        "onscreen": "Massive Player Count",
+        "start": 15.908,
+        "end": 23.334
       },
       {
-        "narration": "தெரியுமா? சிங்கிள் டே-ல அதாவது ஒரே நாளில் இது அடிச்ச கலக்ஷன் எவ்வளவு தெரியுமா?",
-        "visual": "Vice city beach aerial",
-        "onscreen": "Revenue Shock",
-        "start": 19.83,
-        "end": 26.248
+        "narration": "Jason மற்றும் Lucia-வின் இந்த ஸ்டோரிக்கு கிடைத்திருக்கும் வரவேற்பு கேமிங் வரலாற்றையே மாத்தி எழுதியிருக்கு.",
+        "visual": "lucia and jason close up",
+        "onscreen": "History Created",
+        "start": 23.334,
+        "end": 29.296
       },
       {
-        "narration": "சும்மா இல்ல பாஸ், மொத்தமா 3.79 பில்லியன் டாலர் ஃபர்ஸ்ட் டே சேல்ஸ் சாதனையை உடைச்சு எறிஞ்சிருக்கு!",
-        "visual": "money cash explosion animation",
-        "onscreen": "$3.79 Billion!",
-        "start": 26.248,
-        "end": 33.914
+        "narration": "சேல்ஸ் ரெகார்ட்ஸ் எல்லாமே முந்தைய எல்லா சாதனைகளையும் உடைச்சு தூள் கிளப்பியிருக்கு.",
+        "visual": "sales revenue graph spike",
+        "onscreen": "Sales Broken",
+        "start": 29.296,
+        "end": 34.562
       },
       {
-        "narration": "இதுவரை எந்த என்டர்டெயின்மென்ட் ஹிஸ்டரியும் பார்க்காத பிரம்மாண்டமான ஓப்பனிங் இது.",
-        "visual": "car chase night action",
-        "onscreen": "History Broken",
-        "start": 33.914,
-        "end": 39.132
+        "narration": "பிசி பிளேயர்களுக்கு இப்போதைக்கு launch வெர்ஷன் கிடையாதுங்கிறது தான் ஒரே ஒரு சின்ன வருத்தம்.",
+        "visual": "pc gamer sad meme",
+        "onscreen": "No PC Launch",
+        "start": 34.562,
+        "end": 40.164
       },
       {
-        "narration": "இந்த வெறித்தனமான வசூல் சாதனையை நீங்க எதிர்பார்த்தீங்களா நண்பா?",
-        "visual": "Leonida map overview",
-        "onscreen": "Your Thoughts?",
-        "start": 39.132,
-        "end": 43.798
+        "narration": "நீங்க எந்தப் பிளாட்ஃபார்மில் விளையாடப் போறீங்கனு மறக்காம கமெண்ட்ல சொல்லுங்க.",
+        "visual": "gaming controller closeup",
+        "onscreen": "Comment Now",
+        "start": 40.164,
+        "end": 45.214
       },
       {
-        "narration": "மறக்காம Subscribe பண்ணுங்க!",
+        "narration": "இன்னும் பல GTA 6 அப்டேட்ஸ்க்கு Subscribe பண்ணுங்க.",
         "visual": "subscribe button animation",
         "onscreen": "Subscribe பண்ணுங்க",
-        "start": 43.798,
-        "end": 46.016
+        "start": 45.214,
+        "end": 49.112
       }
     ],
-    "thumbnail_text": "GTA 6 $3.79B RECORD",
-    "end_question": "இந்த ஃபர்ஸ்ட் டே கலக்ஷன் பத்தி உங்க கருத்து என்ன?",
-    "word_count": 79
+    "thumbnail_text": "GTA 6 WORLD RECORD",
+    "end_question": "நீங்க எந்த பிளாட்ஃபார்மில் GTA 6 விளையாடப் போறீங்க?",
+    "word_count": 87
   },
   "meta": {
-    "title": "GTA 6 செய்த வசூல் சாதனை! 🤯 #Shorts",
-    "description": "GTA 6 ரிலீஸ் ஆன ஒரே நாளில் செய்த மாபெரும் சாதனை மற்றும் வசூல் விவரங்கள்.\n\nRockstar Games-ன் GTA 6 கேம் வெளியான முதல் நாளே உலகளவில் செய்த வசூல் சாதனை பற்றி இந்த ஷார்ட்ஸில் பார்க்கலாம். PS5 மற்றும் Xbox-ல் ரிலீஸ் ஆன இந்த கேம் இவ்வளவு வசூல் அடிச்சிருக்கான்னு நீங்க தெரிஞ்சுக்க உடனே பாருங்க!\n\nநம்ம சேனலை சப்ஸ்கிரைப் பண்ணுங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த ஃபர்ஸ்ட் டே கலக்ஷன் பத்தி உங்க கருத்து என்ன?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 செய்த சாதனை என்ன? | GTA 6 Tamil #Shorts",
+    "description": "மச்சான்ஸ், GTA 6 ரிலீஸ் ஆன உடனே செய்த massive சாதனை என்ன தெரியுமா? இந்த வீடியோவில் தெரிந்து கொள்ளுங்கள்.\n\nRockstar Games-ன் GTA 6 கேம் பிளேஸ்டேஷன் 5 மற்றும் எக்ஸ்பாக்ஸ் சீரிஸ் எக்ஸ்/எஸ்-ல் ரிலீஸ் ஆனது. வெளியான முதல் நாளிலேயே மில்லியன் கணக்கான பிளேயர்கள் வைஸ் சிட்டிக்குள் இறங்கிட்டாங்க. Jason மற்றும் Lucia ஸ்டோரி மற்றும் சேல்ஸ் ரெகார்ட்ஸ் பற்றிய முழு விவரங்களை இந்த வீடியோவில் பார்க்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க எந்த பிளாட்ஃபார்மில் GTA 6 விளையாடப் போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
       "gta 6 news tamil",
       "gta 6 release tamil",
       "gta 6 records tamil",
-      "gta 6 sales tamil",
-      "rockstar games tamil",
-      "gta 6 updates tamil",
-      "tamil gaming",
       "gta 6 gameplay tamil",
-      "ps5 games tamil",
-      "xbox games tamil",
-      "gta v tamil",
-      "gta 6 tamil gaming",
+      "gta 6 ps5 tamil",
+      "gta 6 xbox tamil",
+      "gta 6 vice city tamil",
+      "gta 6 updates tamil",
+      "gta 6 story tamil",
+      "gta vi tamil",
+      "rockstar games tamil",
       "gaming news tamil",
-      "gta 6 collection",
+      "tamil gaming channel",
+      "gta tamil",
       "GTA 6",
-      "GTA VI"
+      "GTA VI",
+      "Tamil Gaming"
     ]
   }
 }
