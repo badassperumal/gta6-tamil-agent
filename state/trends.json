@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:12:27.009424+00:00",
+  "updated": "2026-11-21T19:13:15.298204+00:00",
   "stories": [
     {
       "key": "64c9ba17e601",
@@ -43,6 +43,30 @@
           "source": "google_news",
           "summary": " ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says &nbsp;&nbsp; The Guardian ",
           "published": "2026-11-21T03:51:00+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 9.8,
+      "covered": false
+    },
+    {
+      "key": "bca6a5759f43",
+      "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - AP News",
+      "items": [
+        {
+          "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0hRM1J3UzZkR2JvWnJYUDgyRE55OE9pbmJxM19vX2llS19QZjBTWkNVaVVZQTRJbnZ5N01NbEp5Qko2T3lGWlNERjFNYXF4Q2xiQVRZQUFmN2lWQ3V3YmpfYzZXNE5Lb2FuSFVJU2lBUW9VWVhRemxaY2dfamhRODlubjNmN0N6MU9DbENZd1NrdzNfeVFYWmtKNHJMQlBITXp0TQ?oc=5",
+          "source": "google_news",
+          "summary": " ‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports &nbsp;&nbsp; AP News ",
+          "published": "2026-11-21T01:38:00+00:00",
+          "pop": 1
+        },
+        {
+          "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0hRM1J3UzZkR2JvWnJYUDgyRE55OE9pbmJxM19vX2llS19QZjBTWkNVaVVZQTRJbnZ5N01NbEp5Qko2T3lGWlNERjFNYXF4Q2xiQVRZQUFmN2lWQ3V3YmpfYzZXNE5Lb2FuSFVJU2lBUW9VWVhRemxaY2dfamhRODlubjNmN0N6MU9DbENZd1NrdzNfeVFYWmtKNHJMQlBITXp0TQ?oc=5",
+          "source": "google_news",
+          "summary": " ‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports &nbsp;&nbsp; AP News ",
+          "published": "2026-11-21T01:38:00+00:00",
           "pop": 1
         }
       ],
@@ -282,19 +306,35 @@
       "covered": false
     },
     {
-      "key": "bca6a5759f43",
-      "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - AP News",
+      "key": "5ab10b27f177",
+      "title": "Get ready for the GTA 6 launch. Discover release times, preload details, and if you can play early. - Facebook",
       "items": [
         {
-          "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0hRM1J3UzZkR2JvWnJYUDgyRE55OE9pbmJxM19vX2llS19QZjBTWkNVaVVZQTRJbnZ5N01NbEp5Qko2T3lGWlNERjFNYXF4Q2xiQVRZQUFmN2lWQ3V3YmpfYzZXNE5Lb2FuSFVJU2lBUW9VWVhRemxaY2dfamhRODlubjNmN0N6MU9DbENZd1NrdzNfeVFYWmtKNHJMQlBITXp0TQ?oc=5",
+          "title": "Get ready for the GTA 6 launch. Discover release times, preload details, and if you can play early. - Facebook",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXVqXzhqQVJQWk5hZDVHWU9yTXBBbkZaYmlJVUFaWFE5OFQ1ZkpXaUh4c1lUVWJZQUtpWHZaX2ZTLVdER18wbGRTVkZ3MjE4UnlvNlR3VzlXSVQyb254ZU9OREdtMEMwRU5ZYXpyZWlJSXBFRlN2LUJNOUU4dkVKSHpyUjRHUVNYZ0ZxbHdhenl5Qk1xU3FXRnQ0czVSUTRneFcxSlpfLTZHTmJfTXk1ZkIzVERnd3NxbHBFSVBVSVg2WHczTFBUd25HdVVNVWtXNzZHR01lRU5mUGM?oc=5",
           "source": "google_news",
-          "summary": " ‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports &nbsp;&nbsp; AP News ",
-          "published": "2026-11-21T01:38:00+00:00",
+          "summary": " Get ready for the GTA 6 launch. Discover release times, preload details, and if you can play early. &nbsp;&nbsp; Facebook ",
+          "published": "2026-11-21T15:22:11+00:00",
           "pop": 1
         }
       ],
-      "score": 4.9,
+      "score": 5.0,
+      "covered": false
+    },
+    {
+      "key": "699e8008d4d3",
+      "title": "GTA 6 Online Release Has Players Worried For One Big Reason - OpenCritic",
+      "items": [
+        {
+          "title": "GTA 6 Online Release Has Players Worried For One Big Reason - OpenCritic",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHc5WDllMlBpWWd5bTFLZkN0Wk5UUFYzU3FhdUp5WFYtZ0VfZF9td0o2eUdqRFZCdHZ6YVUwM09xcnNhVDU0VS1fTXlTLTJMMDBYclozR1U0MFdTcEtsLU93NjFyMDM4dHl6QUZLaXRCTUJHZ2FFLVFMcDFqNVlZS1NrTFZ6cUNETzNoY2JLMXZpTWE1THJpZQ?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 Online Release Has Players Worried For One Big Reason &nbsp;&nbsp; OpenCritic ",
+          "published": "2026-11-21T15:54:57+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 5.0,
       "covered": false
     },
     {
@@ -530,22 +570,6 @@
       "covered": false
     },
     {
-      "key": "5ceffe454b30",
-      "title": "Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights - The Guardian",
-      "items": [
-        {
-          "title": "Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGhZQld2NEhvenVuUWRRdUcxcnNsODNDcTlxN3BQeDRzOFpQMHRiNHZFWjhET01yaFFzM05xUUZXSTBleGJrMHU3WFNKTTVDblNuS3l3dE1uaHFFZmpsZGRlS2hUVHFXY1dPcnRxTnlRVHhJenJQNE16ZFEyLWw1WndIb080OTk2SExtT0diREg0eFU?oc=5",
-          "source": "google_news",
-          "summary": " Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights &nbsp;&nbsp; The Guardian ",
-          "published": "2026-11-21T17:22:00+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 3.0,
-      "covered": false
-    },
-    {
       "key": "cd57ea74183a",
       "title": "Grand Theft Auto VI Makes $3.79 Billion on Day One, the Biggest Entertainment Launch Ever - gHacks",
       "items": [
@@ -626,22 +650,6 @@
       "covered": false
     },
     {
-      "key": "feb4d118d526",
-      "title": "GTA 6 smashes entertainment records with $3.79bn debut - Rediff",
-      "items": [
-        {
-          "title": "GTA 6 smashes entertainment records with $3.79bn debut - Rediff",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXVDZGR5bDhaNHNFZGNCaENxN2cxTFNUVHBHR3FuSjViM045X0RjN0FIZlZ3SnBNeVdkR3BnRWZNUjVEdjFWZXhpc1lGMVpRaUh3QmFiazJ2TVpXRjhYekk5TGpIRUlzNlNhZ21aRlNUdTNDbHoxSWtLeGgtSDNOYm5RdkxmdTRYWlZya01BSGQtRWxDVGFkNkdjcnVONTRMUWNfTXpGU0xCM0tuTTBESVJ0YjRXRFdpRkJCVjBDUGgxam90M2NzNjF4TlRuU1U2LXlz?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 smashes entertainment records with $3.79bn debut &nbsp;&nbsp; Rediff ",
-          "published": "2026-11-21T12:13:57+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 2.1,
-      "covered": false
-    },
-    {
       "key": "dc20d44e091a",
       "title": "GTA 6 generates USD 3.79 billion in pre-orders, sales - Awaz The Voice",
       "items": [
@@ -674,22 +682,6 @@
       "covered": true
     },
     {
-      "key": "0309c91fc2fb",
-      "title": "The New York Times. . Why did Rockstar Games take a massive swing with Grand Theft Auto VI — a game 13 years in the making? Our reporter Joseph Bernstein, who had early access to the game, joined the “Hard Fork” podcast to discuss the quality and craf - Facebook",
-      "items": [
-        {
-          "title": "The New York Times. . Why did Rockstar Games take a massive swing with Grand Theft Auto VI — a game 13 years in the making? Our reporter Joseph Bernstein, who had early access to the game, joined the “Hard Fork” podcast to discuss the quality and craf - Facebook",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXJYazQ3eDMyU3AxUUhMYkJ0ejdPMjZCR1NLUlAxU2lFamRMcWRna2FkMHB4T2hZVTdTUTh6dGVROUNwVzVJYzIwd3lUMHNMck44U2JSWkJHdGJ6SkRMR0dIZ3VKeU1Va3FvVld2cC0waEEzTWtPR2hnWE9QRTNFSVByWDZwQnhieDVrTFRyU3k4V2RETmplM1c3WVhuUlVnbEpsLTVSeTZxWU9Yamx6eEloTjhrTjdwb3RMeFY2NUZZdDN5R2R0Q2g4d25BTEFmMzREOQ?oc=5",
-          "source": "google_news",
-          "summary": " The New York Times. . Why did Rockstar Games take a massive swing with Grand Theft Auto VI — a game 13 years in the making? Our reporter Joseph Bernstein, who had early access to the game, joined the “Hard Fork” podcast to discuss the quality and craf &nbsp;&nbsp; Facebook ",
-          "published": "2026-11-20T21:20:12+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 2.1,
-      "covered": false
-    },
-    {
       "key": "e05c0facfd57",
       "title": "GTA 6 fans think Little Sam could be Sam Houser, but Rockstar has not confirmed it - Mezha.net",
       "items": [
@@ -699,6 +691,22 @@
           "source": "google_news",
           "summary": " GTA 6 fans think Little Sam could be Sam Houser, but Rockstar has not confirmed it &nbsp;&nbsp; Mezha.net ",
           "published": "2026-11-21T10:11:05+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.1,
+      "covered": false
+    },
+    {
+      "key": "0309c91fc2fb",
+      "title": "The New York Times. . Why did Rockstar Games take a massive swing with Grand Theft Auto VI — a game 13 years in the making? Our reporter Joseph Bernstein, who had early access to the game, joined the “Hard Fork” podcast to discuss the quality and craf - Facebook",
+      "items": [
+        {
+          "title": "The New York Times. . Why did Rockstar Games take a massive swing with Grand Theft Auto VI — a game 13 years in the making? Our reporter Joseph Bernstein, who had early access to the game, joined the “Hard Fork” podcast to discuss the quality and craf - Facebook",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXJYazQ3eDMyU3AxUUhMYkJ0ejdPMjZCR1NLUlAxU2lFamRMcWRna2FkMHB4T2hZVTdTUTh6dGVROUNwVzVJYzIwd3lUMHNMck44U2JSWkJHdGJ6SkRMR0dIZ3VKeU1Va3FvVld2cC0waEEzTWtPR2hnWE9QRTNFSVByWDZwQnhieDVrTFRyU3k4V2RETmplM1c3WVhuUlVnbEpsLTVSeTZxWU9Yamx6eEloTjhrTjdwb3RMeFY2NUZZdDN5R2R0Q2g4d25BTEFmMzREOQ?oc=5",
+          "source": "google_news",
+          "summary": " The New York Times. . Why did Rockstar Games take a massive swing with Grand Theft Auto VI — a game 13 years in the making? Our reporter Joseph Bernstein, who had early access to the game, joined the “Hard Fork” podcast to discuss the quality and craf &nbsp;&nbsp; Facebook ",
+          "published": "2026-11-20T21:20:12+00:00",
           "pop": 1
         }
       ],
@@ -730,23 +738,39 @@
       "covered": false
     },
     {
-      "key": "81de123b9dde",
-      "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads - BigGo Finance",
+      "key": "f881108c2a7d",
+      "title": "Your teen wants to play 'GTA 6'. Here's what to know. - Mashable",
       "items": [
         {
-          "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnVYYVYwY1RNMkVBVlowZDJ0anQ0elU0ODJpZ3N3R19ucG5oeTdTQzRHY3p3SktmZGUteGVVSjlRekRsR1BEN3U3d2h0V013QUVNSnJsaXVTY1lrZUtLOFVQWkFfX3c1YzBpZ0xwNjF5WHJrX1E?oc=5",
+          "title": "Your teen wants to play 'GTA 6'. Here's what to know. - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5La1NxNHM2U1dZUGh6WTlEMExnYU12RnFCejhwNkNqeUdqLXZGVXkyTGRYX2tFQnBHV3ZxNDRnQ2FTM1lzRWpPcC1IaVZEMnNYZjlVbGhVTDdtUmNjd2NKX3dwOVJia2piRUpNaXFIdEpnRTRJ?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads &nbsp;&nbsp; BigGo Finance ",
-          "published": "2026-11-21T18:25:00+00:00",
+          "summary": " Your teen wants to play 'GTA 6'. Here's what to know. &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-21T16:01:23+00:00",
           "pop": 1
         },
         {
-          "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnVYYVYwY1RNMkVBVlowZDJ0anQ0elU0ODJpZ3N3R19ucG5oeTdTQzRHY3p3SktmZGUteGVVSjlRekRsR1BEN3U3d2h0V013QUVNSnJsaXVTY1lrZUtLOFVQWkFfX3c1YzBpZ0xwNjF5WHJrX1E?oc=5",
+          "title": "Your teen wants to play 'GTA 6'. Here's what to know. - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5La1NxNHM2U1dZUGh6WTlEMExnYU12RnFCejhwNkNqeUdqLXZGVXkyTGRYX2tFQnBHV3ZxNDRnQ2FTM1lzRWpPcC1IaVZEMnNYZjlVbGhVTDdtUmNjd2NKX3dwOVJia2piRUpNaXFIdEpnRTRJ?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads &nbsp;&nbsp; BigGo Finance ",
-          "published": "2026-11-21T18:25:00+00:00",
+          "summary": " Your teen wants to play 'GTA 6'. Here's what to know. &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-21T16:01:23+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.0,
+      "covered": false
+    },
+    {
+      "key": "5c6a2e13d6d4",
+      "title": "How To Execute A Perfect ‘GTA 6’ Robbery For Maximum Money - Forbes",
+      "items": [
+        {
+          "title": "How To Execute A Perfect ‘GTA 6’ Robbery For Maximum Money - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjgyamRVNFdkUm1hblA2Z1VQMm5ybl9Hblo0bTBfaVhIQTFVUzkyX0RFamxvR1NKSUU0S19Hb3dDUHpMUTd0N1NMUThmUkViU3Y0R2JtdG1iZnNyNmgtbGdscjRTc0VrWERCbkpIVGdFZGtubTViWWhOTG1sMTdGS01DVXRFWXpZQmRDNG1FZVNLRlZ1YkxwMG9TWnZOTDQwOGlLS091dDR5bVk?oc=5",
+          "source": "google_news",
+          "summary": " How To Execute A Perfect ‘GTA 6’ Robbery For Maximum Money &nbsp;&nbsp; Forbes ",
+          "published": "2026-11-21T13:55:09+00:00",
           "pop": 1
         }
       ],

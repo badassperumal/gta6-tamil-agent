@@ -143,6 +143,18 @@
       "duration": 49.1,
       "published_at": "2026-11-21T13:41:51.903934+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261121-191312-short",
+      "video_id": null,
+      "title": "GTA 6 New Update: ரோட்ல நடக்கும்போதே Radio கேட்கலாம்! #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 listening to radio outside vehicle feature",
+      "hook": "ஹலோ மக்களே, GTA 6-ல வந்திருக்கிற இந்த செம மாஸான புதிய update பத்தி உங்களுக்குத் தெரியுமா?",
+      "duration": 46.3,
+      "published_at": "2026-11-21T19:17:17.415126+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -169,12 +181,14 @@
     "846dc4659c61",
     "dbcdb15457f5",
     "c47242823b0d",
-    "a2482784b2b2"
+    "a2482784b2b2",
+    "8688c66d8449",
+    "314cedd39693"
   ],
   "breaking_days": {
     "2026-11-18": 1,
     "2026-11-19": 2,
     "2026-11-20": 1,
-    "2026-11-21": 1
+    "2026-11-21": 2
   }
 }

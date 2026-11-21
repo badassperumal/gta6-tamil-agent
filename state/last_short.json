@@ -1,104 +1,116 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "GTA 6 first day sales record breakdown",
-    "story_key": "c47242823b0d",
-    "angle": "Breaking down the massive $3.79 billion first-day sales record shattered by GTA 6 globally",
-    "working_title": "GTA 6 செய்த வரலாற்று சாதனை! 🤯 $3.8 Billion First Day Sales! Tamil #Shorts",
-    "hook_line": "ரிலீஸ் ஆன ஒரே நாள்ல GTA 6 பண்ணிய வசூல் இருக்கே... உலகமே மிரண்டு போச்சு!",
+    "topic": "GTA 6 listening to radio outside vehicle feature",
+    "story_key": "8688c66d8449",
+    "angle": "Highlighting the newly confirmed post-launch feature reported by Mashable that allows players to listen to radio stations outside vehicles.",
+    "working_title": "GTA 6 Car இல்லாம Radio கேட்க முடியுமா? 📻 New Feature! #Shorts",
+    "hook_line": "GTA 6-ல கார் இல்லாம சும்மா நடந்து போகும்போதே Radio கேட்க முடியுமா? Rockstar குடுத்த மாஸ் Feature!",
     "footage_tags": [
-      "GTA 6 trailer footage",
-      "Leonida map",
-      "Jason and Lucia",
-      "sales milestone news"
+      "GTA 6 gameplay",
+      "Vice City walking",
+      "radio wheel",
+      "Lucia Jason walking",
+      "PS5 gameplay"
     ],
     "facts": [
-      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "Grand Theft Auto VI shattered entertainment box office records with $3.79 billion in day one retail sales."
+      "GTA 6 allows players to listen to the radio outside of a vehicle.",
+      "GTA 6 released on 19 November 2026 on PlayStation 5 and Xbox Series X|S."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWZqYVN1ZTMtVDlFWjBUclI5SHd2T2tKUVFUOU85RDhsam84NDdwREpScWYtMVpCVEgtakV3bm1TR0R0S28xeGttTFFaQklabmVnMVBBdy1RRkxWWEVsVHY1YjJWM2NwNWJ2Mm1YcTZTRFhRdHpmNW5yUnFpTHNnMURmcWVjMXkwRHc1YXZzb0ZuZTktcmU4Z09TaGs?oc=5"
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1kzMzV4LWNId2VrTkZ2Tm9DVzUybzRva0llRFItTzhfNE9PcEV1UnhiVl83Y2FVcUVaeG81bUJjeGpneTQ2eDJyem84dHZpMEtpcnZELWlxNkRNajhZRWRWZVFrU0g2ZXU0cGtMQ3E1WlBxSF9nX1dSOFo3Rkx6WU1fQXZONFky?oc=5"
     ],
-    "why": "Capitalizes on the massive trending news of GTA 6's unprecedented $3.79B first-day sales record using a high-energy Tamil short-form format that matches current viewer interest.",
+    "why": "Delivers an exciting newly confirmed gameplay feature from Mashable that answers a long-standing wish for Tamil GTA fans.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "ரிலீஸ் ஆன ஒரே நாள்ல GTA 6 பண்ணிய வசூல் இருக்கே... உலகமே மிரண்டு போச்சு பாஸ்!",
-        "visual": "vice city neon lights night",
-        "onscreen": "$3.79 Billion Record!",
+        "narration": "ஹலோ மக்களே, GTA 6-ல வந்திருக்கிற இந்த செம மாஸான புதிய update பத்தி உங்களுக்குத் தெரியுமா?",
+        "visual": "vice city neon street",
+        "onscreen": "MASSIVE UPDATE",
         "start": 0.0,
-        "end": 6.754
+        "end": 7.282
       },
       {
-        "narration": "நம்ம Rockstar Games வெளியிட்ட இந்த Masterpiece, முதல் நாளே வேற லெவல் சாதனை படைச்சிருக்கு.",
-        "visual": "jason and lucia modern car",
-        "onscreen": "Rockstar Games",
-        "start": 6.754,
-        "end": 12.788
+        "narration": "Mashable reports படி, இந்த தடவை செம தரமான ஒரு feature உள்ள வருது.",
+        "visual": "rockstar games logo",
+        "onscreen": "Confirmed feature",
+        "start": 7.282,
+        "end": 12.356
       },
       {
-        "narration": "அதாவது வெறும் 24 மணி நேரத்துல, மொத்தமா $3.79 billion retail sales அள்ளி இருக்கு.",
-        "visual": "ps5 controller gameplay action",
-        "onscreen": "Day One Sales",
-        "start": 12.788,
-        "end": 20.55
+        "narration": "அதாவது, கார் அல்லது bike குள்ள மட்டும் இல்லாம, நீங்க ரோட்ல நடக்கும்போதே radio கேட்கலாம்!",
+        "visual": "lucia walking street",
+        "onscreen": "Radio outside cars",
+        "start": 12.356,
+        "end": 18.846
       },
       {
-        "narration": "Leonida map குள்ள Jason மற்றும் Lucia கூட சேர்ந்து gamers பண்ணிய ருத்ரதாண்டவம் இது.",
-        "visual": "leonida swamp highway chase",
-        "onscreen": "Jason & Lucia",
-        "start": 20.55,
-        "end": 26.392
+        "narration": "இது உண்மையாவே game-ன் immersion லெவலை வேற லெவலுக்கு கொண்டு போயிடும் மக்களே.",
+        "visual": "jason lucia sunset",
+        "onscreen": "Next level vibe",
+        "start": 18.846,
+        "end": 23.632
       },
       {
-        "narration": "இதுவரை எந்த entertainment media வும் பண்ணாத அளவுக்கு பாக்ஸ் ஆபிஸ் ரெக்கார்ட்ஸை சுக்குநூறா உடைச்சிருக்கு.",
-        "visual": "explosion police cars chaos",
-        "onscreen": "History Broken",
-        "start": 26.392,
-        "end": 32.978
+        "narration": "கடந்த November 19, 2026-ல PlayStation 5 மற்றும் Xbox Series X|S-ல game release ஆனப்போவே இந்த detail செம hype ஆனது.",
+        "visual": "ps5 controller gaming",
+        "onscreen": "PS5 & Xbox Series X|S",
+        "start": 23.632,
+        "end": 33.818
       },
       {
-        "narration": "PS5 மற்றும் Xbox Series X|S ல இன்னைக்கு இறங்கி இருக்கிற இந்த சம்பவம்... gaming history லயே செம பிளாக் பஸ்டர்.",
-        "visual": "playstation 5 console box",
-        "onscreen": "PS5 & Xbox",
-        "start": 32.978,
-        "end": 41.364
+        "narration": "இந்த feature உங்களோட gameplay அனுபவத்தை இன்னும் மிரட்டலா மாத்தப் போகுது.",
+        "visual": "vice city driving fast",
+        "onscreen": "Awesome gameplay",
+        "start": 33.818,
+        "end": 38.7
       },
       {
-        "narration": "இந்த வெறித்தனமான வசூல் சாதனை உங்களை எந்த அளவுக்கு ஆச்சரியப்படுத்துது? மறக்காம Subscribe பண்ணுங்க.",
-        "visual": "vice city beach sunset crowd",
-        "onscreen": "Subscribe பண்ணுங்க",
-        "start": 41.364,
-        "end": 49.102
+        "narration": "நீங்க எந்த radio station-ல பாட்டு கேட்க வெயிட் பண்றீங்கன்னு கீழ கமெண்ட்ல சொல்லுங்க.",
+        "visual": "character looking map",
+        "onscreen": "Comment below",
+        "start": 38.7,
+        "end": 44.038
+      },
+      {
+        "narration": "மறக்காம Subscribe பண்ணுங்க!",
+        "visual": "subscribe animation youtube",
+        "onscreen": "Subscribe pannunga",
+        "start": 44.038,
+        "end": 46.256
       }
     ],
-    "thumbnail_text": "$3.8B FIRST DAY RECORD",
-    "end_question": "GTA 6 முதல் நாள் வசூல் பத்தி உங்க கருத்து என்ன?",
-    "word_count": 89
+    "thumbnail_text": "GTA 6 RADIO FEATURE",
+    "end_question": "GTA 6-ல உங்களோட favorite radio station எது மக்களே?",
+    "word_count": 87
   },
   "meta": {
-    "title": "GTA 6 First Day Collection சாதனை! Tamil #Shorts",
-    "description": "GTA 6 first day collection in Tamil! Rockstar Games வெளியிட்ட GTA 6 முதல் நாளே $3.79 billion வசூல் செய்து உலக சாதனையை உடைத்துள்ளது.\n\nJason மற்றும் Lucia உடன் Leonida map-ல் gamers செய்த இந்த சாதனை gaming history-லேயே செம பிளாக் பஸ்டர் ஆகும். PS5 மற்றும் Xbox Series X|S-ல் வெளியான இந்த பிரம்மாண்ட வசூல் பற்றிய முழு விவரங்களை இந்த ஷார்ட்ஸில் பார்க்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 GTA 6 முதல் நாள் வசூல் பத்தி உங்க கருத்து என்ன?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 New Update: ரோட்ல நடக்கும்போதே Radio கேட்கலாம்! #Shorts",
+    "description": "GTA 6-ல வந்திருக்கிற செம மாஸான புதிய update பத்தி உங்களுக்குத் தெரியுமா? ரோட்ல நடக்கும்போதே radio கேட்கலாம்.\n\nMashable reports படி, கார் அல்லது bike குள்ள மட்டும் இல்லாம, நீங்க ரோட்ல நடக்கும்போதே radio கேட்கும் வசதி GTA 6-ல் வரவுள்ளது. இந்த செம feature பத்தி இந்த ஷார்ட்ஸில் முழுசா பாருங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 GTA 6-ல உங்களோட favorite radio station எது மக்களே?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 first day collection",
-      "gta 6 news tamil",
-      "gta 6 sales record",
-      "rockstar games tamil",
-      "gta 6 gameplay tamil",
       "gta 6 update tamil",
-      "gta 6 launch tamil",
-      "ps5 games tamil",
-      "xbox series x tamil",
-      "gta 6 jason lucia",
-      "gta 6 leonida map",
+      "gta 6 news tamil",
+      "gta 6 radio feature",
+      "gta 6 gameplay tamil",
+      "gta 6 features",
+      "gta 6 tamil gaming",
+      "gta 6 secrets tamil",
+      "gta 6 leaks tamil",
+      "gta 6 shorts tamil",
+      "gta 6 new details",
+      "gta 6 ps5 tamil",
+      "gta 6 xbox tamil",
       "tamil gaming channel",
-      "gta 6 facts tamil",
       "gta tamil",
-      "gaming news tamil",
+      "gta 6 update",
+      "gta 6 news",
+      "gta 6 radio",
+      "gta six tamil",
+      "gta 6 2026",
       "GTA 6",
       "GTA VI",
       "Tamil Gaming"
