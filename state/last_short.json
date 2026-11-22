@@ -1,113 +1,111 @@
 {
   "plan": {
-    "pillar": "news",
-    "topic": "GTA 6 first day sales record breakdown",
-    "story_key": "5b0c953a9337",
-    "angle": "Highlight the massive $3.8 billion first-day sales record and how it compares to history",
-    "working_title": "GTA 6 செய்த வரலாற்று சாதனை! 3.8 Billion Dollars 🤯 #Shorts",
-    "hook_line": "Elaaii, வெளிய ஆன ஒரே நாள்ல GTA 6 பண்ணியிருக்க the biggest வசூல் சாதனை என்ன தெரியுமா?",
+    "pillar": "tips",
+    "topic": "GTA 6 map online tool",
+    "story_key": "a5ab9e9a7d5f",
+    "angle": "Rockstar has released the official online map of Leonida so you can check out Vice City before clearing the fog in-game!",
+    "working_title": "GTA 6 Online Map வந்தாச்சு! Fog இல்லாம இப்போவே பாக்கலாம் 🗺️ #Shorts",
+    "hook_line": "மச்சான்ஸ், GTA 6-வோட முழு மேப்பையும் ராக்ஸ்டார் இப்போ ஆன்லைன்ல விட்டுருக்காங்க! கேம்ல ஃபாக் கிளியர் பண்றதுக்கு முன்னாடியே இப்போவே லியோனிடாவை சுத்தலாம்!",
     "footage_tags": [
-      "GTA 6 gameplay",
-      "Vice City streets",
-      "sales record graphic",
-      "Jason and Lucia"
+      "GTA 6 online map",
+      "Vice City layout",
+      "Leonida map reveal",
+      "Rockstar Games website"
     ],
     "facts": [
-      "GTA 6 generated $3.8 billion in retail sales on its first day of release.",
-      "Rockstar Games' GTA 6 is available on PlayStation 5 and Xbox Series X|S, set in Leonida featuring Jason and Lucia."
+      "Rockstar has put the GTA 6 map online, so you can see Leonida before clearing the fog",
+      "The game is set in the state of Leonida, which includes Vice City. The two main characters are Jason and Lucia."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0Y4MHlLTUhVOWhhanlna2d6cGFJaTY3YlVmQ0FRSWVTTVE0UXNNdXN6R2gybWJIVk5nQ3VGOXB5UkQxUzhXQjZraDk3SHJkWktBNzNFOFo4WmpOaG1PQnpRS1M0c1E5NjRDYmNrdFNLSW5qWlNfRnFPV1FqdlVZcTV3b0NPRDFIWWFjUUgtX1ZxTU5kUXdzSkU5bw?oc=5"
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXBjVWNNSFFIcXNabldPZ2ZmVDJzU01iSEk0RnhRVFNYTWhMYWtWVDVFRFhZMzk1dWd3LXhJN25QdGtxVDFvWHF4dDRvSUhSQmpFQUN5SzJZUjF5VEllTHR0ZkxNNVdRdzNEbkl4dXNGRmJUR2dyUUZITVFTRXpPS0xENlg?oc=5"
     ],
-    "why": "Capitalizes on verified massive day-one sales records with high search interest, translated into high-energy Tamil YouTube Shorts format.",
+    "why": "Capitalizes on the trending online map release allowing Tamil gamers to explore Leonida and Vice City layout right away, perfectly fitting the Shorts format without violating pre-launch rules since the game is out.",
     "format": "short",
     "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "Elaaii, வெளிய ஆன ஒரே நாள்ல GTA 6 பண்ணியிருக்க the biggest வசூல் சாதனை என்ன தெரியுமா?",
-        "visual": "Vice City beach day overview",
-        "onscreen": "GTA 6 RECORD!",
+        "narration": "மச்சான்ஸ், GTA 6-வோட முழு மேப்பையும் ராக்ஸ்டார் இப்போ ஆன்லைன்ல விட்டுருக்காங்க! கேம்ல ஃபாக் கிளியர் பண்றதுக்கு முன்னாடியே இப்போவே லியோனிடாவை சுத்தலாம்!",
+        "visual": "map overview vice city",
+        "onscreen": "Map Online!",
         "start": 0.0,
-        "end": 6.754
+        "end": 11.266
       },
       {
-        "narration": "Rockstar Games ரிலீஸ் பண்ணிய இந்த game, market-ல களம் இறங்குன உடனே ஒரு massive history-யை create பண்ணியிருக்கு.",
-        "visual": "Jason and Lucia cinematic shot",
-        "onscreen": "Massive Launch",
-        "start": 6.754,
-        "end": 13.316
+        "narration": "கேம் ரிலீஸுக்கு முன்னாடியே இந்த ஆன்லைன் டூல் வச்சு லியோனிடா மாநிலத்தை ஃபுல்லா நீங்க இப்பவே எக்ஸ்ப்ளோர் பண்ணி பாத்துக்கலாம் மச்சான்ஸ்.",
+        "visual": "leonida map zoom in",
+        "onscreen": "Explore Leonida",
+        "start": 11.266,
+        "end": 19.868
       },
       {
-        "narration": "வெளியான ஒரே ஒரு நாள்ல, அதாவது first day-ல மட்டும் இந்த game அடிச்ச retail sales கலக்கல் எவ்வளோ தெரியுமா?",
-        "visual": "PlayStation 5 console and controller",
-        "onscreen": "First Day Sales",
-        "start": 13.316,
-        "end": 20.502
+        "narration": "வைஸ் சிட்டி ஏரியா எந்த பக்கம் வருது, ரோட்ஸ் எங்கலாம் போகுதுன்னு எல்லாத்தையுமே நீங்க இப்போவே ஆன்லைன்ல செக் அவுட் பண்ணி ஒரு ஐடியா வச்சுக்கலாம்.",
+        "visual": "vice city streets aerial",
+        "onscreen": "Check City",
+        "start": 19.868,
+        "end": 29.358
       },
       {
-        "narration": "சும்மா இல்லங்க, கரெக்ட்டா 3.8 billion dollars அளவுக்கு revenue அள்ளி இருக்குதாம் anna!",
-        "visual": "Leonida highway car chase",
-        "onscreen": "$3.8 BILLION!",
-        "start": 20.502,
-        "end": 27.04
-      },
-      {
-        "narration": "PlayStation 5 மற்றும் Xbox Series X|S-ல வெளியான இந்த game, gaming history-யே மாத்தி யோசிக்க வச்சிருக்கு.",
-        "visual": "Xbox Series X console setup",
-        "onscreen": "PS5 & Xbox",
-        "start": 27.04,
-        "end": 34.226
-      },
-      {
-        "narration": "Leonida state-ல Jason, Lucia கூட நாம பண்ற இந்த mission-க்கு இப்போ global-ல செம craze போயிட்டு இருக்கு.",
-        "visual": "Lucia running from police",
+        "narration": "ஜேசன் மற்றும் லூசியா மிஷன்ஸ் பண்றதுக்கு முன்னாடி இந்த மேப் ரொம்பவே யூஸ்ஃபுல்லா இருக்கும்.",
+        "visual": "jason and lucia artwork",
         "onscreen": "Jason & Lucia",
-        "start": 34.226,
-        "end": 40.62
+        "start": 29.358,
+        "end": 34.888
       },
       {
-        "narration": "இந்த record-ஐ வேற எந்த game-ஆச்சும் அடிக்க முடியுமா? நீங்க என்ன நினைக்கிறீங்கன்னு கீழ comment-ல தட்டி விடுங்க.",
-        "visual": "Vice City neon lights night",
+        "narration": "நவம்பர் 19, 2026-ல பிளேஸ்டேஷன் 5 மற்றும் எக்ஸ்பாக்ஸ் சீரிஸ் எக்ஸ், எஸ்ல கேம் வரும்போது இந்த நாலேட்ஜ் உனக்கு வேற லெவல்ல கைக்கொடுக்கும்.",
+        "visual": "ps5 xbox controller",
+        "onscreen": "Nov 19 2026",
+        "start": 34.888,
+        "end": 45.89
+      },
+      {
+        "narration": "இந்த ஆன்லைன் மேப் லிங்க் வச்சு நீங்க ஃபர்ஸ்ட் எந்த இடத்தை பாக்க போறீங்கன்னு கமெண்ட்ல சொல்லுங்க.",
+        "visual": "open world scenery gta",
         "onscreen": "Comment below",
-        "start": 40.62,
-        "end": 47.542
+        "start": 45.89,
+        "end": 51.828
       },
       {
-        "narration": "மறக்காம Subscribe பண்ணுங்க.",
-        "visual": "GTA 6 logo animation",
-        "onscreen": "Subscribe pannunga",
-        "start": 47.542,
-        "end": 49.832
+        "narration": "மறக்காம சப்ஸ்கிரைப் பண்ணுங்க.",
+        "visual": "subscribe animation gta",
+        "onscreen": "Subscribe",
+        "start": 51.828,
+        "end": 54.046
       }
     ],
-    "thumbnail_text": "$3.8 BILLION RECORD",
-    "end_question": "இந்த சாதனை முறியடிக்கப்படுமா?",
-    "word_count": 102
+    "thumbnail_text": "GTA 6 MAP ONLINE",
+    "end_question": "மேப்ல ஃபர்ஸ்ட் எந்த இடத்தை பாப்பீங்க?",
+    "word_count": 97
   },
   "meta": {
-    "title": "GTA 6 First Day Collection Shocking Record in Tamil #Shorts",
-    "description": "GTA 6 வெளிய ஆன ஒரே நாள்ல பண்ணியிருக்க the biggest வசூல் சாதனை என்ன தெரியுமா?\nRockstar Games ரிலீஸ் பண்ணிய இந்த game first day-ல அடிச்ச retail sales கலக்கல் எவ்வளோன்னு இந்த video-ல பாக்கலாம். PlayStation 5 மற்றும் Xbox Series X|S-ல வெளியான இந்த game gaming history-யே மாத்தி இருக்கு. Jason, Lucia கூட நாம பண்ற இந்த mission மற்றும் global craze பத்தி தெரிஞ்சிக்க இந்த short-ஐ முழுசா பாருங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த சாதனை முறியடிக்கப்படுமா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 முழு மேப் ஆன்லைன் டூல் Tamil - இப்போவே எக்ஸ்ப்ளோர் செய்! #Shorts",
+    "description": "GTA 6 ஆன்லைன் மேப் டூல் Tamil - முழு மேப் ராக்ஸ்டார் இப்போ ஆன்லைன்ல!\nலியோனிடா மாநிலம், வைஸ் சிட்டி, ரோட்ஸ் எல்லாம் இப்போவே எக்ஸ்ப்ளோர் செய்யலாம்!\nநவம்பர் 19, 2026-ல் PS5, Xbox Series X|S க்கு வெளியிடப்படும் GTA 6-இன் முழு மேப்பை இப்போது ஆன்லைனில் பார்க்கலாம்.\nஜேசன் & லூசியா மிஷன்ஸ் முன் இந்த மேப் உங்களுக்கு மிக பயனுள்ளதாக இருக்கும்.\nஉங்கள் முதல் இடத்தை கமெண்டில் சொல்லுங்கள், மறக்காமல் சப்ஸ்கிரைப் செய்யுங்கள்!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 மேப்ல ஃபர்ஸ்ட் எந்த இடத்தை பாப்பீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "gta 6 tamil",
-      "gta 6 news tamil",
-      "gta 6 first day collection",
-      "gta 6 sales record",
-      "gta 6 gameplay tamil",
-      "rockstar games tamil",
-      "playstation 5 tamil",
-      "xbox series x tamil",
-      "gta v vi tamil",
-      "jason and lucia gta 6",
-      "gta 6 updates tamil",
-      "tamil gaming channel",
-      "gta 6 facts tamil",
-      "gaming news tamil",
-      "gta 6 trailer tamil",
       "GTA 6",
-      "GTA VI",
-      "Tamil Gaming"
+      "GTA6 Tamil",
+      "GTA6 map",
+      "GTA 6 Tamil map",
+      "GTA 6 online map",
+      "GTA6 Tamil gameplay",
+      "GTA6 tips Tamil",
+      "GTA6 secrets Tamil",
+      "GTA6 Tamil guide",
+      "GTA6 Tamil gaming",
+      "Tamil gamers",
+      "Tamil gaming",
+      "Tamil YouTube",
+      "GTA 6 release",
+      "GTA 6 PS5",
+      "GTA 6 Xbox",
+      "GTA 6 2026",
+      "GTA 6 Lionita",
+      "GTA 6 Vice City",
+      "GTA 6 map exploration",
+      "GTA6 Tamil Shorts",
+      "GTA 6 Tamil",
+      "GTA VI"
     ]
   }
 }

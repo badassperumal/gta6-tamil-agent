@@ -179,6 +179,18 @@
       "duration": 49.8,
       "published_at": "2026-11-22T13:37:59.523344+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261122-210827-short",
+      "video_id": null,
+      "title": "GTA 6 முழு மேப் ஆன்லைன் டூல் Tamil - இப்போவே எக்ஸ்ப்ளோர் செய்! #Shorts",
+      "format": "short",
+      "pillar": "tips",
+      "topic": "GTA 6 map online tool",
+      "hook": "மச்சான்ஸ், GTA 6-வோட முழு மேப்பையும் ராக்ஸ்டார் இப்போ ஆன்லைன்ல விட்டுருக்காங்க! கேம்ல ஃபாக் கிளியர் பண்றதுக்கு முன்னாடிய",
+      "duration": 54.0,
+      "published_at": "2026-11-22T21:10:06.848991+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -211,7 +223,9 @@
     "4f0625c11e1e",
     "b39448f80532",
     "5b0c953a9337",
-    "a2482784b2b2"
+    "a2482784b2b2",
+    "a5ab9e9a7d5f",
+    "b1eee84465e4"
   ],
   "breaking_days": {
     "2026-11-18": 1,
