@@ -1,99 +1,113 @@
 {
   "plan": {
-    "pillar": "story",
-    "topic": "GTA 6 Jason and Lucia story mode reviews",
-    "story_key": "4f0625c11e1e",
-    "angle": "Highlighting early critical praise for Jason and Lucia's emotional love story in Vice City without spoilers",
-    "working_title": "GTA 6-ல் Jason & Lucia Love Story! மனசை தொட்ட கதை ❤️ #Shorts",
-    "hook_line": "GTA 6-ல வெறும் கன் ஃபைட்டும் சேஸிங்கும் மட்டும் இல்ல, Jason & Lucia-வோட Love Story தான் இப்போ கலக்குது!",
+    "pillar": "news",
+    "topic": "GTA 6 first day sales record breakdown",
+    "story_key": "5b0c953a9337",
+    "angle": "Highlight the massive $3.8 billion first-day sales record and how it compares to history",
+    "working_title": "GTA 6 செய்த வரலாற்று சாதனை! 3.8 Billion Dollars 🤯 #Shorts",
+    "hook_line": "Elaaii, வெளிய ஆன ஒரே நாள்ல GTA 6 பண்ணியிருக்க the biggest வசூல் சாதனை என்ன தெரியுமா?",
     "footage_tags": [
-      "gta 6 jason lucia cinematic",
-      "vice city gameplay ps5",
-      "gta 6 story mode",
-      "leonida drive cutscene"
+      "GTA 6 gameplay",
+      "Vice City streets",
+      "sales record graphic",
+      "Jason and Lucia"
     ],
     "facts": [
-      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "The game is set in the state of Leonida, which includes Vice City. The two main characters are Jason and Lucia.",
-      "Critical reviews from outlets like PCMag highlight that GTA 6's love story between Jason and Lucia steals players' hearts rather than being a retread."
+      "GTA 6 generated $3.8 billion in retail sales on its first day of release.",
+      "Rockstar Games' GTA 6 is available on PlayStation 5 and Xbox Series X|S, set in Leonida featuring Jason and Lucia."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzVfXzNodnc2Q0RxdGZxOVdKbEY4OVA1bm9BTEltX0hfZ1JmYklZNXpFRlhYSlBsdUpZSnZsLXYtaVdNaTcwM0plZm9WMldXYWZ6aFF6aUZrbmF0OWxtTWVUTmRPZ3pwcFRNUDRBdTFFZVJRUmFJZXkxRWhWTmZIbzg5YVZTREFzVzZ5bGF4eXRQYU1UYUs4V0Y4WmhxWWZBWktuYWZ2NA?oc=5"
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0Y4MHlLTUhVOWhhanlna2d6cGFJaTY3YlVmQ0FRSWVTTVE0UXNNdXN6R2gybWJIVk5nQ3VGOXB5UkQxUzhXQjZraDk3SHJkWktBNzNFOFo4WmpOaG1PQnpRS1M0c1E5NjRDYmNrdFNLSW5qWlNfRnFPV1FqdlVZcTV3b0NPRDFIWWFjUUgtX1ZxTU5kUXdzSkU5bw?oc=5"
     ],
-    "why": "Recent shorts over-saturated sales records and generic map secrets; covering Jason and Lucia's critically acclaimed relationship taps into high Tamil curiosity around the story campaign.",
+    "why": "Capitalizes on verified massive day-one sales records with high search interest, translated into high-energy Tamil YouTube Shorts format.",
     "format": "short",
     "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "சின்ன spoiler warning மக்களே! GTA 6-ல வெறும் heist-உம் gun fight-உம் மட்டும் இல்ல, Jason & Lucia-வோட love story தான் இப்போ உலக லெவல்ல செம்ம trending!",
-        "visual": "jason lucia couple",
-        "onscreen": "SPOILER WARNING",
+        "narration": "Elaaii, வெளிய ஆன ஒரே நாள்ல GTA 6 பண்ணியிருக்க the biggest வசூல் சாதனை என்ன தெரியுமா?",
+        "visual": "Vice City beach day overview",
+        "onscreen": "GTA 6 RECORD!",
         "start": 0.0,
-        "end": 10.186
+        "end": 6.754
       },
       {
-        "narration": "நவம்பர் 19 அன்னைக்கு PS5 மற்றும் Xbox-ல ரிலீஸான GTA 6, Leonida மற்றும் Vice City-ல ஒரு புது உலகத்தையே காட்டியிருக்கு.",
-        "visual": "vice city neon night",
-        "onscreen": "VICE CITY",
-        "start": 10.186,
-        "end": 19.004
+        "narration": "Rockstar Games ரிலீஸ் பண்ணிய இந்த game, market-ல களம் இறங்குன உடனே ஒரு massive history-யை create பண்ணியிருக்கு.",
+        "visual": "Jason and Lucia cinematic shot",
+        "onscreen": "Massive Launch",
+        "start": 6.754,
+        "end": 13.316
       },
       {
-        "narration": "ஆனா எல்லாத்தையும் விட, மெயின் characters ஆன Jason மற்றும் Lucia நடுவுல இருக்கிற emotional chemistry தான் எல்லாரையும் உருக வைக்குது.",
-        "visual": "lucia jason driving",
-        "onscreen": "JASON & LUCIA",
-        "start": 19.004,
-        "end": 27.654
+        "narration": "வெளியான ஒரே ஒரு நாள்ல, அதாவது first day-ல மட்டும் இந்த game அடிச்ச retail sales கலக்கல் எவ்வளோ தெரியுமா?",
+        "visual": "PlayStation 5 console and controller",
+        "onscreen": "First Day Sales",
+        "start": 13.316,
+        "end": 20.502
       },
       {
-        "narration": "PCMag மாதிரியான பெரிய outlets கொடுத்த reviews-ல, இது வெறும் பழிவாங்குற கதை இல்லாம, மனசை தொடுற ஒரு அழகான love story-ன்னு சொல்லியிருக்காங்க!",
-        "visual": "cutscene dramatic emotional",
-        "onscreen": "PCMAG PRAISE",
-        "start": 27.654,
-        "end": 37.12
+        "narration": "சும்மா இல்லங்க, கரெக்ட்டா 3.8 billion dollars அளவுக்கு revenue அள்ளி இருக்குதாம் anna!",
+        "visual": "Leonida highway car chase",
+        "onscreen": "$3.8 BILLION!",
+        "start": 20.502,
+        "end": 27.04
       },
       {
-        "narration": "ஒவ்வொரு mission-லையும் அவங்க ஒருத்தருக்கு ஒருத்தர் குடுக்குற support ரொம்பவே realistic-ஆ வந்திருக்கு. Rockstar Games கதையில நிஜமாவே ஒரு emotional magic பண்ணிட்டாங்க!",
-        "visual": "action robbery sunset",
-        "onscreen": "PURE EMOTION",
-        "start": 37.12,
-        "end": 47.09
+        "narration": "PlayStation 5 மற்றும் Xbox Series X|S-ல வெளியான இந்த game, gaming history-யே மாத்தி யோசிக்க வச்சிருக்கு.",
+        "visual": "Xbox Series X console setup",
+        "onscreen": "PS5 & Xbox",
+        "start": 27.04,
+        "end": 34.226
       },
       {
-        "narration": "கண்டிப்பா story mode-ஐ மிஸ் பண்ணிடாதீங்க. இந்த ஜோடி பத்தி நீங்க என்ன நினைக்கிறீங்க? Subscribe பண்ணுங்க! ஏன்னா...",
-        "visual": "jason lucia looking back",
-        "onscreen": "SUBSCRIBE",
-        "start": 47.09,
-        "end": 55.908
+        "narration": "Leonida state-ல Jason, Lucia கூட நாம பண்ற இந்த mission-க்கு இப்போ global-ல செம craze போயிட்டு இருக்கு.",
+        "visual": "Lucia running from police",
+        "onscreen": "Jason & Lucia",
+        "start": 34.226,
+        "end": 40.62
+      },
+      {
+        "narration": "இந்த record-ஐ வேற எந்த game-ஆச்சும் அடிக்க முடியுமா? நீங்க என்ன நினைக்கிறீங்கன்னு கீழ comment-ல தட்டி விடுங்க.",
+        "visual": "Vice City neon lights night",
+        "onscreen": "Comment below",
+        "start": 40.62,
+        "end": 47.542
+      },
+      {
+        "narration": "மறக்காம Subscribe பண்ணுங்க.",
+        "visual": "GTA 6 logo animation",
+        "onscreen": "Subscribe pannunga",
+        "start": 47.542,
+        "end": 49.832
       }
     ],
-    "thumbnail_text": "JASON LUCIA LOVE",
-    "end_question": "Jason மற்றும் Lucia-வோட Love Story உங்களுக்கு பிடிச்சிருக்கா மக்களே?",
-    "word_count": 107
+    "thumbnail_text": "$3.8 BILLION RECORD",
+    "end_question": "இந்த சாதனை முறியடிக்கப்படுமா?",
+    "word_count": 102
   },
   "meta": {
-    "title": "GTA 6-ல இப்படி ஒரு Love Story-ஆ? Jason & Lucia Tamil #Shorts",
-    "description": "GTA 6 Tamil Jason and Lucia emotional love story details and story review!\nCheck out why Rockstar Games' new GTA 6 storyline is trending worldwide in Tamil.\n\nGTA 6 Leonida மற்றும் Vice City-ல வெறும் heist மற்றும் gun fights மட்டும் இல்லாம, Jason மற்றும் Lucia-வோட emotional love story இப்போ பயங்கர trending.\nPCMag reviews-ல கூட இந்த ஜோடியோட chemistry மற்றும் missions-ல அவங்க குடுக்குற support-ஐ ரொம்பவே பாராட்டியிருக்காங்க.\nRockstar Games நிஜமாவே இந்த story mode-ல ஒரு emotional magic பண்ணியிருக்காங்க!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 Jason மற்றும் Lucia-வோட Love Story உங்களுக்கு பிடிச்சிருக்கா மக்களே?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 First Day Collection Shocking Record in Tamil #Shorts",
+    "description": "GTA 6 வெளிய ஆன ஒரே நாள்ல பண்ணியிருக்க the biggest வசூல் சாதனை என்ன தெரியுமா?\nRockstar Games ரிலீஸ் பண்ணிய இந்த game first day-ல அடிச்ச retail sales கலக்கல் எவ்வளோன்னு இந்த video-ல பாக்கலாம். PlayStation 5 மற்றும் Xbox Series X|S-ல வெளியான இந்த game gaming history-யே மாத்தி இருக்கு. Jason, Lucia கூட நாம பண்ற இந்த mission மற்றும் global craze பத்தி தெரிஞ்சிக்க இந்த short-ஐ முழுசா பாருங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த சாதனை முறியடிக்கப்படுமா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6",
-      "gta 6 story tamil",
-      "gta 6 jason lucia tamil",
-      "gta 6 love story",
-      "gta 6 review tamil",
-      "gta vi tamil",
-      "gta 6 vice city tamil",
-      "tamil gaming",
-      "tamil gaming shorts",
-      "gta 6 tamil shorts",
-      "gta 6 leonida",
+      "gta 6 news tamil",
+      "gta 6 first day collection",
+      "gta 6 sales record",
       "gta 6 gameplay tamil",
-      "gta tamil",
-      "jason lucia gta 6",
-      "gta 6 ps5 tamil",
-      "GTA VI"
+      "rockstar games tamil",
+      "playstation 5 tamil",
+      "xbox series x tamil",
+      "gta v vi tamil",
+      "jason and lucia gta 6",
+      "gta 6 updates tamil",
+      "tamil gaming channel",
+      "gta 6 facts tamil",
+      "gaming news tamil",
+      "gta 6 trailer tamil",
+      "GTA 6",
+      "GTA VI",
+      "Tamil Gaming"
     ]
   }
 }

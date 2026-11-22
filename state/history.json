@@ -167,6 +167,18 @@
       "duration": 55.9,
       "published_at": "2026-11-21T21:04:24.066110+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261122-133302-short",
+      "video_id": null,
+      "title": "GTA 6 First Day Collection Shocking Record in Tamil #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 first day sales record breakdown",
+      "hook": "Elaaii, வெளிய ஆன ஒரே நாள்ல GTA 6 பண்ணியிருக்க the biggest வசூல் சாதனை என்ன தெரியுமா?",
+      "duration": 49.8,
+      "published_at": "2026-11-22T13:37:59.523344+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -197,7 +209,9 @@
     "8688c66d8449",
     "314cedd39693",
     "4f0625c11e1e",
-    "b39448f80532"
+    "b39448f80532",
+    "5b0c953a9337",
+    "a2482784b2b2"
   ],
   "breaking_days": {
     "2026-11-18": 1,
