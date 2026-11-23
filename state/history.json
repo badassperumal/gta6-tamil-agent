@@ -203,6 +203,18 @@
       "duration": 52.4,
       "published_at": "2026-11-23T01:43:29.835255+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261123-162315-short",
+      "video_id": null,
+      "title": "GTA 6 Update 603MB: என்ன மாறியது? Tamil #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 Update 01.002.002 Patch Notes & Download Size",
+      "hook": "Spoiler Alert! இந்த 603MB அப்டேட் என்ன மாற்றும்? பார்க்கலாம்!",
+      "duration": 77.4,
+      "published_at": "2026-11-23T16:26:00.899583+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -238,7 +250,9 @@
     "a2482784b2b2",
     "a5ab9e9a7d5f",
     "b1eee84465e4",
-    "cf48aee3d7f5"
+    "cf48aee3d7f5",
+    "40906e6dfb93",
+    "aae76889206c"
   ],
   "breaking_days": {
     "2026-11-18": 1,

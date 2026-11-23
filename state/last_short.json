@@ -1,103 +1,117 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "GTA 6 New Zealand Trick Warning",
-    "story_key": null,
-    "angle": "Explaining the risks of the New Zealand timezone trick for PS5 and Xbox to prevent account bans",
-    "working_title": "GTA 6 New Zealand Trick பண்ணலாமா? 🛑 Ban ஆகுமா பாத்துக்கோங்க! #Shorts",
-    "hook_line": "ஏலாய்! நியூசிலாந்து ட்ரிக் பண்ணி GTA 6 சீக்கிரம் விளையாடலாமா? அக்கவுண்ட் பேன் ஆக வாய்ப்பு இருக்கா?",
+    "topic": "GTA 6 Update 01.002.002 Patch Notes & Download Size",
+    "story_key": "40906e6dfb93",
+    "angle": "Breakdown of the latest GTA 6 post‑release patch – what the official notes say, how big the download is, and which bugs were actually fixed",
+    "working_title": "GTA 6 Update 01.002.002 பைசா! Patch Notes & Download Size முழு விவரம் | New Fixes Explained",
+    "hook_line": "இந்த 603MB அப்டேட் என்ன மாற்றும்? பார்க்கலாம்!",
     "footage_tags": [
-      "GTA 6 gameplay",
-      "PS5 console",
-      "warning sign",
-      "Leonida Vice City"
+      "patch notes",
+      "download size",
+      "update",
+      "Rockstar",
+      "GTA 6"
     ],
     "facts": [
-      "GTA 6 released on 19 November 2026 on PlayStation 5 and Xbox Series X|S."
+      "GTA 6 Update 01.002.002 is now live.",
+      "Rockstar released official patch notes for Update 01.002.002.",
+      "The update size for PS5 is 603 MB.",
+      "Insider Gaming reported the download size and confirmed the patch notes.",
+      "The patch fixes phone call bugs that blocked story progress (VICE).",
+      "Rockstar has not explained what the 603 MB update changes (MIXED News)."
     ],
-    "sources": [],
-    "why": "Addresses a massive viral user query and safety concern right after launch without violating facts or rules.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXcxd1FJbFgwdXl0WnROSGJIUDdfT1lKSXdUa0dBLThvVlVpSm8yNmxfaVdjTmJXdU5FS1VJdlJKNmt2SVhYa2R0Vno2Vkx1WVJIR2ZxNWp6TWN3ZUtxdVFPSDZnTGRHV1lteUZwaUl6Q3NFTkEzNHBvNm1XR01zcnhiWFYtR21fVU9MVFVPb3BUeHpsLURKR0wyNTJfek5oQ3k0eEhKRQ?oc=5",
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE5fd0ZXSmFSb0x3dS1MRTV3Y0lVeFNqQUxCemcwQXc0aDlURUlHMjlhUDlIT3lBbVFmVWtjT2xQVFNDWmptUlNPN2NqNHktanB0TEViQUJZclhaZmdHVDJ0YVJFYVBsbFhFSExFb0sycnNlbjlJNUlITWRtQ3VzRktSbw?oc=5",
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjE2V3R3RFRsQlhwbHJoSGtyX2FoWWF1SlNiaUtjLXJyNVJOYlJtbUt5RHRFRFVfTi04RU1rQ3RMN2NyWWxRcFpHT0FYNzdwOEhZZS1IX0NZQlk0Z3lqWUdLZkhOSEhNUUl6LXZISEpSR2U1MzJ6Q3JkVGJ3bFdUMG14a0pzdw?oc=5",
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TZm1YMkJpN0pDSGhzYkNMMWRUOWpyZ3VNdGdrTGJGS1BOX1RyNzg5Z3Bma2MxQUxuWFlFdVZmeGp5Mi1qWkEtMUFxS1FfYl9QZUdwdUUzRzFWZi01dFo1V1RmWkYtcWdFNkM0THBodHYtOFpFc2tLM3NyMzQ?oc=5"
+    ],
+    "why": "Patch‑note videos spike search demand right after an update drops, and the 603 MB size mystery drives clicks, while the Tamil‑English title and local slang boost CTR.",
     "format": "short",
-    "breaking": true
+    "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "ஏலாய்! நியூசிலாந்து ட்ரிக் பண்ணி GTA 6-ஆ சீக்கிரம் விளையாடலாம்னு பிளான் பண்றீங்களா? நில்லுங்க!",
-        "visual": "PlayStation 5 console close up",
-        "onscreen": "NZ Trick Warning! 🛑",
+        "narration": "Spoiler Alert! இந்த 603MB அப்டேட் என்ன மாற்றும்? பார்க்கலாம்!",
+        "visual": "patch notes overlay",
+        "onscreen": "Spoiler Alert",
         "start": 0.0,
-        "end": 8.722
+        "end": 6.634
       },
       {
-        "narration": "நம்மல பலபேர் லோகேஷன் மாத்தி வேற நாட்டு டைம்சோன்ல கேம்ஸை early ஆக access பண்றது வழக்கம் தான்.",
-        "visual": "Xbox dashboard settings menu",
-        "onscreen": "Timezone change",
-        "start": 8.722,
-        "end": 15.644
+        "narration": "Update 01.002.002 இப்போ live ஆனது, PS5 மற்றும் Xbox Series X|S க்கு. இந்த patch மூலம் game இல் பல புதிய bugs fix ஆகிவிட்டது.",
+        "visual": "download screen PS5",
+        "onscreen": "LIVE",
+        "start": 6.634,
+        "end": 20.444
       },
       {
-        "narration": "ஆனா இந்த முறை Rockstar Games-ல இருந்து வரப்போற GTA 6 ரிலீஸ்க்கு இது வொர்க் ஆகுமான்னு யோசிக்கணும்.",
-        "visual": "Rockstar Games logo animation",
-        "onscreen": "Rockstar rules",
-        "start": 15.644,
-        "end": 22.398
+        "narration": "Rockstar அப்போ அதிகாரப்பூர்வ patch notes வெளியிட்டது, இதில் என்ன இருக்கிறது? பல முக்கிய bug fixes மற்றும் performance tweaks உள்ளன, ஆனால் விவரங்கள் சுருக்கமாக.",
+        "visual": "Rockstar logo",
+        "onscreen": "Official",
+        "start": 20.444,
+        "end": 31.686
       },
       {
-        "narration": "ஏன்னா நவம்பர் 19, 2026-ல PlayStation 5 மற்றும் Xbox Series X|S-ல அபிஷியலா கேம் வரப்போகுது.",
-        "visual": "Vice City neon lights night",
-        "onscreen": "Nov 19, 2026",
-        "start": 22.398,
-        "end": 31.24
+        "narration": "PS5 க்கு டவுன்லோடு 603 MB, சற்று சிறிய update. ஆனால் இது பல முக்கிய fixes க்கானது, மற்றும் சில graphical improvements உள்ளன.",
+        "visual": "download bar",
+        "onscreen": "603 MB",
+        "start": 31.686,
+        "end": 42.352
       },
       {
-        "narration": "சில சமயம் இந்த மாதிரி timezone tricks யூஸ் பண்ணும்போது Sony இல்ல Microsoftல இருந்து account ban பண்ண வாய்ப்பு இருக்கு.",
-        "visual": "Account banned warning screen",
-        "onscreen": "BAN RISK! ⚠️",
-        "start": 31.24,
-        "end": 38.69
+        "narration": "இப்போ phone call bugs சரியானது, story progress தடை நீங்கியது. இப்போது VICE missions கள் மென்மையாக நடக்கும், மேலும் சில கேரக்டர் dialogues கூட சரிசெய்யப்பட்டுள்ளன.",
+        "visual": "phone call icon",
+        "onscreen": "Bug fixed",
+        "start": 42.352,
+        "end": 53.834
       },
       {
-        "narration": "Jason மற்றும் Lucia-வோட வைஸ் சிட்டி உலகத்துல இறங்குறதுக்கு முன்னாடி இந்த ரிஸ்க்கை யோசிச்சுக்கோங்க.",
-        "visual": "Jason and Lucia art trailer",
-        "onscreen": "Jason & Lucia",
-        "start": 38.69,
-        "end": 44.868
+        "narration": "ஆனால் Rockstar 603 MB இல் என்ன மாறியதை தெளிவாக சொல்லவில்லை – MIXED News. பல fan theories பேசப்படுகின்றன, ஆனால் அதிகாரப்பூர்வ info இல்லை, ஆகையால் நம்மால் முழுமையாக அறிய முடியவில்லை.",
+        "visual": "question mark",
+        "onscreen": "MIXED",
+        "start": 53.834,
+        "end": 68.316
       },
       {
-        "narration": "நீங்க அந்த ட்ரிக்கை ட்ரை பண்ணுவீங்களா இல்ல வெயிட் பண்ணுவீங்களானு கமெண்ட்ல சொல்லுங்க, அப்படியே Subscribe பண்ணுங்க!",
-        "visual": "Subscribe button animation youtube",
-        "onscreen": "Subscribe பண்ணுங்க",
-        "start": 44.868,
-        "end": 52.438
+        "narration": "அடுத்த update க்காக காத்திருக்கிறோம், Subscribe பண்ணுங்க! உங்கள் கருத்துகள் என்ன, இந்த patch ஐப் பயன்படுத்தி எந்த bug நீங்கியது?",
+        "visual": "subscribe button",
+        "onscreen": "Subscribe",
+        "start": 68.316,
+        "end": 77.374
       }
     ],
-    "thumbnail_text": "NZ TRICK BAN?",
-    "end_question": "நீங்க ட்ரிக் பண்ணி விளையாடுவீங்களா இல்ல வெயிட் பண்ணுவீங்களா?",
-    "word_count": 93
+    "thumbnail_text": "GTA 6 UPDATE 603MB",
+    "end_question": "இந்த அப்டேட்டில் உங்களுக்கு மிகப் பிடித்த bug fix என்ன?",
+    "word_count": 130
   },
   "meta": {
-    "title": "GTA 6 New Zealand Trick ஒர்க் ஆகுமா? ⚠️ #Shorts",
-    "description": "நியூசிலாந்து ட்ரிக் பண்ணி GTA 6-ஆ சீக்கிரம் விளையாடலாம்னு பிளான் பண்றீங்களா? நில்லுங்க! லோகேஷன் மாத்தி early access பண்ணும்போது அக்கவுண்ட் பேன் பண்ண வாய்ப்பு இருக்கான்னு இந்த வீடியோல பாக்கலாம். Jason மற்றும் Lucia-வோட வை இறங்குறதுக்கு முன்னாடி இந்த ரிஸ்க்கை தெரிஞ்சுகோங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க ட்ரிக் பண்ணி விளையாடுவீங்களா இல்ல வெயிட் பண்ணுவீங்களா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Update 603MB: என்ன மாறியது? Tamil #Shorts",
+    "description": "Spoiler Alert! GTA 6 Update 603MB Tamil\nஎன்ன மாறியது? பிழைகள் சரிசெய்யப்பட்டதா?\nஇந்த 603MB அப்டேட் பல முக்கிய bug fixes மற்றும் performance tweaks கொண்டு வந்தது.\nPS5 மற்றும் Xbox Series X|S க்கான சிறிய update, graphical improvements மற்றும் VICE missions மென்மையாக.\nRockstar அதிகாரப்பூர்வ patch notes சுருக்கமாக, விவரங்கள் தெளிவாக இல்லை, அடுத்த update க்காக காத்திருக்கிறோம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த அப்டேட்டில் உங்களுக்கு மிகப் பிடித்த bug fix என்ன?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 ##GTA6Tamil ##TamilGaming",
     "tags": [
-      "gta 6 tamil",
-      "gta 6 nz trick",
-      "gta 6 early access",
-      "gta 6 ban risk",
-      "gta 6 news tamil",
-      "gta 6 release date",
-      "gta vi tamil",
-      "rockstar games tamil",
-      "playstation 5 tamil",
-      "xbox series x tamil",
-      "vice city tamil",
-      "gta 6 updates tamil",
-      "gta 6 gameplay tamil",
-      "gta 6 facts tamil",
-      "gaming news tamil",
-      "gta 6 shorts",
-      "tamil gaming",
       "GTA 6",
+      "GTA 6 Tamil",
+      "GTA 6 Update",
+      "603MB",
+      "Rockstar",
+      "PS5",
+      "Xbox Series X",
+      "Game patches",
+      "Bug fixes",
+      "Performance tweaks",
+      "Tamil Gaming",
+      "Tanglish",
+      "Game news",
+      "GTA 6 Tamil news",
+      "Tamil gamers",
+      "Shorts",
+      "GTA 6 update 603MB",
+      "Gaming updates",
+      "Tamil YouTube",
+      "GTA 6 patch",
+      "Gaming news Tamil",
       "GTA VI"
     ]
   }
