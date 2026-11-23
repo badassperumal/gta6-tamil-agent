@@ -191,6 +191,18 @@
       "duration": 54.0,
       "published_at": "2026-11-22T21:10:06.848991+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261123-014134-short",
+      "video_id": null,
+      "title": "GTA 6 New Zealand Trick ஒர்க் ஆகுமா? ⚠️ #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 New Zealand Trick Warning",
+      "hook": "ஏலாய்! நியூசிலாந்து ட்ரிக் பண்ணி GTA 6-ஆ சீக்கிரம் விளையாடலாம்னு பிளான் பண்றீங்களா? நில்லுங்க!",
+      "duration": 52.4,
+      "published_at": "2026-11-23T01:43:29.835255+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -225,12 +237,14 @@
     "5b0c953a9337",
     "a2482784b2b2",
     "a5ab9e9a7d5f",
-    "b1eee84465e4"
+    "b1eee84465e4",
+    "cf48aee3d7f5"
   ],
   "breaking_days": {
     "2026-11-18": 1,
     "2026-11-19": 2,
     "2026-11-20": 1,
-    "2026-11-21": 2
+    "2026-11-21": 2,
+    "2026-11-23": 1
   }
 }
