@@ -1,117 +1,104 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "GTA 6 Update 01.002.002 Patch Notes & Download Size",
-    "story_key": "40906e6dfb93",
-    "angle": "Breakdown of the latest GTA 6 post‑release patch – what the official notes say, how big the download is, and which bugs were actually fixed",
-    "working_title": "GTA 6 Update 01.002.002 பைசா! Patch Notes & Download Size முழு விவரம் | New Fixes Explained",
-    "hook_line": "இந்த 603MB அப்டேட் என்ன மாற்றும்? பார்க்கலாம்!",
+    "topic": "GTA 6 PC release update",
+    "story_key": "c6af1361ab66",
+    "angle": "Addressing PC players regarding the official platform availability at launch",
+    "working_title": "GTA 6 PC-ல எப்போ வரும்? 💻 முழு உண்மை Tamil #Shorts",
+    "hook_line": "பங்கு, GTA 6 இப்போதைக்கு PC-ல கிடையாதுன்னு சொல்றாங்களே, உண்மை என்ன தெரியுமா?",
     "footage_tags": [
-      "patch notes",
-      "download size",
-      "update",
-      "Rockstar",
-      "GTA 6"
+      "playstation 5 console",
+      "xbox series x",
+      "gta 6 official trailer",
+      "pc gaming setup"
     ],
     "facts": [
-      "GTA 6 Update 01.002.002 is now live.",
-      "Rockstar released official patch notes for Update 01.002.002.",
-      "The update size for PS5 is 603 MB.",
-      "Insider Gaming reported the download size and confirmed the patch notes.",
-      "The patch fixes phone call bugs that blocked story progress (VICE).",
-      "Rockstar has not explained what the 603 MB update changes (MIXED News)."
+      "GTA 6 releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
+      "There is no PC version at launch."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXcxd1FJbFgwdXl0WnROSGJIUDdfT1lKSXdUa0dBLThvVlVpSm8yNmxfaVdjTmJXdU5FS1VJdlJKNmt2SVhYa2R0Vno2Vkx1WVJIR2ZxNWp6TWN3ZUtxdVFPSDZnTGRHV1lteUZwaUl6Q3NFTkEzNHBvNm1XR01zcnhiWFYtR21fVU9MVFVPb3BUeHpsLURKR0wyNTJfek5oQ3k0eEhKRQ?oc=5",
-      "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE5fd0ZXSmFSb0x3dS1MRTV3Y0lVeFNqQUxCemcwQXc0aDlURUlHMjlhUDlIT3lBbVFmVWtjT2xQVFNDWmptUlNPN2NqNHktanB0TEViQUJZclhaZmdHVDJ0YVJFYVBsbFhFSExFb0sycnNlbjlJNUlITWRtQ3VzRktSbw?oc=5",
-      "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjE2V3R3RFRsQlhwbHJoSGtyX2FoWWF1SlNiaUtjLXJyNVJOYlJtbUt5RHRFRFVfTi04RU1rQ3RMN2NyWWxRcFpHT0FYNzdwOEhZZS1IX0NZQlk0Z3lqWUdLZkhOSEhNUUl6LXZISEpSR2U1MzJ6Q3JkVGJ3bFdUMG14a0pzdw?oc=5",
-      "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TZm1YMkJpN0pDSGhzYkNMMWRUOWpyZ3VNdGdrTGJGS1BOX1RyNzg5Z3Bma2MxQUxuWFlFdVZmeGp5Mi1qWkEtMUFxS1FfYl9QZUdwdUUzRzFWZi01dFo1V1RmWkYtcWdFNkM0THBodHYtOFpFc2tLM3NyMzQ?oc=5"
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5"
     ],
-    "why": "Patch‑note videos spike search demand right after an update drops, and the 603 MB size mystery drives clicks, while the Tamil‑English title and local slang boost CTR.",
+    "why": "Directly addresses the heavy search interest and PC community questions regarding the platform release status using verified facts without repeating previous recent titles.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "Spoiler Alert! இந்த 603MB அப்டேட் என்ன மாற்றும்? பார்க்கலாம்!",
-        "visual": "patch notes overlay",
-        "onscreen": "Spoiler Alert",
+        "narration": "பங்கு, GTA 6 இப்போதைக்கு PC-ல கிடையாதுன்னு சொல்றாங்களே, உண்மை என்ன தெரியுமா?",
+        "visual": "pc gamer sad reaction monitor",
+        "onscreen": "PC Version இல்லையா?",
         "start": 0.0,
-        "end": 6.634
+        "end": 6.034
       },
       {
-        "narration": "Update 01.002.002 இப்போ live ஆனது, PS5 மற்றும் Xbox Series X|S க்கு. இந்த patch மூலம் game இல் பல புதிய bugs fix ஆகிவிட்டது.",
-        "visual": "download screen PS5",
-        "onscreen": "LIVE",
-        "start": 6.634,
-        "end": 20.444
+        "narration": "Rockstar Games அதிகாரப்பூர்வமா அறிவிச்ச update என்னன்னா, GTA 6 வரப்போிற November 19, 2026-ல வெளிவருது.",
+        "visual": "rockstar games logo reveal trailer",
+        "onscreen": "Nov 19, 2026",
+        "start": 6.034,
+        "end": 15.476
       },
       {
-        "narration": "Rockstar அப்போ அதிகாரப்பூர்வ patch notes வெளியிட்டது, இதில் என்ன இருக்கிறது? பல முக்கிய bug fixes மற்றும் performance tweaks உள்ளன, ஆனால் விவரங்கள் சுருக்கமாக.",
-        "visual": "Rockstar logo",
-        "onscreen": "Official",
-        "start": 20.444,
-        "end": 31.686
+        "narration": "ஆனா இந்த launch டேட்ல இந்த game வெறும் PlayStation 5 மற்றும் Xbox Series X|S console-களுக்கு மட்டும்தான் வருது.",
+        "visual": "ps5 and xbox series x consoles",
+        "onscreen": "PS5 & Xbox Only",
+        "start": 15.476,
+        "end": 22.902
       },
       {
-        "narration": "PS5 க்கு டவுன்லோடு 603 MB, சற்று சிறிய update. ஆனால் இது பல முக்கிய fixes க்கானது, மற்றும் சில graphical improvements உள்ளன.",
-        "visual": "download bar",
-        "onscreen": "603 MB",
-        "start": 31.686,
-        "end": 42.352
+        "narration": "ரொம்ப முக்கியமான விஷயம் என்னன்னா, game ரிலீஸ் ஆகுறப்போ ஆரம்பத்துல PC version கிடையவே கிடையாது பாஸ்.",
+        "visual": "jason and lucia vice city artwork",
+        "onscreen": "No PC at Launch",
+        "start": 22.902,
+        "end": 30.328
       },
       {
-        "narration": "இப்போ phone call bugs சரியானது, story progress தடை நீங்கியது. இப்போது VICE missions கள் மென்மையாக நடக்கும், மேலும் சில கேரக்டர் dialogues கூட சரிசெய்யப்பட்டுள்ளன.",
-        "visual": "phone call icon",
-        "onscreen": "Bug fixed",
-        "start": 42.352,
-        "end": 53.834
+        "narration": "Leonida மாநிலத்தில் நடக்குற Jason மற்றும் Lucia கதைக்களத்தை அனுபவிக்க consoleதான் இப்போதைக்கு ஒரே வழி.",
+        "visual": "leonida vice city map overview",
+        "onscreen": "Vice City Leonida",
+        "start": 30.328,
+        "end": 36.794
       },
       {
-        "narration": "ஆனால் Rockstar 603 MB இல் என்ன மாறியதை தெளிவாக சொல்லவில்லை – MIXED News. பல fan theories பேசப்படுகின்றன, ஆனால் அதிகாரப்பூர்வ info இல்லை, ஆகையால் நம்மால் முழுமையாக அறிய முடியவில்லை.",
-        "visual": "question mark",
-        "onscreen": "MIXED",
-        "start": 53.834,
-        "end": 68.316
+        "narration": "PC-ல விளையாட காத்திருக்கிற gamers கொஞ்சம் பொறுமையாத்தான் இருக்கணும், இதுதான் இப்போதைக்கு நிலவரம்.",
+        "visual": "gaming pc setup rgb lights",
+        "onscreen": "Wait for PC",
+        "start": 36.794,
+        "end": 42.972
       },
       {
-        "narration": "அடுத்த update க்காக காத்திருக்கிறோம், Subscribe பண்ணுங்க! உங்கள் கருத்துகள் என்ன, இந்த patch ஐப் பயன்படுத்தி எந்த bug நீங்கியது?",
-        "visual": "subscribe button",
-        "onscreen": "Subscribe",
-        "start": 68.316,
-        "end": 77.374
+        "narration": "நீங்க எந்த platform-ல GTA 6 விளையாடப் போறீங்க? கமெண்ட்ல சொல்லுங்க, அப்புறம் Subscribe பண்ணுங்க.",
+        "visual": "subscribe button animation youtube",
+        "onscreen": "Subscribe பண்ணுங்க",
+        "start": 42.972,
+        "end": 50.206
       }
     ],
-    "thumbnail_text": "GTA 6 UPDATE 603MB",
-    "end_question": "இந்த அப்டேட்டில் உங்களுக்கு மிகப் பிடித்த bug fix என்ன?",
-    "word_count": 130
+    "thumbnail_text": "GTA 6 PC UPDATE",
+    "end_question": "நீங்க எந்த platform-ல GTA 6 விளையாடப் போறீங்க?",
+    "word_count": 86
   },
   "meta": {
-    "title": "GTA 6 Update 603MB: என்ன மாறியது? Tamil #Shorts",
-    "description": "Spoiler Alert! GTA 6 Update 603MB Tamil\nஎன்ன மாறியது? பிழைகள் சரிசெய்யப்பட்டதா?\nஇந்த 603MB அப்டேட் பல முக்கிய bug fixes மற்றும் performance tweaks கொண்டு வந்தது.\nPS5 மற்றும் Xbox Series X|S க்கான சிறிய update, graphical improvements மற்றும் VICE missions மென்மையாக.\nRockstar அதிகாரப்பூர்வ patch notes சுருக்கமாக, விவரங்கள் தெளிவாக இல்லை, அடுத்த update க்காக காத்திருக்கிறோம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த அப்டேட்டில் உங்களுக்கு மிகப் பிடித்த bug fix என்ன?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 ##GTA6Tamil ##TamilGaming",
+    "title": "GTA 6 PC-ல கிடையாதா? அதிர்ச்சி தகவல்! | GTA 6 Tamil #Shorts",
+    "description": "GTA 6 PC-ல் வருமா வராதா? Rockstar Games-ன் லேட்டஸ்ட் அப்டேட் என்னவென்று இந்த வீடியோவில் பாருங்கள்.\n\nGTA 6 நவம்பர் 19, 2026 அன்று பிளேஸ்டேஷன் 5 மற்றும் எக்ஸ்பாக்ஸ் சீரிஸ் எக்ஸ்/எஸ் கன்சோல்களுக்கு மட்டுமே வெளியாகிறது. தொடக்கத்தில் PC வெர்ஷன் கிடையாது. லியோனிடா மாநிலத்தில் நடக்கும் ஜேசன் மற்றும் லூசியாவின் கதையை கன்சோலில் மட்டுமே விளையாட முடியும்.\n\nPC-க்காக காத்திருக்கும் கேம்கர்ஸ் தெரிந்துகொள்ள வேண்டிய முக்கியமான உண்மை இது.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க எந்த platform-ல GTA 6 விளையாடப் போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
+      "gta 6 tamil",
+      "gta 6 pc version",
+      "gta 6 release date",
+      "gta 6 news tamil",
+      "gta 6 updates tamil",
+      "rockstar games",
+      "gta 6 gameplay tamil",
+      "ps5",
+      "xbox series x",
+      "gta 6 trailer tamil",
+      "gta 6 pc release",
+      "tamil gaming",
+      "gta 6 facts tamil",
+      "gta vi tamil",
+      "gaming news tamil",
       "GTA 6",
-      "GTA 6 Tamil",
-      "GTA 6 Update",
-      "603MB",
-      "Rockstar",
-      "PS5",
-      "Xbox Series X",
-      "Game patches",
-      "Bug fixes",
-      "Performance tweaks",
-      "Tamil Gaming",
-      "Tanglish",
-      "Game news",
-      "GTA 6 Tamil news",
-      "Tamil gamers",
-      "Shorts",
-      "GTA 6 update 603MB",
-      "Gaming updates",
-      "Tamil YouTube",
-      "GTA 6 patch",
-      "Gaming news Tamil",
       "GTA VI"
     ]
   }
