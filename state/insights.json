@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T08:30:29.591700+00:00",
+  "updated": "2026-11-24T10:36:17.519379+00:00",
   "pillar_weights": {
     "news": 3,
     "tips": 3,
@@ -9,48 +9,22 @@
     "reaction": 1
   },
   "notes": [
-    "Localized Tamil slang (e.g., பங்கு, மிரளவிட்ட) drives high CTR in regional titles",
-    "Shorts format capitalizing on viral memes (Paati, Ambuli) outperforms standard gameplay clips",
-    "Long-form live streams struggle without high-energy titles mimicking global streamers like IShowSpeed",
-    "Clickbait challenge formats (MrBeast style adapted to Tamil) show high engagement potential",
-    "Mixing GTA 6 lore with local pop culture references creates unique differentiation"
+    "High CTR on Tamil YouTube driven by clickbait combo: localized slang + dramatic events (e.g., JET-UH THIRUDALAMA, Hi Sonnadhu Gone Wrong).",
+    "Shorts are heavily utilizing curiosity gaps and easter eggs (Dog on Jet Ski, Tiger Attack) for high retention.",
+    "Episodic long-form Let's Plays (Manguni Gamer, Tamil Gaming) are dominating watch time; adopt numbering formats (Epi 05, Part 4).",
+    "Bridge international gameplay footage with relatable Tamil commentary and localized expression overlays."
   ],
   "title_patterns": [
-    "GTA 6 - பங்கு பங்கு இங்க பாரு 😲❗",
-    "💥 மிரளவிட்ட Old Gta 😮 பாட்டி செய்த சம்பவம் 🥵 Gta 6",
-    "I STOLE A PLANE in GTA 6! 😱",
-    "We found AMBULI in GTA 6"
+    "JET-UH THIRUDALAMA 🗣️🔥 GTA VI GAMEPLAY - DAY [X] தமிழ்",
+    "Hi Sonnadhu Gone Wrong😂🔥Women NPC In GTA 6 Tamil ! #gta6tamil",
+    "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi [X]",
+    "GTA 6 Secret: [Event/Animal] #tamil #gta6"
   ],
   "competitors": [
     {
-      "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
-      "channel": "IShowSpeed",
-      "id": "hwSg39yIBGU"
-    },
-    {
-      "title": "Whatever You Steal in GTA 6, You Keep!",
-      "channel": "MrBeast Gaming",
-      "id": "QQV-0OUGxGs"
-    },
-    {
-      "title": "If You Steal a Car in GTA 6, I’ll Pay For It!",
-      "channel": "MrBeast Gaming",
-      "id": "Ra6sNe8s2Hc"
-    },
-    {
-      "title": "BEATING GTA 6 *FINALE*",
-      "channel": "Kai Cenat Live",
-      "id": "dSDUAAr-w_g"
-    },
-    {
-      "title": "GTA 6 All 5 Endings Explained (Grand Theft Auto 6 Story)",
-      "channel": "TheGamingRevolution",
-      "id": "T8VNrypH48o"
-    },
-    {
-      "title": "GTA 6 - ALL 9 Endings Story Explained (Jason &amp; Lucia Cutscenes)",
-      "channel": "TheGamingRevolution",
-      "id": "B0b5JhrGUJQ"
+      "title": "GTA 6 - Exploring the Open World with DLSS 5 (Ultra Realistic 4K Gameplay)",
+      "channel": "Lehzan",
+      "id": "fcB_AKZZ-4k"
     },
     {
       "title": "💥 மிரளவிட்ட Old Gta 😮 பாட்டி செய்த சம்பவம் 🥵 Gta 6 &amp; SanAndreas #shortsfeed #tamil #history",
@@ -58,29 +32,9 @@
       "id": "ddYrMZWpvic"
     },
     {
-      "title": "GTA 6 - பங்கு பங்கு இங்க பாரு 😲❗",
-      "channel": "JK",
-      "id": "Q7XEFgGymwY"
-    },
-    {
-      "title": "Live! UNTIL FINISHING GTA 6 | PART 5",
-      "channel": "GrooT R6",
-      "id": "9qh6c4XJzaE"
-    },
-    {
-      "title": "I STOLE A PLANE in GTA 6! 😱",
-      "channel": "Sharp Tamil Gaming",
-      "id": "_OVLJl7KhVo"
-    },
-    {
-      "title": "GTA 6 Game Review - Hidden Subliminal Message | Paari Saalan - Varun Tamil podcast",
-      "channel": "Vallal Media",
-      "id": "rmVpKOfWWbc"
-    },
-    {
-      "title": "GTA 6 Part 3 Free Roam Live Tamil Gaming",
-      "channel": "Tamil Gaming தமிழ் கேமிங்",
-      "id": "qGi9z8tO_7M"
+      "title": "Taking Over the GTA 6 Cruise Ship! (Free Roam)",
+      "channel": "Typical Gamer",
+      "id": "s383rL0WgV0"
     },
     {
       "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 05 | Manguni Gamer",
@@ -88,29 +42,24 @@
       "id": "MfxixNLzZSY"
     },
     {
-      "title": "We found AMBULI in GTA 6 | @tamilgaming",
-      "channel": "Tamilgaming Cutz",
-      "id": "OeZE_S_jd9s"
-    },
-    {
-      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 06 | Manguni Gamer",
-      "channel": "Manguni Gamer",
-      "id": "T-cRiZMzmQI"
-    },
-    {
       "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 04 | Manguni Gamer",
       "channel": "Manguni Gamer",
       "id": "ciT5QrOyhts"
     },
     {
-      "title": "GTA 6: Parking Between 2 Cars – How Does Jason Get Out? #gta6 #shorts #trending #tamil #gaming #gta",
-      "channel": "5 RubaGamer தமிழ்",
-      "id": "payx4RR_FvY"
+      "title": "Stealing Fighter Jet in GTA 6",
+      "channel": "Sharp Tamil Gaming",
+      "id": "ekxuPPC4oyI"
     },
     {
-      "title": "GTA 6 dogs are Built Different",
-      "channel": "MokkaCommentry 2",
-      "id": "denG7ffOm84"
+      "title": "MY FIRST DAY IN GTA VICE CITY | GTA 6 GAMEPLAY !!",
+      "channel": "Lovely Boss",
+      "id": "xi_TpiEKVyU"
+    },
+    {
+      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 07 | Manguni Gamer",
+      "channel": "Manguni Gamer",
+      "id": "DrmP7PC3USA"
     },
     {
       "title": "GTA 6 Part 4 Free  Roam + Story Live Tamil Gaming",
@@ -118,9 +67,59 @@
       "id": "xEjmoNqhxmM"
     },
     {
-      "title": "GTA 6 LIVE STREAM EPISODE - 1| 18+  | 24 Hrs live stream #madan #madanop #gta6",
-      "channel": "M A D A N",
-      "id": "WOmDc2Bwckw"
+      "title": "GTA 6 Part 6 Free Roam + Tommy Vercetti Portal Live Tamil Gaming",
+      "channel": "Tamil Gaming தமிழ் கேமிங்",
+      "id": "yqV2V7yOyYY"
+    },
+    {
+      "title": "Hi Sonnadhu Gone Wrong😂🔥Women NPC In GTA 6 Tamil ! #tamilgaming #gta6 #gta6tamil",
+      "channel": "Soorya Gaming தமிழ்",
+      "id": "iCMmjt_Pc74"
+    },
+    {
+      "title": "GTA 6 Part 5 Free Roam + Story Live Tamil Gaming",
+      "channel": "Tamil Gaming தமிழ் கேமிங்",
+      "id": "jQEQWf92dkM"
+    },
+    {
+      "title": "GTA 6 Secret: Dog on Jet Ski Rescues You From the Sea #gta6 #shorts #trending #tamil #gaming #gta",
+      "channel": "5 RubaGamer தமிழ்",
+      "id": "ISU8taGf3Mk"
+    },
+    {
+      "title": "I Tried to Steal a Police Car on My First Day in GTA 6 😂🚔!",
+      "channel": "JENI GAMING 2.0",
+      "id": "rOUgWpY8uXs"
+    },
+    {
+      "title": "💥 iR Tamil Playing GTA 6? 😮 மரண சம்பவம் இருக்கு 🥵 iR Tamil Gaming ",
+      "channel": "iR Tamil Gaming",
+      "id": "jORg_d30HRA"
+    },
+    {
+      "title": "Gta 6 Chopper 🚁 What Happens at the End of the Map? 🌊🦈 #gaming #gta6 #reels",
+      "channel": "Varun Gaming Tamil",
+      "id": "MrtA1Hr5Ah0"
+    },
+    {
+      "title": "GTA 6 ல அதிகம் சம்பாதித்த யூடூயூபர்கள் ‼️#shorts #gta6 #ishowspeed #tamil #gaming",
+      "channel": "VMG Daily 2.0",
+      "id": "py1Zs_DXVHA"
+    },
+    {
+      "title": "GTA 6 Secret Event: NPC Asks for Help Pushing Car, Tiger Attack  #gta6 #shorts #trending #tamil #gta",
+      "channel": "5 RubaGamer தமிழ்",
+      "id": "mvqxFgpO3Xs"
+    },
+    {
+      "title": "GTA 6 MILITARY BASE JET ESCAPE !! #gta6",
+      "channel": "Black FOX Tamil Gaming",
+      "id": "5_qqZg46qaI"
+    },
+    {
+      "title": "JET-UH THIRUDALAMA 🗣️🔥 GTA VI GAMEPLAY - DAY 3 தமிழ்",
+      "channel": "Yeah Tube",
+      "id": "RqnQuDF9HLQ"
     }
   ]
 }
