@@ -1,112 +1,103 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "GTA 6 open-world genre revolution and global phenomenon",
-    "story_key": "fc8e6f4a642e",
-    "angle": "Discussing how GTA 6 is revolutionising the open-world genre globally and creating a massive gaming phenomenon, including across India and Tamil gamers.",
-    "working_title": "GTA 6 ஓபன் வேர்ல்டை எப்படி மாற்றியது? 🤯 Open World Revolution Tamil #Shorts",
-    "hook_line": "GTA 6 கேமிங் உலகத்தையே புரட்டிப்போட்டுடுச்சு! எப்படி தெரியுமா?",
+    "topic": "GTA 6 PlayStation launch record",
+    "story_key": "fef079da075d",
+    "angle": "Highlighting PlayStation's official announcement that GTA 6 is the biggest launch in PlayStation history",
+    "working_title": "GTA 6 செய்த வரலாற்று சாதனை! 🤯 PlayStation History-யே மாத்தியாச்சு! #Shorts",
+    "hook_line": "ப்ளேஸ்டேஷன் வரலாற்றிலேயே இதுவரை இல்லாத அளவுக்கு GTA 6 ஒரு பெரிய சாதனை பண்ணியிருக்கு!",
     "footage_tags": [
-      "GTA 6 open world",
-      "Vice City streets",
+      "PlayStation 5 console",
+      "GTA 6 launch trailer",
       "Jason and Lucia",
-      "Leonida gameplay"
+      "Vice City"
     ],
     "facts": [
-      "GTA 6 by Rockstar Games released on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "The game is set in the state of Leonida, which includes Vice City, featuring Jason and Lucia."
+      "Grand Theft Auto VI is the biggest launch in PlayStation history."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5"
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5"
     ],
-    "why": "Capitalises on trending post-launch global acclaim and open-world evolution discussions, fitting a high-engagement Short format for Tamil viewers without violating rules.",
+    "why": "Capitalizes on official record-breaking news straight from PlayStation which drives massive local interest and high CTR among Tamil gamers.",
     "format": "short",
-    "breaking": true
+    "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "⚠️ SPOILER ALERT: GTA 6 கேமிங் உலகத்தையே புரட்டிப்போட்டுடுச்சு! எப்படி தெரியுமா?",
-        "visual": "game trailer",
-        "onscreen": "Shock!",
+        "narration": "⚠️ Spoiler Alert: GTA 6 launch info! ப்ளேஸ்டேஷன் வரலாற்றிலேயே இதுவரை இல்லாத அளவுக்கு GTA 6 ஒரு பெரிய சாதனை பண்ணியிருக்கு! இது 19 நவம்பர் 2026-ல் PlayStation 5 மற்றும் Xbox Series X|S-ல் வெளியிடப்படும்.",
+        "visual": "PS5 launch announcement",
+        "onscreen": "GTA 6 biggest launch",
         "start": 0.0,
-        "end": 6.658
+        "end": 17.89
       },
       {
-        "narration": "19 நவம்பர் 2026-ல் PlayStation 5, Xbox Series X|S-ல் Rockstar வெளியிட்டது, PC-ல் இல்லை.",
-        "visual": "release date console",
-        "onscreen": "19 Nov 2026",
-        "start": 6.658,
-        "end": 15.38
+        "narration": "இது Rockstar-ன் மிகப்பெரிய லாஞ்ச், முந்தைய எல்லா GTA-களையும் மிஞ்சும் அளவுக்கு. PlayStation வரலாற்றிலேயே பெரிய சாதனை, இது அனைத்து ரசிகர்களுக்கும் சுவாரஸ்யம்!",
+        "visual": "Rockstar logo",
+        "onscreen": "Record-breaking",
+        "start": 17.89,
+        "end": 28.508
       },
       {
-        "narration": "Leonida மாநிலம், Vice City உடன், பெரிய ஓபன் வேர்ல்ட், சிறந்த கிராஃபிக்ஸ், ரியலிஸ்ட் traffic.",
-        "visual": "map overview Leonida",
-        "onscreen": "Leonida",
-        "start": 15.38,
-        "end": 22.086
+        "narration": "கேம் லியோனிடா மாநிலத்தில் அமைந்துள்ளது, இதில் Vice City ஒரு முக்கிய நகரம். இரண்டு முக்கிய கதாபாத்திரங்கள் ஜேசன், லூசியா – இருவரும் கதையை சாகசமாக நடத்துவர்.",
+        "visual": "Leonida map",
+        "onscreen": "Vice City",
+        "start": 28.508,
+        "end": 39.966
       },
       {
-        "narration": "Jason, Lucia இருவரும் கதாபாத்திரம், Jason-ன் கதாபாத்திரம் street hustler, Lucia-ன் story personal revenge, பல நகரங்களில் சுதந்திரம்.",
-        "visual": "Jason Lucia gameplay",
-        "onscreen": "Jason & Lucia",
-        "start": 22.086,
-        "end": 30.904
+        "narration": "வீரர்கள் Vice City-யின் தெருக்களை ஆராய்ந்து, உயர்ந்த கார்களை ஓட்டி, கொலைகாரர்களுடன் போராடுவார்கள். லியோனிடாவின் புதிய வரைபடம் மிக விரிவானது.",
+        "visual": "Vice City streets",
+        "onscreen": "High-speed cars",
+        "start": 39.966,
+        "end": 50.32
       },
       {
-        "narration": "இன்னும் பெரிய நகரம், ரியலிஸம், டைனமிக் மிஷன் ஸ்கெஜுல், மிஷன் ஃப்ரீ-ரோம், பக்கத்து நாடுகளும் map-ல் visible, உலகம் முழுதும் இப்போது GTA 6 பற்றி பேசுது.",
-        "visual": "city dynamic mission",
-        "onscreen": "Open World",
-        "start": 30.904,
-        "end": 42.074
+        "narration": "ஜேசன் ஒரு திறமையான கார் திருட்டு கும்பலின் தலைவர், லூசியா ஒரு சாமர்த்தியமான நிதி ஆலோசகர். இருவரும் ஒருங்கிணைந்து பெரிய கொள்ளைகளை திட்டமிடுவார்கள்.",
+        "visual": "Jason Lucia duo",
+        "onscreen": "Dynamic duo",
+        "start": 50.32,
+        "end": 61.082
       },
       {
-        "narration": "தமிழ் கேமர்ஸ் எல்லாம் லைவ் ஸ்ட்ரீம், டிஸ்கஸ், இப்போ GTA 6 பற்றி Daily Talk, இது தமிழ் யூடியூப் community-யை வெடிக்க வைத்தது, reaction videos பாய்ந்து வந்தன.",
-        "visual": "Tamil streamer reaction",
-        "onscreen": "Tamil hype",
-        "start": 42.074,
-        "end": 52.452
-      },
-      {
-        "narration": "மீண்டும் பார்க்க, Subscribe பண்ணுங்க, இப்போ!",
-        "visual": "subscribe button",
-        "onscreen": "Subscribe!",
-        "start": 52.452,
-        "end": 55.942
+        "narration": "காண்பதற்காக மீண்டும் ரீவாட்ச் பண்ணுங்க! GTA 6 இல் உள்ள அதிசயங்களை அனுபவித்தீர்களா? Subscribe பண்ணுங்க, அடுத்த வீடியோக்களும் வரும்!",
+        "visual": "loopable end screen",
+        "onscreen": "Subscribe பண்ணுங்க",
+        "start": 61.082,
+        "end": 71.94
       }
     ],
-    "thumbnail_text": "OPEN WORLD REVOLUTION",
-    "end_question": "உங்கள் favorite GTA 6 location எது?",
-    "word_count": 96
+    "thumbnail_text": "GTA 6 வரலாறு",
+    "end_question": "உங்களுக்கு பிடித்த GTA 6 கதாபாத்திரம் யார்?",
+    "word_count": 113
   },
   "meta": {
-    "title": "GTA 6 Tamil Release: புதிய நகரம் & கதாபாத்திரங்கள்? #Shorts",
-    "description": "GTA 6 Tamil வெளியீடு, புதிய ஓபன் வேர்ல்ட், கதாபாத்திரங்கள் - முழு ஸ்பாய்லர்!\nPlayStation 5 & Xbox Series X|S-ல் 19 நவம்பர் 2026-ல் வெளியானது, PC-ல் இல்லை.\nLeonida மாநிலம், Vice City உடன் பெரிய ஓபன் வேர்ல்ட், ரியலிஸ்ட் கிராஃபிக்ஸ்.\nJason மற்றும் Lucia கதாபாத்திரங்கள், street hustler மற்றும் personal revenge story.\nதமிழ் கேமர்கள் லைவ் ஸ்ட்ரீம், டிஸ்கஸ், ரியாக்ஷன் வீடியோக்கள் வெடித்தது.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்கள் favorite GTA 6 location எது?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Tamil: 19 Nov 2026 Launch & Game Secrets #Shorts",
+    "description": "GTA 6 Tamil: Launch date, release platforms & game secrets revealed! 🚀\nPlayStation 5 & Xbox Series X|S 19 Nov 2026, Vice City, Jason & Lucia, big heists.\nகேம் லியோனிடா மாநிலத்தில் அமைந்துள்ளது, Vice City முக்கிய நகரம்.\nஜேசன், லூசியா கதாபாத்திரங்கள், உயர்ந்த கார்களை ஓட்டி கொள்ளைகள் திட்டமிடுவர்.\nரீவாட்ச் செய்து அனுபவிக்கவும்!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு பிடித்த GTA 6 கதாபாத்திரம் யார்?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "GTA 6 Tamil",
-      "GTA 6 release",
-      "GTA 6 Tamil news",
-      "GTA 6 Tamil gameplay",
-      "GTA 6 Tamil update",
-      "GTA 6 Tamil spoilers",
-      "GTA 6 Tamil reaction",
-      "GTA 6 Tamil PS5",
-      "GTA 6 Tamil Xbox",
-      "GTA 6 Tamil open world",
-      "GTA 6 Tamil characters",
-      "GTA 6 Tamil Leonida",
-      "GTA 6 Tamil Vice City",
-      "GTA 6 Tamil Jason",
-      "GTA 6 Tamil Lucia",
-      "Tamil gaming",
-      "Tamil gamers",
-      "GTA6 Tamil",
-      "GTA6 news",
-      "GTA6 spoilers",
-      "GTA6 Tamil reaction",
-      "Tamil Shorts",
-      "GTA 6 Tamil discussion",
       "GTA 6",
+      "GTA 6 Tamil",
+      "GTA 6 launch",
+      "GTA 6 release",
+      "GTA 6 2026",
+      "PlayStation 5",
+      "Xbox Series X",
+      "Vice City",
+      "Jason",
+      "Lucia",
+      "heists",
+      "Tamil gaming",
+      "Tamil viewers",
+      "Tamil gaming channel",
+      "Tamil gaming community",
+      "GTA 6 tips",
+      "GTA 6 secrets",
+      "GTA 6 gameplay",
+      "GTA 6 review",
+      "GTA 6 news",
+      "GTA 6 launch date",
+      "GTA 6 launch info",
+      "GTA 6 trailer",
       "GTA VI"
     ]
   }

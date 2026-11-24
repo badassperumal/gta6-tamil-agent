@@ -251,6 +251,18 @@
       "duration": 55.9,
       "published_at": "2026-11-24T13:41:27.986337+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261124-161342-short",
+      "video_id": null,
+      "title": "GTA 6 Tamil: 19 Nov 2026 Launch & Game Secrets #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 PlayStation launch record",
+      "hook": "⚠️ Spoiler Alert: GTA 6 launch info! ப்ளேஸ்டேஷன் வரலாற்றிலேயே இதுவரை இல்லாத அளவுக்கு GTA 6 ஒரு பெரிய சாதனை பண்ணியிருக்கு",
+      "duration": 71.9,
+      "published_at": "2026-11-24T16:16:11.917317+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -294,7 +306,9 @@
     "e135bedff15f",
     "d770f2841b31",
     "fc8e6f4a642e",
-    "8888ffd1a7f1"
+    "8888ffd1a7f1",
+    "fef079da075d",
+    "2615c733cd14"
   ],
   "breaking_days": {
     "2026-11-18": 1,
