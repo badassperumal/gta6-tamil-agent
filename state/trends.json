@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:39:21.609544+00:00",
+  "updated": "2026-11-24T13:39:53.208316+00:00",
   "stories": [
     {
       "key": "c6af1361ab66",
@@ -63,6 +63,30 @@
         }
       ],
       "score": 14.700000000000001,
+      "covered": false
+    },
+    {
+      "key": "808e65d1ef3a",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting - GamesRadar+",
+      "items": [
+        {
+          "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting - GamesRadar+",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZzFWUXgyeThBUnJrWE5DYmRfaG5SeFJmVW1DZWhtWkNqcXFFMmoyMjluT3FEcUNrb2IwSy1OOU4zN3huWFI1OHhSZ0xaMko5MFhBQmNmbVlYSklTNzRDLXZFUnd6WFQwV2kyUG1XOUpqZXhnTU1uRlpOdDcxdWdoRVRwTGR3djVMd0FGUi1pUGxvNGcta3RpeXFLb3hEMDdod0Njb29FNzVQNF85b2tPLVBFWGFiQ2JFaHZKMFRLLVlEMTh1bW44NnhVN0lqdGlGLUUxNHp0aUs4UXlEQUV1WjE0SzI0YXAyclBMTHdFdUlxWWhwaW50RlhiVXFyczVSUlo3dnN4aW9DV3B4bXc?oc=5",
+          "source": "google_news",
+          "summary": " Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting &nbsp;&nbsp; GamesRadar+ ",
+          "published": "2026-11-24T11:15:25+00:00",
+          "pop": 1
+        },
+        {
+          "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting - GamesRadar+",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZzFWUXgyeThBUnJrWE5DYmRfaG5SeFJmVW1DZWhtWkNqcXFFMmoyMjluT3FEcUNrb2IwSy1OOU4zN3huWFI1OHhSZ0xaMko5MFhBQmNmbVlYSklTNzRDLXZFUnd6WFQwV2kyUG1XOUpqZXhnTU1uRlpOdDcxdWdoRVRwTGR3djVMd0FGUi1pUGxvNGcta3RpeXFLb3hEMDdod0Njb29FNzVQNF85b2tPLVBFWGFiQ2JFaHZKMFRLLVlEMTh1bW44NnhVN0lqdGlGLUUxNHp0aUs4UXlEQUV1WjE0SzI0YXAyclBMTHdFdUlxWWhwaW50RlhiVXFyczVSUlo3dnN4aW9DV3B4bXc?oc=5",
+          "source": "google_news",
+          "summary": " Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting &nbsp;&nbsp; GamesRadar+ ",
+          "published": "2026-11-24T11:15:25+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 14.0,
       "covered": false
     },
     {
@@ -162,22 +186,6 @@
       "covered": true
     },
     {
-      "key": "808e65d1ef3a",
-      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting - GamesRadar+",
-      "items": [
-        {
-          "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting - GamesRadar+",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZzFWUXgyeThBUnJrWE5DYmRfaG5SeFJmVW1DZWhtWkNqcXFFMmoyMjluT3FEcUNrb2IwSy1OOU4zN3huWFI1OHhSZ0xaMko5MFhBQmNmbVlYSklTNzRDLXZFUnd6WFQwV2kyUG1XOUpqZXhnTU1uRlpOdDcxdWdoRVRwTGR3djVMd0FGUi1pUGxvNGcta3RpeXFLb3hEMDdod0Njb29FNzVQNF85b2tPLVBFWGFiQ2JFaHZKMFRLLVlEMTh1bW44NnhVN0lqdGlGLUUxNHp0aUs4UXlEQUV1WjE0SzI0YXAyclBMTHdFdUlxWWhwaW50RlhiVXFyczVSUlo3dnN4aW9DV3B4bXc?oc=5",
-          "source": "google_news",
-          "summary": " Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting &nbsp;&nbsp; GamesRadar+ ",
-          "published": "2026-11-24T11:15:25+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 7.0,
-      "covered": false
-    },
-    {
       "key": "7870c71897f8",
       "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players – and when Rockstar releases Online, \"it's going to be rough times\" for Activision - GamesRadar+",
       "items": [
@@ -191,38 +199,6 @@
         }
       ],
       "score": 7.0,
-      "covered": false
-    },
-    {
-      "key": "fef079da075d",
-      "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
-      "items": [
-        {
-          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
-          "source": "google_news",
-          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
-          "published": "2026-11-23T23:30:13+00:00",
-          "pop": 1
-        },
-        {
-          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
-          "source": "google_news",
-          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
-          "published": "2026-11-23T23:30:13+00:00",
-          "pop": 1
-        },
-        {
-          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
-          "source": "google_news",
-          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
-          "published": "2026-11-23T23:30:13+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 6.300000000000001,
       "covered": false
     },
     {
@@ -314,39 +290,23 @@
       "covered": false
     },
     {
-      "key": "34a5592cfc36",
-      "title": "GTA 6 is Officially the Biggest Launch in PlayStation History - Polygon.com",
+      "key": "fef079da075d",
+      "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
       "items": [
         {
-          "title": "GTA 6 is Officially the Biggest Launch in PlayStation History - Polygon.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1X2ZDX3kxM0E3WmRBVXY5SGdZcnpnNnBqNTRzdDVUNV9aeWVxWU8yVEN1MlpLU0VUS0txbG1FZWRTcG94UGZDaUo3cmZaN1JFcFIxdUdwUzF0ckNNWl8wdzZrUzRyemx1emQw?oc=5",
+          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 is Officially the Biggest Launch in PlayStation History &nbsp;&nbsp; Polygon.com ",
-          "published": "2026-11-24T10:04:01+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 5.0,
-      "covered": false
-    },
-    {
-      "key": "e8610728362a",
-      "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics - Variety",
-      "items": [
-        {
-          "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics - Variety",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0Z4M251ejVxY2p5ZC1qS1NJc1hLWVEteV9TTGNlSVFMY1dBUDhtdHpVZGNsUlVzNjBSdXBqSThKUFVsMkdsbUpVWGU4LS15a2Q1QVg5V0pPZFBrMjhjUF9SZE81VkFkV0JTaHBlUVZUeWFXVkMxZDdjbkpPVFhOUnVXdk9JQmVtZ29DYmctU3VLNURfaXoxTjVlRjdxUQ?oc=5",
-          "source": "google_news",
-          "summary": " All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics &nbsp;&nbsp; Variety ",
-          "published": "2026-11-23T21:11:00+00:00",
+          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
+          "published": "2026-11-23T23:30:13+00:00",
           "pop": 1
         },
         {
-          "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics - Variety",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0Z4M251ejVxY2p5ZC1qS1NJc1hLWVEteV9TTGNlSVFMY1dBUDhtdHpVZGNsUlVzNjBSdXBqSThKUFVsMkdsbUpVWGU4LS15a2Q1QVg5V0pPZFBrMjhjUF9SZE81VkFkV0JTaHBlUVZUeWFXVkMxZDdjbkpPVFhOUnVXdk9JQmVtZ29DYmctU3VLNURfaXoxTjVlRjdxUQ?oc=5",
+          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
           "source": "google_news",
-          "summary": " All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics &nbsp;&nbsp; Variety ",
-          "published": "2026-11-23T21:11:00+00:00",
+          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
+          "published": "2026-11-23T23:30:13+00:00",
           "pop": 1
         }
       ],
@@ -378,6 +338,30 @@
       "covered": false
     },
     {
+      "key": "54aced4e6961",
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' - BBC",
+      "items": [
+        {
+          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ib2NHeDh2MDBCX0ZyZHdybUlycXRJSWRfU0FzOVFQOHZiYjByVFc0Rm9vbVBrenkwVUJCQnNRWHExMTNpbjhCYkE2QXpHdGFHa2ZPb01lbFYtcWc?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 hacker released on licence with warning 'don't let this happen again' &nbsp;&nbsp; BBC ",
+          "published": "2026-11-23T14:08:50+00:00",
+          "pop": 1
+        },
+        {
+          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ib2NHeDh2MDBCX0ZyZHdybUlycXRJSWRfU0FzOVFQOHZiYjByVFc0Rm9vbVBrenkwVUJCQnNRWHExMTNpbjhCYkE2QXpHdGFHa2ZPb01lbFYtcWc?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 hacker released on licence with warning 'don't let this happen again' &nbsp;&nbsp; BBC ",
+          "published": "2026-11-23T14:08:50+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 4.2,
+      "covered": false
+    },
+    {
       "key": "9a6c8be0ba9c",
       "title": "60 hours in GTA 6 has me yearning for an online Leonida - PC Gamer",
       "items": [
@@ -391,6 +375,22 @@
         }
       ],
       "score": 4.2,
+      "covered": false
+    },
+    {
+      "key": "b9f818e3aa47",
+      "title": "GTA 6 PC project reportedly reaches in-game rendering - VideoCardz.com",
+      "items": [
+        {
+          "title": "GTA 6 PC project reportedly reaches in-game rendering - VideoCardz.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRHRVBrcVY1N3dUeV9YS01yRGhIOGY2NEU0aU5lZVNzaXJmdXJtQ2FiRUxNeEF6V3RQOE9mM1J2RUNIRGtHSVViS0tKZnVvZ0xOaUgyMGF1TEs2NEJaUy16R1RXX19hSHNaRGZSZHVZQjFuektYRElXZXFycFQ4V2Nkbm16VDhh?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 PC project reportedly reaches in-game rendering &nbsp;&nbsp; VideoCardz.com ",
+          "published": "2026-11-24T08:36:07+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 4.0,
       "covered": false
     },
     {
@@ -419,6 +419,22 @@
           "source": "google_news",
           "summary": " As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities &nbsp;&nbsp; Notebookcheck ",
           "published": "2026-11-24T00:47:00+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.5,
+      "covered": false
+    },
+    {
+      "key": "7147aca224d2",
+      "title": "GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online. - GameGPU",
+      "items": [
+        {
+          "title": "GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU5tMmxSNFNXemtwR2VuMGJEZGFaX2RmN2NKX3B1a01JYXJMUTRwaVo0RVRtYzNPcndiODZaNUR0SDkwME4tRndDaktXVm5IejdscnNVZWpXcUJHVjR2VFcwNXQ3dDFmVDBIR3JnU2xZd3lqeUN1NmNORUU0ejZmWGFOWEp4MnJ4OGhFc3M1SWdocFhIQTBWZmhXcGxOckhWXzM4RklkOXNmX24zZ3Rn?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online. &nbsp;&nbsp; GameGPU ",
+          "published": "2026-11-23T18:47:45+00:00",
           "pop": 1
         }
       ],
@@ -506,15 +522,47 @@
       "covered": false
     },
     {
-      "key": "0c4b6aa84461",
-      "title": "Bombed debut, dusty record in loft, GTA 6 comeback: The ‘Aaj Shanibar’ journey - The Indian Express",
+      "key": "98b37e866ae8",
+      "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever - GamesIndustry.biz",
       "items": [
         {
-          "title": "Bombed debut, dusty record in loft, GTA 6 comeback: The ‘Aaj Shanibar’ journey - The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlhQbjU3Sml5aldXNmpfY3RFampDT1FGWGJFdV9NcU9yZG1ZRXM5U1dZQUE4NEswaFR1Zzd5V1prR19NV2hiWDBwR2dhSU5VbWx3bW1Gbzd2cWlsZGRsVjJFZGl1ZmFOVHE4eHNJdnoxX1VvVGpRNTBvRlZSUWFXNGZpQzhzcGlsbEloQk9aMXJrT09CVjBjeXVHYllBaWfSAaYBQVVfeXFMT0VObTVMTG1JVDJxaWo2MFF6bjNRUDR6dUNhbDAxbjNWRzQ5ZU5VVFNuSUtYellKc0R3UjFXMjlsUkJZUm54eU5PaWRUUDhLX1p1aXJORWg4UTl5UXd3eURIc29kb3ZkbUNrSnlybVM4RU5rbi1Kb3UyX2xNQjVIVmZESm93cnU3SVpLQjAxcjVKR3JEOXk5UlJYZmdNOUJjb3dDOEJ0QQ?oc=5",
+          "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever - GamesIndustry.biz",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkFTbEw2Wk1fSWtSbkdRelFmY3g1ZUxXT2MzSFBvY1NSMzdzdkNic3VpdXh6NXNGajV2Vm1mUFMxWGNKa1Q2QjloLXV3TDFELWU1ZzBoZGRjV2lrRkY5NF9rd0FPenh4akNQakhsdUtYOGhIY0pRVnBrZUlnVUQ5RDRNVDllMzFSOEFUQXZpVDgyMGZvUkdWLUpGQmZxcmQ5Mm9LbE85YkFMTzVRM0RrazBzOVl0d29JT3dUNnBKOEVndHVQZWdMWmtfWXM?oc=5",
           "source": "google_news",
-          "summary": " Bombed debut, dusty record in loft, GTA 6 comeback: The ‘Aaj Shanibar’ journey &nbsp;&nbsp; The Indian Express ",
-          "published": "2026-11-24T08:36:59+00:00",
+          "summary": " GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever &nbsp;&nbsp; GamesIndustry.biz ",
+          "published": "2026-11-24T11:44:10+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "032add9b3719",
+      "title": "GTA 6 hacker sentenced to seven years and released the same day - Help Net Security",
+      "items": [
+        {
+          "title": "GTA 6 hacker sentenced to seven years and released the same day - Help Net Security",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVNKSl9ONzdZTkhBbkxabVNqZGY2emVTeDJlQW1reTFmYUtDSGU4Q2x3TEUwaTJ6UzdYU0FQWEpOZ04zZzVHdHRSTTN2elMxY3hEOXp5SzRrRk04V1BJdDBTWFBmTFppVTk5dXIyWVNsSVdJWWZ6RHJoNXMxczNaSUFjUWV6NWYzQUM2R0kyeUtRN0EwajRFYS13dzlLTTJm?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 hacker sentenced to seven years and released the same day &nbsp;&nbsp; Help Net Security ",
+          "published": "2026-11-24T13:35:37+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "d863d1edcfa4",
+      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable - Decrypt",
+      "items": [
+        {
+          "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable - Decrypt",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1c2cmVxclNfSVdlRElGWkd5Y3BvOExZaXNCZHRBVXFlUVZGSFQzc3JMeHBEcV91SzlPV3dub1RQYno2NVNWTUd5WUNSSFdNb1JyNm9takdYRXZHT3J5SE10MVFzVm9McDZPVWhENXpuY3hlVkthQzVDdkRSMklHcVByaHgzS2g1Qi1ZZjA3TjBHc25lTURmeDVmRQ?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable &nbsp;&nbsp; Decrypt ",
+          "published": "2026-11-24T13:01:30+00:00",
           "pop": 1
         }
       ],
@@ -714,22 +762,6 @@
       "covered": false
     },
     {
-      "key": "5baf28588145",
-      "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra - MakeUseOf",
-      "items": [
-        {
-          "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FZy0yQU9ral9EdkdvMkJLRDJjaHdnanRpbjFHMWRYOGtXa3MwcFR0ZUs2eEtDQXhoeEQ0c0xfenNiM1J5dUhTQXR6MC1OQkZha3FzUVhyYmdaaUlmNkE?oc=5",
-          "source": "google_news",
-          "summary": " I'm playing GTA 6 at 60fps on PC without paying for anything extra &nbsp;&nbsp; MakeUseOf ",
-          "published": "2026-11-23T21:30:16+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 2.1,
-      "covered": false
-    },
-    {
       "key": "989dbac81672",
       "title": "Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe - ZDNET",
       "items": [
@@ -746,47 +778,15 @@
       "covered": false
     },
     {
-      "key": "4119d91c4633",
-      "title": "GTA 6 is crashing for some PS5 users, Rockstar pushes out urgent fix - India Today",
+      "key": "29ad8f397a08",
+      "title": "GTA VI hacker released despite being sentenced to 7 years in UK prison - Anadolu Ajansı",
       "items": [
         {
-          "title": "GTA 6 is crashing for some PS5 users, Rockstar pushes out urgent fix - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc1gzYThzb19hejNTajBfVk9KUU82RFlCZXhkMHIweGgybW1qTDJuRlAyMzhyVUV3UXVNZy1WT1IweXZ6Z2ZzaFhsSC1LOTVielJUY1kwWUVIdW8xWk9RV3JRXzBqU2diQVcwTWcyR0NRLTJlSFVYVnpuT0t2UFl5OHphZ0tEYmU2SXhUdDh1eFJBdF9vNjQxeGFXV3dMbjBMaE9jV18wNDQtaF9iSTdraHY3UGhySl9SS0JDZjZJYlpEM2FXc2x3cmFjYjRGbW5jQzVqdjcxam9NZUFZRVJyRTlDWTZoaDlOU1hSM3RPOEdFZ9IB9wFBVV95cUxOeXlmZkVJZ1VFajFzWXBPTnpoNFNDUmpjNXpMNjhrVmRfblJISTkzOVcxbnZ1Qk9HVldCM0Exd2RxOTFmTDR0RUw0OUJZdWpCdHp2REpsZEpzOEVFODhiY3dyUzViYjI2MzVhTXQyZF8tdmFEdTRMU2l5RzBnMFQ3dHBmZGhzSGVtRkdTeGprWFM1czlMelYySkZ5dG5pTk5kSHRtODRNUnJnalpEU2F2T2VLM1lONllaT1JoX3Z4MzQyN20xeVJ0cm1xRVBWZkk1YjJQQXpKTlQzb2tHVHFDSEIwZ1U1WmV2aHVUaHZGQVljdmt3MUlR?oc=5",
+          "title": "GTA VI hacker released despite being sentenced to 7 years in UK prison - Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2dxaGhPOXRrZHhsZDdlZmIyOXE2Wl8xQzBINjV5dXRqNHBWM0lkUERtTFhXcUtIeWdQVno0Q29OTGswaVJiSHpWdWVuRHpUdG9IVmxxUDhuREIxWC1OZzBEZzZsU0xhZGEza3BlSklSWTBjRzc4ZkZLd3pYbEdjOGdtanR2TUpLV0hJU21VOWdiNk1URkNXSVFqRmdsLVp5T0ZOTU9GUUE?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 is crashing for some PS5 users, Rockstar pushes out urgent fix &nbsp;&nbsp; India Today ",
-          "published": "2026-11-24T07:17:31+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 2.1,
-      "covered": false
-    },
-    {
-      "key": "0d72d30840b8",
-      "title": "Two Sikkim artists earn credits on Rockstar Games' GTA VI - India Today NE",
-      "items": [
-        {
-          "title": "Two Sikkim artists earn credits on Rockstar Games' GTA VI - India Today NE",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1Z0MTV0QVJ4QmRQZEZLUTJ2bWJMOGg1d0pTOXFiWE1MT1p5eHNJUUtMNFAwV3phWFNLcVMwTDM2UnljS0JWclhRamVGWTFyV0dzcDJKZE1QREZvcWZjeG5lTG1UQndFTHRlWVNuUEZpMjZiNnFwLTBkSTlXSFl3YWhyVU5oWVVmN2JvQzJtZDBLSm1fQlRGa0tVSWk2bkFDWTJ0Nzd2elpRUlhCMEE4SDNHcGNjWW_SAbwBQVVfeXFMTlppS2JMY21XQkcyUU80S3RxUi1HZS1xNVplX1FkT3hmRG5Xa1ltNEJzczRfRjlaU2M5WnNndVJ6S3hFRkRpTXRNVE42M0NybU02OUZpQkY3ZENXTEJNbXg0SnN4NXZFNlVRSzRncGxZZl8tblZTLTl0dWttTnloVTM3QzRBRlVfYVQxVUcwUE5BWDljTUNDUzFJNmxvNlVjX1hyclhOWWczRTNFWmZTdWJrN0xybFpVbVJrMkY?oc=5",
-          "source": "google_news",
-          "summary": " Two Sikkim artists earn credits on Rockstar Games' GTA VI &nbsp;&nbsp; India Today NE ",
-          "published": "2026-11-24T04:38:44+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 2.1,
-      "covered": false
-    },
-    {
-      "key": "d951a038b354",
-      "title": "GTA 6 Xbox Executable Leaks Online as “Early Christmas Gift” from Cyberleek - Comic Book Resources",
-      "items": [
-        {
-          "title": "GTA 6 Xbox Executable Leaks Online as “Early Christmas Gift” from Cyberleek - Comic Book Resources",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HSGZnbjcwSFJEd0hrdVN2SVkzQ3UwSHR5dWtKbWJRUGVZUnZiazZ2VGNVUFIzZk45aHByVE45eU9wNWcxUkRDUjJza1h5ajhwdWI4UEtrRnZLMGhsSW5tMnZvUGIwU2ZGV2c?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 Xbox Executable Leaks Online as “Early Christmas Gift” from Cyberleek &nbsp;&nbsp; Comic Book Resources ",
-          "published": "2026-11-23T23:38:41+00:00",
+          "summary": " GTA VI hacker released despite being sentenced to 7 years in UK prison &nbsp;&nbsp; Anadolu Ajansı ",
+          "published": "2026-11-24T00:58:58+00:00",
           "pop": 1
         }
       ],

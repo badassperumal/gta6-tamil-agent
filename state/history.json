@@ -239,6 +239,18 @@
       "duration": 46.6,
       "published_at": "2026-11-24T02:28:16.755361+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261124-133950-short",
+      "video_id": null,
+      "title": "GTA 6 Tamil Release: புதிய நகரம் & கதாபாத்திரங்கள்? #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 open-world genre revolution and global phenomenon",
+      "hook": "⚠️ SPOILER ALERT: GTA 6 கேமிங் உலகத்தையே புரட்டிப்போட்டுடுச்சு! எப்படி தெரியுமா?",
+      "duration": 55.9,
+      "published_at": "2026-11-24T13:41:27.986337+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -280,7 +292,9 @@
     "c6af1361ab66",
     "aadbfee337dc",
     "e135bedff15f",
-    "d770f2841b31"
+    "d770f2841b31",
+    "fc8e6f4a642e",
+    "8888ffd1a7f1"
   ],
   "breaking_days": {
     "2026-11-18": 1,
@@ -288,6 +302,6 @@
     "2026-11-20": 1,
     "2026-11-21": 2,
     "2026-11-23": 1,
-    "2026-11-24": 1
+    "2026-11-24": 2
   }
 }
