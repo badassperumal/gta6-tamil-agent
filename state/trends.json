@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:11:20.349433+00:00",
+  "updated": "2026-11-24T13:39:21.609544+00:00",
   "stories": [
     {
       "key": "c6af1361ab66",
@@ -10,7 +10,7 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
           "source": "google_news",
           "summary": " 'GTA 6' on PC update: What we know about when it releases &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:23:37+00:00",
+          "published": "2026-11-24T11:36:01+00:00",
           "pop": 1
         },
         {
@@ -18,7 +18,7 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
           "source": "google_news",
           "summary": " 'GTA 6' on PC update: What we know about when it releases &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:23:37+00:00",
+          "published": "2026-11-24T11:36:01+00:00",
           "pop": 1
         },
         {
@@ -26,35 +26,115 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
           "source": "google_news",
           "summary": " 'GTA 6' on PC update: What we know about when it releases &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:23:37+00:00",
+          "published": "2026-11-24T11:36:01+00:00",
           "pop": 1
         }
       ],
       "score": 21.0,
-      "covered": false
+      "covered": true
     },
     {
-      "key": "311df8b747c2",
-      "title": "GTA VI Update 01.002.002 Patch Notes Released - RockstarINTEL",
+      "key": "f5fdcde317c7",
+      "title": "'GTA 6' Online release update: What we know about when it comes out. - Mashable",
       "items": [
         {
-          "title": "GTA VI Update 01.002.002 Patch Notes Released - RockstarINTEL",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWxGTkpUSjdTN3FTWmpNLTljTGtHZE1YS0JKOU9TVDZMNTN1Mi15TzdHYUl3Q09tMVFzLUMtdmZwSFdQVzdLMVJXZGM4VFV2WkpxdE13bjBiV1ZOdi1LMkRfcmNjOWZwNngySWlfbmx0SEN5NlAwbHlMa182b0staDV3?oc=5",
+          "title": "'GTA 6' Online release update: What we know about when it comes out. - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzB4dmRBVlpRMUpYZnJRX3lnZkdTczgxS2s4cW1FVGhtbExIREl6RFNYaHphY1BZNzUtWDg5RlhDVmd6cUtFdmlGVzBwQVZXeW04Y05QMFJpNGdLNjNjdkwxSWxEeV9PRjdGMnhRV093aW9pS1NBRFpIbGd3WlJjTzZR?oc=5",
           "source": "google_news",
-          "summary": " GTA VI Update 01.002.002 Patch Notes Released &nbsp;&nbsp; RockstarINTEL ",
-          "published": "2026-11-23T15:16:40+00:00",
+          "summary": " 'GTA 6' Online release update: What we know about when it comes out. &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-24T01:07:23+00:00",
           "pop": 1
         },
         {
-          "title": "GTA VI Update 01.002.002 Patch Notes Released - RockstarINTEL",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWxGTkpUSjdTN3FTWmpNLTljTGtHZE1YS0JKOU9TVDZMNTN1Mi15TzdHYUl3Q09tMVFzLUMtdmZwSFdQVzdLMVJXZGM4VFV2WkpxdE13bjBiV1ZOdi1LMkRfcmNjOWZwNngySWlfbmx0SEN5NlAwbHlMa182b0staDV3?oc=5",
+          "title": "'GTA 6' Online release update: What we know about when it comes out. - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzB4dmRBVlpRMUpYZnJRX3lnZkdTczgxS2s4cW1FVGhtbExIREl6RFNYaHphY1BZNzUtWDg5RlhDVmd6cUtFdmlGVzBwQVZXeW04Y05QMFJpNGdLNjNjdkwxSWxEeV9PRjdGMnhRV093aW9pS1NBRFpIbGd3WlJjTzZR?oc=5",
           "source": "google_news",
-          "summary": " GTA VI Update 01.002.002 Patch Notes Released &nbsp;&nbsp; RockstarINTEL ",
-          "published": "2026-11-23T15:16:40+00:00",
+          "summary": " 'GTA 6' Online release update: What we know about when it comes out. &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-24T01:07:23+00:00",
+          "pop": 1
+        },
+        {
+          "title": "'GTA 6' Online release update: What we know about when it comes out. - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzB4dmRBVlpRMUpYZnJRX3lnZkdTczgxS2s4cW1FVGhtbExIREl6RFNYaHphY1BZNzUtWDg5RlhDVmd6cUtFdmlGVzBwQVZXeW04Y05QMFJpNGdLNjNjdkwxSWxEeV9PRjdGMnhRV093aW9pS1NBRFpIbGd3WlJjTzZR?oc=5",
+          "source": "google_news",
+          "summary": " 'GTA 6' Online release update: What we know about when it comes out. &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-24T01:07:23+00:00",
           "pop": 1
         }
       ],
-      "score": 12.6,
+      "score": 14.700000000000001,
+      "covered": false
+    },
+    {
+      "key": "80a82b5e4dc6",
+      "title": "Rockstar is trying to have the unofficial PC port for GTA VI taken down - Instant Gaming News",
+      "items": [
+        {
+          "title": "Rockstar is trying to have the unofficial PC port for GTA VI taken down - Instant Gaming News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcG14MG5KbnJrUWRja01zaFVMbFlKUjE1cE1aUUp3a3dDMFNUc0UxR29sbTYwWHVscjVTOU5JQ0cxQUZkT0NhaFRhWkw2aHNfQ19mWndHd1pZaTlfanl1Rm5CRjlCdG9kaUUxcGV4NnN3WjFxM1ZWLUFYTXFlT2RuVDNMcUhBN3V5M3Vqb1lnLW51UXMxbFVBOHdOZXpZWHlnN1RLSzFkamNicWdxWFhvM2pQN3htWGdyeTUwNGhR?oc=5",
+          "source": "google_news",
+          "summary": " Rockstar is trying to have the unofficial PC port for GTA VI taken down &nbsp;&nbsp; Instant Gaming News ",
+          "published": "2026-11-24T11:13:18+00:00",
+          "pop": 1
+        },
+        {
+          "title": "Rockstar is trying to have the unofficial PC port for GTA VI taken down - Instant Gaming News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcG14MG5KbnJrUWRja01zaFVMbFlKUjE1cE1aUUp3a3dDMFNUc0UxR29sbTYwWHVscjVTOU5JQ0cxQUZkT0NhaFRhWkw2aHNfQ19mWndHd1pZaTlfanl1Rm5CRjlCdG9kaUUxcGV4NnN3WjFxM1ZWLUFYTXFlT2RuVDNMcUhBN3V5M3Vqb1lnLW51UXMxbFVBOHdOZXpZWHlnN1RLSzFkamNicWdxWFhvM2pQN3htWGdyeTUwNGhR?oc=5",
+          "source": "google_news",
+          "summary": " Rockstar is trying to have the unofficial PC port for GTA VI taken down &nbsp;&nbsp; Instant Gaming News ",
+          "published": "2026-11-24T11:13:18+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 14.0,
+      "covered": false
+    },
+    {
+      "key": "1684b1d71236",
+      "title": "GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build - PC Guide",
+      "items": [
+        {
+          "title": "GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build - PC Guide",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ19mVVY0QmF0SG92ekZtS0dpNGVqLWVmRm54TUx5MG1xVFlHUkR0bGlILV9HRTZqd0ZXYk5qRDB3Yll2X0Vucl9uVnM2LTA4RTUzUkl0UDJicmhtNHUzSDRpV2pORFdKTkRQQWtKeXIza0xBdjk3UURhUXhaU0pUNEFMTEhxd0gyX09VUE5XQV9UMWx0eDFLNHFqakRmV1ZwdVdYaTVRVllxTE5ZaHZ1M0JPSUxnNndnRS1V?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build &nbsp;&nbsp; PC Guide ",
+          "published": "2026-11-24T12:05:58+00:00",
+          "pop": 1
+        },
+        {
+          "title": "GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build - PC Guide",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ19mVVY0QmF0SG92ekZtS0dpNGVqLWVmRm54TUx5MG1xVFlHUkR0bGlILV9HRTZqd0ZXYk5qRDB3Yll2X0Vucl9uVnM2LTA4RTUzUkl0UDJicmhtNHUzSDRpV2pORFdKTkRQQWtKeXIza0xBdjk3UURhUXhaU0pUNEFMTEhxd0gyX09VUE5XQV9UMWx0eDFLNHFqakRmV1ZwdVdYaTVRVllxTE5ZaHZ1M0JPSUxnNndnRS1V?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build &nbsp;&nbsp; PC Guide ",
+          "published": "2026-11-24T12:05:58+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 10.0,
+      "covered": false
+    },
+    {
+      "key": "72e3d2775b84",
+      "title": "GTA VI Is Coming To PC Thanks To Major Leak - RockstarINTEL",
+      "items": [
+        {
+          "title": "GTA VI Is Coming To PC Thanks To Major Leak - RockstarINTEL",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUGNDVmZKTXF1UVlPdUFMcFF3eGloRzc2eXlrNjJ1YXNQYW11SWhQcEVQUG9SUUpZRzB5eG0tcWxLRjFsdndzaHd5Nm9ISkN6S0JpUDZSVjNFanM0RUdfMEFLTEZlOXdiRDdOVkpMc0o2YnR3Q0hGMlhR?oc=5",
+          "source": "google_news",
+          "summary": " GTA VI Is Coming To PC Thanks To Major Leak &nbsp;&nbsp; RockstarINTEL ",
+          "published": "2026-11-24T11:14:31+00:00",
+          "pop": 1
+        },
+        {
+          "title": "GTA VI Is Coming To PC Thanks To Major Leak - RockstarINTEL",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUGNDVmZKTXF1UVlPdUFMcFF3eGloRzc2eXlrNjJ1YXNQYW11SWhQcEVQUG9SUUpZRzB5eG0tcWxLRjFsdndzaHd5Nm9ISkN6S0JpUDZSVjNFanM0RUdfMEFLTEZlOXdiRDdOVkpMc0o2YnR3Q0hGMlhR?oc=5",
+          "source": "google_news",
+          "summary": " GTA VI Is Coming To PC Thanks To Major Leak &nbsp;&nbsp; RockstarINTEL ",
+          "published": "2026-11-24T11:14:31+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 10.0,
       "covered": false
     },
     {
@@ -78,55 +158,71 @@
           "pop": 1
         }
       ],
-      "score": 12.0,
-      "covered": false
+      "score": 8.4,
+      "covered": true
     },
     {
-      "key": "bad5a147bc8a",
-      "title": "As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities - Notebookcheck",
+      "key": "808e65d1ef3a",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting - GamesRadar+",
       "items": [
         {
-          "title": "As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRVdxMFdUakJqUV9BbkhmSUVrVGtZLXFEYUZGeGRtdlZGLWNtWE1kWWZfQ0NvTkZhRUJnWnBTY1dRTWdGVlVqdjAxVURYTl8yTnozRUpmaHdxdVIxSzNuQzh1Ul9lYWpEMDdRRHhyTW41TFF5ZDd1UzdEQTh4Y21iWVZEMEx3VlUyckN6NVBpTTljQngzUmpqY1N3ZnpqQncxaVlWaFl3clBlTV8zblZINmFRWFN4c1gtbVVRRXZidXcwUGhsVnN5RHJHczhhalpUTGZrdGJwRk5lNnJCcFVvWmVTcFJjUnQ5MXhINTZsUkg2cUNsTEQ2VUNlNkw2TFpZ?oc=5",
+          "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting - GamesRadar+",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZzFWUXgyeThBUnJrWE5DYmRfaG5SeFJmVW1DZWhtWkNqcXFFMmoyMjluT3FEcUNrb2IwSy1OOU4zN3huWFI1OHhSZ0xaMko5MFhBQmNmbVlYSklTNzRDLXZFUnd6WFQwV2kyUG1XOUpqZXhnTU1uRlpOdDcxdWdoRVRwTGR3djVMd0FGUi1pUGxvNGcta3RpeXFLb3hEMDdod0Njb29FNzVQNF85b2tPLVBFWGFiQ2JFaHZKMFRLLVlEMTh1bW44NnhVN0lqdGlGLUUxNHp0aUs4UXlEQUV1WjE0SzI0YXAyclBMTHdFdUlxWWhwaW50RlhiVXFyczVSUlo3dnN4aW9DV3B4bXc?oc=5",
           "source": "google_news",
-          "summary": " As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities &nbsp;&nbsp; Notebookcheck ",
-          "published": "2026-11-24T00:47:00+00:00",
-          "pop": 1
-        },
-        {
-          "title": "As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRVdxMFdUakJqUV9BbkhmSUVrVGtZLXFEYUZGeGRtdlZGLWNtWE1kWWZfQ0NvTkZhRUJnWnBTY1dRTWdGVlVqdjAxVURYTl8yTnozRUpmaHdxdVIxSzNuQzh1Ul9lYWpEMDdRRHhyTW41TFF5ZDd1UzdEQTh4Y21iWVZEMEx3VlUyckN6NVBpTTljQngzUmpqY1N3ZnpqQncxaVlWaFl3clBlTV8zblZINmFRWFN4c1gtbVVRRXZidXcwUGhsVnN5RHJHczhhalpUTGZrdGJwRk5lNnJCcFVvWmVTcFJjUnQ5MXhINTZsUkg2cUNsTEQ2VUNlNkw2TFpZ?oc=5",
-          "source": "google_news",
-          "summary": " As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities &nbsp;&nbsp; Notebookcheck ",
-          "published": "2026-11-24T00:47:00+00:00",
+          "summary": " Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting &nbsp;&nbsp; GamesRadar+ ",
+          "published": "2026-11-24T11:15:25+00:00",
           "pop": 1
         }
       ],
-      "score": 10.0,
+      "score": 7.0,
       "covered": false
     },
     {
-      "key": "3f1580f9eeab",
-      "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online - Euronews.com",
+      "key": "7870c71897f8",
+      "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players – and when Rockstar releases Online, \"it's going to be rough times\" for Activision - GamesRadar+",
       "items": [
         {
-          "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online - Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSi03NXpzUzA4MDE3bURSb2FCcml4Q1loeDF3WURWTmxjSFpzdkprZ21BejU2eWVVWU5Qd1l1bFFyYnpqT2FSN1UySWdLVGFrV2N6RHdpNWZ1ajFRd0otYVRwVVBiYlZxXzYzUHg5N1RuVjNQVTdfN3Z4dF90UGluVlFuVFdxTGJUVzZZSzNyR0g3RjQ4OF9RdnB1T05CakVIR2FWeEt5N1ZJTGNPOGVmaG1LNW9JdUV3bUVpVzZpTEM?oc=5",
+          "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players – and when Rockstar releases Online, \"it's going to be rough times\" for Activision - GamesRadar+",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQTnktQTRtT3ZONzcwVmUzZ19sQkZRLWhodGFId0JkTzBlZEkxcDBjOW15aGhkdVpLazFmb3hsQ3FkdU1kWGV5WmFMNzljc1JQMTZqdkxlY2ZoeHVKZWdWMnpxQ0dCZS1YZHI1MmVMbXZsa1d4VTFwN05GMVcwTkwyQml3Z3I1SVZLOGVxMURIZG9aYk1zOTU5OWRkYjZia3FGSUg4MW1pOXFvWFdUcU9fbWh0bHVkb3NpS0Noa3lBRjh2aGNabkF0RGhjQ0NLUEFlLThUM3BseUVmSWEwdnhzQ0M1S0JYdmxHeDZobVRRLXJkS09IWlVoUHd6V2syMll5ekZDZ19JRGRndWRxUE10am5lbVJzYUJKeHhFVVdqd2owTm5HR0g4V1VLQzZ5WGJHdnRpcHpn?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online &nbsp;&nbsp; Euronews.com ",
-          "published": "2026-11-23T09:19:13+00:00",
-          "pop": 1
-        },
-        {
-          "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online - Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSi03NXpzUzA4MDE3bURSb2FCcml4Q1loeDF3WURWTmxjSFpzdkprZ21BejU2eWVVWU5Qd1l1bFFyYnpqT2FSN1UySWdLVGFrV2N6RHdpNWZ1ajFRd0otYVRwVVBiYlZxXzYzUHg5N1RuVjNQVTdfN3Z4dF90UGluVlFuVFdxTGJUVzZZSzNyR0g3RjQ4OF9RdnB1T05CakVIR2FWeEt5N1ZJTGNPOGVmaG1LNW9JdUV3bUVpVzZpTEM?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online &nbsp;&nbsp; Euronews.com ",
-          "published": "2026-11-23T09:19:13+00:00",
+          "summary": " GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players – and when Rockstar releases Online, \"it's going to be rough times\" for Activision &nbsp;&nbsp; GamesRadar+ ",
+          "published": "2026-11-24T11:34:54+00:00",
           "pop": 1
         }
       ],
-      "score": 9.8,
+      "score": 7.0,
+      "covered": false
+    },
+    {
+      "key": "fef079da075d",
+      "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
+      "items": [
+        {
+          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
+          "source": "google_news",
+          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
+          "published": "2026-11-23T23:30:13+00:00",
+          "pop": 1
+        },
+        {
+          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
+          "source": "google_news",
+          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
+          "published": "2026-11-23T23:30:13+00:00",
+          "pop": 1
+        },
+        {
+          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
+          "source": "google_news",
+          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
+          "published": "2026-11-23T23:30:13+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 6.300000000000001,
       "covered": false
     },
     {
@@ -138,7 +234,7 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84TTJ4ckNQdnpFeWthTmhZSVZCdklzSUxPcjYzMXBRSG1pdkNOUDdQR2hIMXdlNTBhdFEtWlF3cjlKb2xidFhVaE1wTXQ4UUVBYy1xclNQcTR2XzFhSTVCMklBMVUtblhaUGd1ampVbTBEOElqdjRB?oc=5",
           "source": "google_news",
           "summary": " 'GTA 6 Online' rumors say you'll need to complete the game to play. Don't believe them. &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:05:15+00:00",
+          "published": "2026-11-24T03:19:44+00:00",
           "pop": 1
         },
         {
@@ -146,7 +242,7 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84TTJ4ckNQdnpFeWthTmhZSVZCdklzSUxPcjYzMXBRSG1pdkNOUDdQR2hIMXdlNTBhdFEtWlF3cjlKb2xidFhVaE1wTXQ4UUVBYy1xclNQcTR2XzFhSTVCMklBMVUtblhaUGd1ampVbTBEOElqdjRB?oc=5",
           "source": "google_news",
           "summary": " 'GTA 6 Online' rumors say you'll need to complete the game to play. Don't believe them. &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:05:15+00:00",
+          "published": "2026-11-24T03:19:44+00:00",
           "pop": 1
         },
         {
@@ -154,103 +250,7 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84TTJ4ckNQdnpFeWthTmhZSVZCdklzSUxPcjYzMXBRSG1pdkNOUDdQR2hIMXdlNTBhdFEtWlF3cjlKb2xidFhVaE1wTXQ4UUVBYy1xclNQcTR2XzFhSTVCMklBMVUtblhaUGd1ampVbTBEOElqdjRB?oc=5",
           "source": "google_news",
           "summary": " 'GTA 6 Online' rumors say you'll need to complete the game to play. Don't believe them. &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:05:15+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 9.0,
-      "covered": false
-    },
-    {
-      "key": "7510c58e82ea",
-      "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much. - Business Insider",
-      "items": [
-        {
-          "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much. - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclpoUWRtN19FVHdrX2YxWTNCWFVwTlU0UG5JdHhmTndGb1NkYkhHVUgyYUgxQlZlNV9iTzFwNzVMbThkSE1kbUp2VkhJcEVMTzU4REZyTjRHVmdqQWR1a0ZrOXJpWnR6Q3NkelQyWnNCQ1EyWFBHUFJNMTlhV2NGWTN3Qk12Zw?oc=5",
-          "source": "google_news",
-          "summary": " 'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much. &nbsp;&nbsp; Business Insider ",
-          "published": "2026-11-23T13:11:00+00:00",
-          "pop": 1
-        },
-        {
-          "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much. - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclpoUWRtN19FVHdrX2YxWTNCWFVwTlU0UG5JdHhmTndGb1NkYkhHVUgyYUgxQlZlNV9iTzFwNzVMbThkSE1kbUp2VkhJcEVMTzU4REZyTjRHVmdqQWR1a0ZrOXJpWnR6Q3NkelQyWnNCQ1EyWFBHUFJNMTlhV2NGWTN3Qk12Zw?oc=5",
-          "source": "google_news",
-          "summary": " 'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much. &nbsp;&nbsp; Business Insider ",
-          "published": "2026-11-23T13:11:00+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 7.0,
-      "covered": false
-    },
-    {
-      "key": "34d453cd4e3e",
-      "title": "Cyberleek releases GTA 6 Xbox build .exe, boosting playable PC port chances - Notebookcheck",
-      "items": [
-        {
-          "title": "Cyberleek releases GTA 6 Xbox build .exe, boosting playable PC port chances - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR09zeWt4bG8wNmtXRlpHVTJzUmNTZXJrY3FiU2t1Q2hoczRkTjhubmwzeTVrWEpJcW1NeVFOMm5sZkxsSVNZX2ZCZzFha0l0RkZJbDdCMm9SWmItNVgxQXkwNzJDcTMwclBCR3RTbkZxX3hybW5BeTZ5ajFKdThkdkx1RzhJaVRLdW53Q2V5bWFUaVhuTldZN2FNTUpDUF9YbWIzRjJMOG4yckN5ZFA4YlB4U181NDVHYXc?oc=5",
-          "source": "google_news",
-          "summary": " Cyberleek releases GTA 6 Xbox build .exe, boosting playable PC port chances &nbsp;&nbsp; Notebookcheck ",
-          "published": "2026-11-23T17:08:00+00:00",
-          "pop": 1
-        },
-        {
-          "title": "Cyberleek releases GTA 6 Xbox build .exe, boosting playable PC port chances - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR09zeWt4bG8wNmtXRlpHVTJzUmNTZXJrY3FiU2t1Q2hoczRkTjhubmwzeTVrWEpJcW1NeVFOMm5sZkxsSVNZX2ZCZzFha0l0RkZJbDdCMm9SWmItNVgxQXkwNzJDcTMwclBCR3RTbkZxX3hybW5BeTZ5ajFKdThkdkx1RzhJaVRLdW53Q2V5bWFUaVhuTldZN2FNTUpDUF9YbWIzRjJMOG4yckN5ZFA4YlB4U181NDVHYXc?oc=5",
-          "source": "google_news",
-          "summary": " Cyberleek releases GTA 6 Xbox build .exe, boosting playable PC port chances &nbsp;&nbsp; Notebookcheck ",
-          "published": "2026-11-23T17:08:00+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 7.0,
-      "covered": false
-    },
-    {
-      "key": "a92e0e21ea09",
-      "title": "Rockstar Games has released a bug fix update for GTA VI. - GameGPU",
-      "items": [
-        {
-          "title": "Rockstar Games has released a bug fix update for GTA VI. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEx5azhSWW92VnE3WDVzM3g1UXk2M0dFUGVYYTkxbjlZbVNETF9Zcm4zWUZIZlRka0d3cldQeGh4ZjFXdFdGUUdaTk9RSVdIQnFCaklxa0NEYXN3Z1oxUm9SYnFmVXl3cmNjUEJ1VFRwWkx4elltejVRZWxGTDItM2s0b2h1YzNZemZITlJ5Xzh2d1ozYXNlX0x1emsxdGVQa2lDZDBXSVJYUHZ2RU1ORk0xcDJlb0U?oc=5",
-          "source": "google_news",
-          "summary": " Rockstar Games has released a bug fix update for GTA VI. &nbsp;&nbsp; GameGPU ",
-          "published": "2026-11-23T22:11:37+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 7.0,
-      "covered": false
-    },
-    {
-      "key": "54aced4e6961",
-      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' - BBC",
-      "items": [
-        {
-          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ib2NHeDh2MDBCX0ZyZHdybUlycXRJSWRfU0FzOVFQOHZiYjByVFc0Rm9vbVBrenkwVUJCQnNRWHExMTNpbjhCYkE2QXpHdGFHa2ZPb01lbFYtcWc?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 hacker released on licence with warning 'don't let this happen again' &nbsp;&nbsp; BBC ",
-          "published": "2026-11-23T14:08:50+00:00",
-          "pop": 1
-        },
-        {
-          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ib2NHeDh2MDBCX0ZyZHdybUlycXRJSWRfU0FzOVFQOHZiYjByVFc0Rm9vbVBrenkwVUJCQnNRWHExMTNpbjhCYkE2QXpHdGFHa2ZPb01lbFYtcWc?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 hacker released on licence with warning 'don't let this happen again' &nbsp;&nbsp; BBC ",
-          "published": "2026-11-23T14:08:50+00:00",
-          "pop": 1
-        },
-        {
-          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uaV9IaURGQnNOeGFNYTl1XzNDOGZJTEZBSXRjbVVMd3JQMkt5U0VOaTdXNnlUWGljX1YtTzhqX29KRk95M1owc1pGZEp3LXNXUWExUU5tVm13cW91QkE?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 hacker released on licence with warning 'don't let this happen again' &nbsp;&nbsp; BBC ",
-          "published": "2026-11-23T14:08:39+00:00",
+          "published": "2026-11-24T03:19:44+00:00",
           "pop": 1
         }
       ],
@@ -258,55 +258,23 @@
       "covered": false
     },
     {
-      "key": "eb9ae1978dce",
-      "title": "GTA 6's first free update fixes major progression bugs, but one frustrating issue remains - GAMINGbible",
+      "key": "987832ce1c81",
+      "title": "GTA 6: This website lets you track the PC recompilation live - Notebookcheck",
       "items": [
         {
-          "title": "GTA 6's first free update fixes major progression bugs, but one frustrating issue remains - GAMINGbible",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHA5ajVxdENTUUViZGFhV3ZLVkZHUlMyQmhNTlFPbzBOS2ZPekpRc1RWQnFwTzZSbFFvczZreFQxS21VeXJZMzBmX3NMcFphUVUyMFM3YzNSWmxDVHNTS0ZBSGw2d3huTS0zc0dzdnh6dnc4SnBrZVpRaDRGTTdlR05nY2RXMnc4cnA1a203RkRKcXJ5aWxEMW1YcmtRV3cwREE?oc=5",
+          "title": "GTA 6: This website lets you track the PC recompilation live - Notebookcheck",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV19YWWluMUpOY2w4Nmh5OUFyTUZNMlcyTnhmbFhQTHprc3UxdFJjNTFqRjc2Qjg2WThjRzZTTUdGandval9KX0phSkN1ZUJYa3pzdzZyWS1oa1lhSXVnYWhYOXItei1sOFBMa2EybFI0akdFUUQxdlBLaDVhb3hmWVZwVDQzTmZIdW1NUEZZSDhWTExwQS1fbUt0ZVVZY0pGUUVCWVg5WQ?oc=5",
           "source": "google_news",
-          "summary": " GTA 6's first free update fixes major progression bugs, but one frustrating issue remains &nbsp;&nbsp; GAMINGbible ",
-          "published": "2026-11-23T16:47:17+00:00",
+          "summary": " GTA 6: This website lets you track the PC recompilation live &nbsp;&nbsp; Notebookcheck ",
+          "published": "2026-11-24T12:59:00+00:00",
           "pop": 1
         },
         {
-          "title": "GTA 6's first free update fixes major progression bugs, but one frustrating issue remains - GAMINGbible",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHA5ajVxdENTUUViZGFhV3ZLVkZHUlMyQmhNTlFPbzBOS2ZPekpRc1RWQnFwTzZSbFFvczZreFQxS21VeXJZMzBmX3NMcFphUVUyMFM3YzNSWmxDVHNTS0ZBSGw2d3huTS0zc0dzdnh6dnc4SnBrZVpRaDRGTTdlR05nY2RXMnc4cnA1a203RkRKcXJ5aWxEMW1YcmtRV3cwREE?oc=5",
+          "title": "GTA 6: This website lets you track the PC recompilation live - Notebookcheck",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV19YWWluMUpOY2w4Nmh5OUFyTUZNMlcyTnhmbFhQTHprc3UxdFJjNTFqRjc2Qjg2WThjRzZTTUdGandval9KX0phSkN1ZUJYa3pzdzZyWS1oa1lhSXVnYWhYOXItei1sOFBMa2EybFI0akdFUUQxdlBLaDVhb3hmWVZwVDQzTmZIdW1NUEZZSDhWTExwQS1fbUt0ZVVZY0pGUUVCWVg5WQ?oc=5",
           "source": "google_news",
-          "summary": " GTA 6's first free update fixes major progression bugs, but one frustrating issue remains &nbsp;&nbsp; GAMINGbible ",
-          "published": "2026-11-23T16:47:17+00:00",
-          "pop": 1
-        },
-        {
-          "title": "GTA 6's first free update fixes major progression bugs, but one frustrating issue remains - GAMINGbible",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHA5ajVxdENTUUViZGFhV3ZLVkZHUlMyQmhNTlFPbzBOS2ZPekpRc1RWQnFwTzZSbFFvczZreFQxS21VeXJZMzBmX3NMcFphUVUyMFM3YzNSWmxDVHNTS0ZBSGw2d3huTS0zc0dzdnh6dnc4SnBrZVpRaDRGTTdlR05nY2RXMnc4cnA1a203RkRKcXJ5aWxEMW1YcmtRV3cwREE?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6's first free update fixes major progression bugs, but one frustrating issue remains &nbsp;&nbsp; GAMINGbible ",
-          "published": "2026-11-23T16:47:17+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 6.300000000000001,
-      "covered": false
-    },
-    {
-      "key": "5baf28588145",
-      "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra - MakeUseOf",
-      "items": [
-        {
-          "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FZy0yQU9ral9EdkdvMkJLRDJjaHdnanRpbjFHMWRYOGtXa3MwcFR0ZUs2eEtDQXhoeEQ0c0xfenNiM1J5dUhTQXR6MC1OQkZha3FzUVhyYmdaaUlmNkE?oc=5",
-          "source": "google_news",
-          "summary": " I'm playing GTA 6 at 60fps on PC without paying for anything extra &nbsp;&nbsp; MakeUseOf ",
-          "published": "2026-11-23T21:30:16+00:00",
-          "pop": 1
-        },
-        {
-          "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FZy0yQU9ral9EdkdvMkJLRDJjaHdnanRpbjFHMWRYOGtXa3MwcFR0ZUs2eEtDQXhoeEQ0c0xfenNiM1J5dUhTQXR6MC1OQkZha3FzUVhyYmdaaUlmNkE?oc=5",
-          "source": "google_news",
-          "summary": " I'm playing GTA 6 at 60fps on PC without paying for anything extra &nbsp;&nbsp; MakeUseOf ",
-          "published": "2026-11-23T21:30:16+00:00",
+          "summary": " GTA 6: This website lets you track the PC recompilation live &nbsp;&nbsp; Notebookcheck ",
+          "published": "2026-11-24T12:59:00+00:00",
           "pop": 1
         }
       ],
@@ -314,27 +282,51 @@
       "covered": false
     },
     {
-      "key": "989dbac81672",
-      "title": "Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe - ZDNET",
+      "key": "55a80646055e",
+      "title": "Key facts: GTA VI Sets Launch Record; Analysts Raise Take-Two Price Targets - TradingView",
       "items": [
         {
-          "title": "Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe - ZDNET",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQjM1MUJfalFTZzBHcm1QQklLRE5Ka1pQemluejRfMGtiUXBhV2p5bk84WHhsMjVWSE9JOU15YkxRUWZPM1VzUk9vUGxzYzY3aFNqYnJvOG55bjJ3azVCS1oxZ2VQcUdNcGpGODVjMkE?oc=5",
+          "title": "Key facts: GTA VI Sets Launch Record; Analysts Raise Take-Two Price Targets - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY0t5eTFrRmdwOXl1c2VrTmowRFVGNUFzbTktcDBrc0NFYkNHSXlRNDZLVVFyMUhYSTBoOEhVSEcxdlJ6WUhzekZZNjJWT0NfWlVhbnhpekV2TjFrdVRqRDVzMlZBenlLRHZCVWI0dGUwMXRGWEhFaU53aWo1azBhaGRSM3JoLXAyaDlCWVRHeF9mYW9KTlJkVzU1NDB1MDdscXBBVmZsYVM2ckE1VGNVVUVqV3ZLb2Z1dnFERU1DSGxSUkNIdVRrcXN1VXF2TmpG?oc=5",
           "source": "google_news",
-          "summary": " Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe &nbsp;&nbsp; ZDNET ",
-          "published": "2026-11-23T20:15:00+00:00",
-          "pop": 1
-        },
-        {
-          "title": "Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe - ZDNET",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQjM1MUJfalFTZzBHcm1QQklLRE5Ka1pQemluejRfMGtiUXBhV2p5bk84WHhsMjVWSE9JOU15YkxRUWZPM1VzUk9vUGxzYzY3aFNqYnJvOG55bjJ3azVCS1oxZ2VQcUdNcGpGODVjMkE?oc=5",
-          "source": "google_news",
-          "summary": " Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe &nbsp;&nbsp; ZDNET ",
-          "published": "2026-11-23T20:15:00+00:00",
+          "summary": " Key facts: GTA VI Sets Launch Record; Analysts Raise Take-Two Price Targets &nbsp;&nbsp; TradingView ",
+          "published": "2026-11-24T08:00:00+00:00",
           "pop": 1
         }
       ],
       "score": 6.0,
+      "covered": false
+    },
+    {
+      "key": "9b3ce9686aa2",
+      "title": "\"W Rockstar\": Adin Ross Praises Rockstar After Spotting A Synagogue In GTA VI's Vice City - NDTV Sports",
+      "items": [
+        {
+          "title": "\"W Rockstar\": Adin Ross Praises Rockstar After Spotting A Synagogue In GTA VI's Vice City - NDTV Sports",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFJtYlgxTUtQcGVtYVowNlA2WkxjM3dZV0JIZTN2ZGM0c3hGekpteXhGRWZOdWkxc0RUdDAzYWlZSGd5bUJ5R3g5d0t6ZEtVeTZmNjBZcFJKRGJfTEx0ZDdMV29IOUlHYm1LQWY5dlBiOGx3bW1KSXdXeE1fTzRJOVNKUk1lUXNjY1B2XzVrbVhNZGZ1XzBYY0JmM1VTeEw5RW52cmp3dHdCUTdWQW5OYU0xRjlycnJ5czhuWVpnX3RJdWlfSF9wZ0lISUUzSDg?oc=5",
+          "source": "google_news",
+          "summary": " \"W Rockstar\": Adin Ross Praises Rockstar After Spotting A Synagogue In GTA VI's Vice City &nbsp;&nbsp; NDTV Sports ",
+          "published": "2026-11-24T12:51:45+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 5.0,
+      "covered": false
+    },
+    {
+      "key": "34a5592cfc36",
+      "title": "GTA 6 is Officially the Biggest Launch in PlayStation History - Polygon.com",
+      "items": [
+        {
+          "title": "GTA 6 is Officially the Biggest Launch in PlayStation History - Polygon.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1X2ZDX3kxM0E3WmRBVXY5SGdZcnpnNnBqNTRzdDVUNV9aeWVxWU8yVEN1MlpLU0VUS0txbG1FZWRTcG94UGZDaUo3cmZaN1JFcFIxdUdwUzF0ckNNWl8wdzZrUzRyemx1emQw?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 is Officially the Biggest Launch in PlayStation History &nbsp;&nbsp; Polygon.com ",
+          "published": "2026-11-24T10:04:01+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 5.0,
       "covered": false
     },
     {
@@ -358,259 +350,27 @@
           "pop": 1
         }
       ],
-      "score": 6.0,
-      "covered": false
-    },
-    {
-      "key": "fef079da075d",
-      "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
-      "items": [
-        {
-          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
-          "source": "google_news",
-          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
-          "published": "2026-11-23T23:30:13+00:00",
-          "pop": 1
-        },
-        {
-          "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history - PlayStation.Blog",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVBWLThKR2w4Vm9HUkxoSG91ZERKODFVOWRHcDhvRjdEZGhnLW80S25VVy04V1VIVmxrMVhud0N1aThKTTJ4NDB2YjJFNEQzc1NLMDdzcmJIeG5CNlppWHJLRUxTYV8tdDNoVFlXaVRlN3BYekFDYlFoN3R5TGtFWmtvM3hDMmRaaEIwY1paSGlBSE5TN2dKdXpBaU52UmR4WEFNcEdKZGFyT09nVEZPMzBwdVozYnZjb2JiTnFXTG4?oc=5",
-          "source": "google_news",
-          "summary": " Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history &nbsp;&nbsp; PlayStation.Blog ",
-          "published": "2026-11-23T23:30:13+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 6.0,
-      "covered": false
-    },
-    {
-      "key": "3a29f3f9895a",
-      "title": "GTA 6 boots on PC only 3 hours after Xbox executable leaked - TweakTown",
-      "items": [
-        {
-          "title": "GTA 6 boots on PC only 3 hours after Xbox executable leaked - TweakTown",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2FHVEZkNmdJcm56elFlRGliX2pDeXFydzdWa2RqVVRDUHh3ZUlsWDFiMnBjcTlJakluUVBfU0h2WUpxMzZYb1VORWcycXpxQmVyaHh2eDNOTml2eE84ci1SYVJuVTdLd1lPcE1QNE1NcjF4OFFFNXJFLU9OaHVSQjVMMHB4cGZnR3pFcW5SdzdESG1GeUFNTzVtYXd5NEFTNVdVWmFQUHhxaDhz?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 boots on PC only 3 hours after Xbox executable leaked &nbsp;&nbsp; TweakTown ",
-          "published": "2026-11-23T21:33:10+00:00",
-          "pop": 1
-        },
-        {
-          "title": "GTA 6 boots on PC only 3 hours after Xbox executable leaked - TweakTown",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2FHVEZkNmdJcm56elFlRGliX2pDeXFydzdWa2RqVVRDUHh3ZUlsWDFiMnBjcTlJakluUVBfU0h2WUpxMzZYb1VORWcycXpxQmVyaHh2eDNOTml2eE84ci1SYVJuVTdLd1lPcE1QNE1NcjF4OFFFNXJFLU9OaHVSQjVMMHB4cGZnR3pFcW5SdzdESG1GeUFNTzVtYXd5NEFTNVdVWmFQUHhxaDhz?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 boots on PC only 3 hours after Xbox executable leaked &nbsp;&nbsp; TweakTown ",
-          "published": "2026-11-23T21:33:10+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 6.0,
-      "covered": false
-    },
-    {
-      "key": "93c2d921c4ef",
-      "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics - IMDb",
-      "items": [
-        {
-          "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics - IMDb",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VHdPUV9Bem1tS2JwZEExOE4wbHdaeGFEcVo0QkVXRV9GdUQzREsxcWtjVGRvblFETlMyS0NjTHd6Y2dIcGxpc3FVdWtkNW1uY193aEdLTkJIOTM5cUpWQjBVOTBORWFsZ2c?oc=5",
-          "source": "google_news",
-          "summary": " All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics &nbsp;&nbsp; IMDb ",
-          "published": "2026-11-23T22:16:21+00:00",
-          "pop": 1
-        },
-        {
-          "title": "All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics - IMDb",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JdXJ4X3J5UGtqeWZGZ2RlNU1WUnpxenkyMkFLM0pNc1E0UWtKWUExWXQzS2J1dE9EMURQZXpQa2xnMEo4Z3V1anN1bkdtQm1Hc1I5MjU5SThnd2hTV2JpTi1jQ25mQQ?oc=5",
-          "source": "google_news",
-          "summary": " All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics &nbsp;&nbsp; IMDb ",
-          "published": "2026-11-23T21:38:46+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 6.0,
-      "covered": false
-    },
-    {
-      "key": "11a47fd88de5",
-      "title": "The missing piece needed to get the leaked GTA 6 Xbox build running on PC has reportedly surfaced online - TweakTown",
-      "items": [
-        {
-          "title": "The missing piece needed to get the leaked GTA 6 Xbox build running on PC has reportedly surfaced online - TweakTown",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGpyaVQ3b1Byc2NGZ2FLMEZUYmFscXJuT0J5bE9zVkE4aUg3TFA5VWRNejB6QjhwdGtsSE5rcHkwUUlsQ1p0S0JickxoZHhTODJDRXlhVmdTcHVFUVJOYldOWTJfc0lmRkloSXFKcVVobHMtUGEySGpmdG9kYmZPbTZ1MHN0OHBiNWFXU0RrZWdacHZZS0wwWklvTk5CNXBrdWJ4a2dNb0Q5YVZSWWNNeVA4UkQ2MHRLeWZjeXFMVDFjbnBQMV9mSU9ROUljODlYZFdhaDhLRmg3WGN4a2FjY3Y4UnRhYkhp?oc=5",
-          "source": "google_news",
-          "summary": " The missing piece needed to get the leaked GTA 6 Xbox build running on PC has reportedly surfaced online &nbsp;&nbsp; TweakTown ",
-          "published": "2026-11-23T21:45:13+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 5.0,
-      "covered": false
-    },
-    {
-      "key": "96fdf6e8db8e",
-      "title": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again - PC Gamer",
-      "items": [
-        {
-          "title": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again - PC Gamer",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPckZwZDYxczJfZGQ4ejVvaTRXRWtpdE9rSy1GbTBmRlM2Q1hSN0R6QmhJV3lDZVVGT0RadUowV1B0aDNxZ1JlcGE1THNkNlI0UFZZa2lqdWZuVEFVVmQyM2ozN084UXVKaWVqNUh2WHhISWZKZWxBRDUwREhoOXUwNG05Y3FOZzlVNFZxNEdpZGNBWmczbWlyZ2VtWUdweVROMDNMc3RGUVlLVS1lZlRYWTR6X3ZJUU9mMWhuLWVoampCRUctb0N6MHdoT1hvZENqMi1BREhxLU1rNVAyUmxHbjlTRkhfQVg4Ri0zdEFlSUFzaVhVWnJ3Nnc1VTE?oc=5",
-          "source": "google_news",
-          "summary": " The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again &nbsp;&nbsp; PC Gamer ",
-          "published": "2026-11-23T21:16:03+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 5.0,
-      "covered": false
-    },
-    {
-      "key": "d7dbe5dda0cc",
-      "title": "GTA 6's First Official Post-Release Update Has A Catch - Polygon.com",
-      "items": [
-        {
-          "title": "GTA 6's First Official Post-Release Update Has A Catch - Polygon.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnk1YUFqZF9PU1R3bHg2dzRjeEc4UUtiX2toUWszZjNSVGMwNjM2YXFIYzBiOWxHY1hldzhzQlBlYjlObVNFb1Naa25tTXFMeXNiN2lEeWV2d1BzLW1HdXpHNEVGOTNyQjhzTm92U2J6NnZBV2ZHN3hkLXc2ZjNvYUFZM3RXNGVNc2tyTEsxTGhQSTczNzFGZEpqSG1yNHJFQnc?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6's First Official Post-Release Update Has A Catch &nbsp;&nbsp; Polygon.com ",
-          "published": "2026-11-23T14:41:35+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 4.9,
-      "covered": false
-    },
-    {
-      "key": "f46a0d49955e",
-      "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed - RockstarINTEL",
-      "items": [
-        {
-          "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed - RockstarINTEL",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHhuQkR0ZUcxd3RWSFhQdlBiek5QOGlWMkR6ZDdYbFE5WW0yai1XRldRZl9JQ00wdUkwVDZVNnFSZWNHd2d2NnhYUkt1ZFJoUDJhWEs3WFdURm5vT3dpWjlSWmRmY1JJUWlHaG1vQURrSVMzVEU4MnJrTTFRNWNrYlZYWnZYek5vZ2wwb1RtbGE3ekxaLXc?oc=5",
-          "source": "google_news",
-          "summary": " First GTA VI Patch Release Time Revealed, Download Size Confirmed &nbsp;&nbsp; RockstarINTEL ",
-          "published": "2026-11-23T11:53:46+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 4.9,
-      "covered": false
-    },
-    {
-      "key": "8929ad377d7f",
-      "title": "Rockstar reports $3.79B in GTA 6 launch sales - The Rundown AI",
-      "items": [
-        {
-          "title": "Rockstar reports $3.79B in GTA 6 launch sales - The Rundown AI",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTTEwRlBHZXNOZGhidE9oMGM5SEhiWnA0NURmUFFIWWo0TmdPbDZuR2xlV21UdEtRaTVENWI1bjhIemxWbjQ2LWxmTVJoaDZ2SUtQLW8yOXU0R3cxRGJNZWpLdUVjOGlZa0E?oc=5",
-          "source": "google_news",
-          "summary": " Rockstar reports $3.79B in GTA 6 launch sales &nbsp;&nbsp; The Rundown AI ",
-          "published": "2026-11-23T11:51:11+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 4.9,
-      "covered": false
-    },
-    {
-      "key": "f5fdcde317c7",
-      "title": "'GTA 6' Online release update: What we know about when it comes out. - Mashable SEA",
-      "items": [
-        {
-          "title": "'GTA 6' Online release update: What we know about when it comes out. - Mashable SEA",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWG11LWRsYmdvWVpjRWp4VlVEZ2JOYW1zRTRWcVFCQ1dNRTFCSDJaR1JZV3UxZXZsN3N6OFAwWVJJdVB0WkQ1SVdod2QtTGFmcjFKczVxcXpQaUNRSWdzbTNMZlVXRXhLZklrSzlRcEpzVnZfR01JYm4yNEpIdWhfOVloNG1Nc2t2d2RHR3VJZ1ozNVZMamNiWUdDd1pGQzR6TTFR?oc=5",
-          "source": "google_news",
-          "summary": " 'GTA 6' Online release update: What we know about when it comes out. &nbsp;&nbsp; Mashable SEA ",
-          "published": "2026-11-23T10:16:43+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 4.9,
-      "covered": false
-    },
-    {
-      "key": "50c021ec5f7e",
-      "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch? - IMDb",
-      "items": [
-        {
-          "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch? - IMDb",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uX0tQWUotbDEtQnhqeWRZVnIyakVyU1hzN2xVazhsTUN1OFhZQUJCYWhTQWptOTdSb3F5QlFXbGwxdU5VV2NQUDQ4TzdQRWtKSXc?oc=5",
-          "source": "google_news",
-          "summary": " ‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch? &nbsp;&nbsp; IMDb ",
-          "published": "2026-11-23T13:10:40+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 4.9,
-      "covered": false
-    },
-    {
-      "key": "de6472bcf9f2",
-      "title": "GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress - VICE",
-      "items": [
-        {
-          "title": "GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress - VICE",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TZm1YMkJpN0pDSGhzYkNMMWRUOWpyZ3VNdGdrTGJGS1BOX1RyNzg5Z3Bma2MxQUxuWFlFdVZmeGp5Mi1qWkEtMUFxS1FfYl9QZUdwdUUzRzFWZi01dFo1V1RmWkYtcWdFNkM0THBodHYtOFpFc2tLM3NyMzQ?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress &nbsp;&nbsp; VICE ",
-          "published": "2026-11-23T15:10:35+00:00",
-          "pop": 1
-        },
-        {
-          "title": "GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress - VICE",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TZm1YMkJpN0pDSGhzYkNMMWRUOWpyZ3VNdGdrTGJGS1BOX1RyNzg5Z3Bma2MxQUxuWFlFdVZmeGp5Mi1qWkEtMUFxS1FfYl9QZUdwdUUzRzFWZi01dFo1V1RmWkYtcWdFNkM0THBodHYtOFpFc2tLM3NyMzQ?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress &nbsp;&nbsp; VICE ",
-          "published": "2026-11-23T15:10:35+00:00",
-          "pop": 1
-        }
-      ],
       "score": 4.2,
       "covered": false
     },
     {
-      "key": "ec9c2c3d69a9",
-      "title": "Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6 - Consequence of Sound",
+      "key": "1fbba9609a1e",
+      "title": "GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced - GAMINGbible",
       "items": [
         {
-          "title": "Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6 - Consequence of Sound",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJNmJpU0ZncW80bjR0NHFqbUVWQVlyN1RkTWlaSzM5ZUFIM1V6MUNrcnVsQ3dodEdmSGV1bGpFeXJPamVSVnVmeVo0UndQaFZIbDZwSU8zVjFockstS2I5RmZmemstVGoxQ2FaRXZR?oc=5",
+          "title": "GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced - GAMINGbible",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaHBZbTFnZkFxMVdoYnVTcjFQVFE2dnpMTjBPeUxBSjAyajRTNmo1MHdRRmRNUE5XSjQ2aWY4aEhONEp3c0FpQmk1NDFCU2R4TkNlRmVUOVJYZUo4UnB0NjkyRVdISFdfMm1UeUgzMEJaS052RG9mV1hrOXNDeWhVaGI2eWdWUQ?oc=5",
           "source": "google_news",
-          "summary": " Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6 &nbsp;&nbsp; Consequence of Sound ",
-          "published": "2026-11-23T16:03:00+00:00",
+          "summary": " GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced &nbsp;&nbsp; GAMINGbible ",
+          "published": "2026-11-24T03:00:01+00:00",
           "pop": 1
         },
         {
-          "title": "Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6 - Consequence of Sound",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJNmJpU0ZncW80bjR0NHFqbUVWQVlyN1RkTWlaSzM5ZUFIM1V6MUNrcnVsQ3dodEdmSGV1bGpFeXJPamVSVnVmeVo0UndQaFZIbDZwSU8zVjFockstS2I5RmZmemstVGoxQ2FaRXZR?oc=5",
+          "title": "GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced - GAMINGbible",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaHBZbTFnZkFxMVdoYnVTcjFQVFE2dnpMTjBPeUxBSjAyajRTNmo1MHdRRmRNUE5XSjQ2aWY4aEhONEp3c0FpQmk1NDFCU2R4TkNlRmVUOVJYZUo4UnB0NjkyRVdISFdfMm1UeUgzMEJaS052RG9mV1hrOXNDeWhVaGI2eWdWUQ?oc=5",
           "source": "google_news",
-          "summary": " Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6 &nbsp;&nbsp; Consequence of Sound ",
-          "published": "2026-11-23T16:03:00+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 4.2,
-      "covered": false
-    },
-    {
-      "key": "6ed2107a67a8",
-      "title": "GTA 6 PC port progressing at breakneck speed - Notebookcheck",
-      "items": [
-        {
-          "title": "GTA 6 PC port progressing at breakneck speed - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekhfZnpxejd4b0FQMHRZZXpicEtCSUY1UWxsVng2d3ZQb1FySU1Xa0ttSkx1MEZVTWdZMGFwbTVkdVFwT3NGV1FLeEtRckl3cnpHekxZcHh2X1NXb2JDdGQzOUlOeTVWOWJaSzhUS3RxQWg5bVRKbGtVdDR6MmltbUVfbXd0el81Z2pKRndhbV9UZEU?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 PC port progressing at breakneck speed &nbsp;&nbsp; Notebookcheck ",
-          "published": "2026-11-23T20:01:00+00:00",
-          "pop": 1
-        },
-        {
-          "title": "GTA 6 PC port progressing at breakneck speed - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekhfZnpxejd4b0FQMHRZZXpicEtCSUY1UWxsVng2d3ZQb1FySU1Xa0ttSkx1MEZVTWdZMGFwbTVkdVFwT3NGV1FLeEtRckl3cnpHekxZcHh2X1NXb2JDdGQzOUlOeTVWOWJaSzhUS3RxQWg5bVRKbGtVdDR6MmltbUVfbXd0el81Z2pKRndhbV9UZEU?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 PC port progressing at breakneck speed &nbsp;&nbsp; Notebookcheck ",
-          "published": "2026-11-23T20:01:00+00:00",
+          "summary": " GTA 7 is already being teased by Rockstar Games in GTA 6 - I'm convinced &nbsp;&nbsp; GAMINGbible ",
+          "published": "2026-11-24T03:00:01+00:00",
           "pop": 1
         }
       ],
@@ -634,15 +394,31 @@
       "covered": false
     },
     {
-      "key": "21fc81c1cd07",
-      "title": "GTA 6 Leaker Releases All Files for Alleged Xbox Build of Game - PCMag",
+      "key": "db1c1d0db209",
+      "title": "GTA 6 devs say bringing every detail together in Leonida ‘to feel like a directed whole was a huge challenge’ and ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’ - TechRadar",
       "items": [
         {
-          "title": "GTA 6 Leaker Releases All Files for Alleged Xbox Build of Game - PCMag",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczZaRFpBMk1SbHEzZTgxUlpjN3UxREc4TzBvWGdPQWJfQlJLSnF5Zm14R0tYV0hvVHgzYWNlUTY0eGpmdzU5ZXRhcG5mZ2hOU1d6NlRueHFaMUU3SnJfTzFaaFhIY2d2Y2pJSHh4V0kzVVNjQWRCSFNaNTlsRlQ1dE1hV3hCdV9NZzJvZHBOc3hFX28?oc=5",
+          "title": "GTA 6 devs say bringing every detail together in Leonida ‘to feel like a directed whole was a huge challenge’ and ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’ - TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNaWVuWnY3ZlVRY1NLbXB2WXlnelo1UkdxT3oyUVJTYjNfaUxncFc3SzU3SnhuNTc5MUZKWE1PMTVaMWpnNTd3RXloYVo2bXpaNWsyd3pDdjhfUmtYQzJQY0ttSElhRGYzM2lsVlh2Zzh0T245SnZib2ZFcV9GZGhBcktLcjFhOFBLSmpvU1QyM0lzWnJkTXdPRkNNMW80SWlTOFRpREhzcXQtWEozREo1SlprMjVURktLUHRiMXBDZ0dHUEFiQnVvbnF4Q2pSTnlLdy1hTWRmNEwydlJ4SWtrUE9wMWNUUzMtRG1UaXptUG15Q19fVkZ3NERDSm9ELUJuWkRYN1VMV3E5RFBsckRmVUR6U1hwbU9KOV96UFpiT1U1SUFTazVlb09zMEtKRDc3aGFiSmhKbUs5RWlrNFJ1MnBreDRVNEU2Yk91SUNUbTVadkw0Uk1hcjJYUEh6TXhiMEpNS3Itb2lUMjdsYWJPSk5CbmQyZFRFUlIwNHFB?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 Leaker Releases All Files for Alleged Xbox Build of Game &nbsp;&nbsp; PCMag ",
-          "published": "2026-11-23T20:07:34+00:00",
+          "summary": " GTA 6 devs say bringing every detail together in Leonida ‘to feel like a directed whole was a huge challenge’ and ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’ &nbsp;&nbsp; TechRadar ",
+          "published": "2026-11-24T08:51:23+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 4.0,
+      "covered": false
+    },
+    {
+      "key": "bad5a147bc8a",
+      "title": "As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities - Notebookcheck",
+      "items": [
+        {
+          "title": "As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities - Notebookcheck",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRVdxMFdUakJqUV9BbkhmSUVrVGtZLXFEYUZGeGRtdlZGLWNtWE1kWWZfQ0NvTkZhRUJnWnBTY1dRTWdGVlVqdjAxVURYTl8yTnozRUpmaHdxdVIxSzNuQzh1Ul9lYWpEMDdRRHhyTW41TFF5ZDd1UzdEQTh4Y21iWVZEMEx3VlUyckN6NVBpTTljQngzUmpqY1N3ZnpqQncxaVlWaFl3clBlTV8zblZINmFRWFN4c1gtbVVRRXZidXcwUGhsVnN5RHJHczhhalpUTGZrdGJwRk5lNnJCcFVvWmVTcFJjUnQ5MXhINTZsUkg2cUNsTEQ2VUNlNkw2TFpZ?oc=5",
+          "source": "google_news",
+          "summary": " As GTA 6 PC port gets closer to becoming playable, Rockstar is reportedly taking action against modders and Discord communities &nbsp;&nbsp; Notebookcheck ",
+          "published": "2026-11-24T00:47:00+00:00",
           "pop": 1
         }
       ],
@@ -650,95 +426,31 @@
       "covered": false
     },
     {
-      "key": "24179642c789",
-      "title": "GTA 6's Xbox executable has leaked, opening the door for unofficial PC port projects to start testing - XDA",
+      "key": "fc8e6f4a642e",
+      "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
       "items": [
         {
-          "title": "GTA 6's Xbox executable has leaked, opening the door for unofficial PC port projects to start testing - XDA",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWFidTVMVWlDQW9YbEFvYXRKZmw4UEtkV21lTHRfY0FZc1ZWbjM0X1dad2puejhlQkdJVU1ueFJDUU5CRUdYSVhuWXVESlk5a05iQ2pJeDd5cVlCdG9MdUYwZG1rYXYzM3VSUERTVEhOMUZma09sSF94dlVJRkNTT29yem0tSXgybmNlVHMzSGZRV1hEYXp0S193QVhnZnF0SVo0a1lKN0RkWlZBRnN5UW5kVUExN1dH?oc=5",
+          "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5",
           "source": "google_news",
-          "summary": " GTA 6's Xbox executable has leaked, opening the door for unofficial PC port projects to start testing &nbsp;&nbsp; XDA ",
-          "published": "2026-11-23T16:38:15+00:00",
+          "summary": " 5 ways GTA 6 revolutionises the open-world genre &nbsp;&nbsp; Red Bull ",
+          "published": "2026-11-24T11:19:04+00:00",
           "pop": 1
-        }
-      ],
-      "score": 3.5,
-      "covered": false
-    },
-    {
-      "key": "a3352b35d2f4",
-      "title": "Rockstar Games Announces 'Grand Theft Auto VI' Updates, Including a Fix for Weather Issue - Complex",
-      "items": [
+        },
         {
-          "title": "Rockstar Games Announces 'Grand Theft Auto VI' Updates, Including a Fix for Weather Issue - Complex",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJ3amt6SVE0MHFGN3Y0TExRVVlZWlZ6am8xMkI4SmxtSklLWmxCRV9YX1dVU0hKN3RPSzB2V3RUM1ctVllEajJBQ0FhOV9LcUx3bUpxU2w3Y3ZybW9sVVZ3RjJaRzZ0Wlpxa01KQUFiakxsdnp5QkFqcUFQaHh2U19uZUFWQWM?oc=5",
+          "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5",
           "source": "google_news",
-          "summary": " Rockstar Games Announces 'Grand Theft Auto VI' Updates, Including a Fix for Weather Issue &nbsp;&nbsp; Complex ",
-          "published": "2026-11-23T18:21:54+00:00",
+          "summary": " 5 ways GTA 6 revolutionises the open-world genre &nbsp;&nbsp; Red Bull ",
+          "published": "2026-11-24T11:19:04+00:00",
           "pop": 1
-        }
-      ],
-      "score": 3.5,
-      "covered": false
-    },
-    {
-      "key": "063f32623c71",
-      "title": "GTA 6 Fake PC Version Surfaces Online, Contains Malware - IGN India",
-      "items": [
+        },
         {
-          "title": "GTA 6 Fake PC Version Surfaces Online, Contains Malware - IGN India",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQl9LQnV4aUlkOXNnMFN4b3NKZHVTcUNQeE1kUmZub2IwaHB6clctc3BtUUNEczR5WDM3a2QxZ1lfOHk0TE40b0VPLVlvaDJXeDJ0NkRlc3hvWUlnRnFJeXJFZ3BBM21tYV9aYjlkUl9IQXVTekptRGdvYTctd1FnNUNMeEU3RzdWXzRHcS1CZnJCWGVrb2lTSU01NERBYWtpMnc?oc=5",
+          "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 Fake PC Version Surfaces Online, Contains Malware &nbsp;&nbsp; IGN India ",
-          "published": "2026-11-23T09:11:39+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 3.5,
-      "covered": false
-    },
-    {
-      "key": "7147aca224d2",
-      "title": "GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online. - GameGPU",
-      "items": [
-        {
-          "title": "GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU5tMmxSNFNXemtwR2VuMGJEZGFaX2RmN2NKX3B1a01JYXJMUTRwaVo0RVRtYzNPcndiODZaNUR0SDkwME4tRndDaktXVm5IejdscnNVZWpXcUJHVjR2VFcwNXQ3dDFmVDBIR3JnU2xZd3lqeUN1NmNORUU0ejZmWGFOWEp4MnJ4OGhFc3M1SWdocFhIQTBWZmhXcGxOckhWXzM4RklkOXNmX24zZ3Rn?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online. &nbsp;&nbsp; GameGPU ",
-          "published": "2026-11-23T18:47:45+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 3.5,
-      "covered": false
-    },
-    {
-      "key": "ca1d7d74f6f9",
-      "title": "Hundreds launch online fundraisers to help pay for Grand Theft Auto VI - The Independent",
-      "items": [
-        {
-          "title": "Hundreds launch online fundraisers to help pay for Grand Theft Auto VI - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0tMT2pTVXYxN01hUVNzbEdhOWk3MFNKbzFsYXRjYVJpc1V5SVRWTXBXZkxhQVl0aGhVcTFGNWRrTWZhVjdlemRoaHFRT2I3ZHVocjlFdWxnZTh0eUNCTFZyZXhpQUt4cFFXZUw1WFZqSG41aTlMSEFtNzBNZUc3Vl9KU19KZw?oc=5",
-          "source": "google_news",
-          "summary": " Hundreds launch online fundraisers to help pay for Grand Theft Auto VI &nbsp;&nbsp; The Independent ",
-          "published": "2026-11-23T18:06:00+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 3.5,
-      "covered": false
-    },
-    {
-      "key": "479bdda3a9cd",
-      "title": "“A masterpiece”: Cyberpunk’s co-CEO congratulates Rockstar on GTA 6 - MIXED News",
-      "items": [
-        {
-          "title": "“A masterpiece”: Cyberpunk’s co-CEO congratulates Rockstar on GTA 6 - MIXED News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ082MWpqcFItYTZBQkM1SklmQVo3SGRiaU1Fbm5ZR3JOYTFNSWJ1dVdrWFRBRm5lUnUwZmN5Q0k2ZWhfVnZ4VnFpaTVpMkVJa0lia2FtTzN4S1Q4MnBpT3EyeWtEYlVfMTFLdDhkYU1fSGtTZi1HYTdydUZCUkI1UTNuZ24?oc=5",
-          "source": "google_news",
-          "summary": " “A masterpiece”: Cyberpunk’s co-CEO congratulates Rockstar on GTA 6 &nbsp;&nbsp; MIXED News ",
-          "published": "2026-11-23T23:28:22+00:00",
+          "summary": " 5 ways GTA 6 revolutionises the open-world genre &nbsp;&nbsp; Red Bull ",
+          "published": "2026-11-24T11:19:04+00:00",
           "pop": 1
         }
       ],
@@ -746,19 +458,323 @@
       "covered": false
     },
     {
-      "key": "5dbc723e73a5",
-      "title": "GTA 6 Marks Biggest Launch in PlayStation History - Inven Global",
+      "key": "11c0441ac45d",
+      "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
       "items": [
         {
-          "title": "GTA 6 Marks Biggest Launch in PlayStation History - Inven Global",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWtqcEdKMXRLNHJDNG9nRG1RQWtLMGhkZ01XNFFtR2s2aC0ySlNqbllrOXcxcDdMdFVXRTgzRjQxNEhTWGx0MU5KSjJ0NGlYelpob2JQUDhtcVl2M0dGV0hkbFI1Z1Z3cHRHQjFlUS1KVnRkUWJYWVlENWg5SVBqbG5CMFZ3MzgwMTdRODg3TnFLLXI2bERN?oc=5",
+          "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2xtLXllUmFSRFc0Ym5FSU0xRDc3V3FiQ2hjOVFVX1dHRHktd3JiTE5WY0FiV2poR25MUm5NYzF4dk5iQzlPd09xcXk3QTA5eE9DbDl0M1VSWkc1YzVSY2U1QzFSVlN6djNHNDBRVzdTaHZvQzVNUnN0ZlZaUTEwZ1NpYXcwRXowSUphdHFXWTVHc2tyeTBRWWN4SmJiUFFTOVJUMNIBqwFBVV95cUxPSFNScnJwT2s4bjczTU5WS2FkNVktLVRGNzVqeHRvTFJHaWczMVNBWW1ITFZJYkZqRXFtUDlzQjdRSy1xa1RfaDVEeHg0b0hKN3N5YlI2cUZkWU5GV2d0anRoM3o2bmJSWmFHTnJ6VG1vUGNfdE1ZdXc0NmNtWF9jTzJJTVp4Mk1YXy1pOXhxRUpwNU9yakZjVTB0SnV4S0MzamJXNy1xYzdLTEE?oc=5",
           "source": "google_news",
-          "summary": " GTA 6 Marks Biggest Launch in PlayStation History &nbsp;&nbsp; Inven Global ",
-          "published": "2026-11-24T00:55:40+00:00",
+          "summary": " GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon &nbsp;&nbsp; The Indian Express ",
+          "published": "2026-11-24T11:18:28+00:00",
+          "pop": 1
+        },
+        {
+          "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2xtLXllUmFSRFc0Ym5FSU0xRDc3V3FiQ2hjOVFVX1dHRHktd3JiTE5WY0FiV2poR25MUm5NYzF4dk5iQzlPd09xcXk3QTA5eE9DbDl0M1VSWkc1YzVSY2U1QzFSVlN6djNHNDBRVzdTaHZvQzVNUnN0ZlZaUTEwZ1NpYXcwRXowSUphdHFXWTVHc2tyeTBRWWN4SmJiUFFTOVJUMNIBqwFBVV95cUxPSFNScnJwT2s4bjczTU5WS2FkNVktLVRGNzVqeHRvTFJHaWczMVNBWW1ITFZJYkZqRXFtUDlzQjdRSy1xa1RfaDVEeHg0b0hKN3N5YlI2cUZkWU5GV2d0anRoM3o2bmJSWmFHTnJ6VG1vUGNfdE1ZdXc0NmNtWF9jTzJJTVp4Mk1YXy1pOXhxRUpwNU9yakZjVTB0SnV4S0MzamJXNy1xYzdLTEE?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon &nbsp;&nbsp; The Indian Express ",
+          "published": "2026-11-24T11:18:28+00:00",
+          "pop": 1
+        },
+        {
+          "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2xtLXllUmFSRFc0Ym5FSU0xRDc3V3FiQ2hjOVFVX1dHRHktd3JiTE5WY0FiV2poR25MUm5NYzF4dk5iQzlPd09xcXk3QTA5eE9DbDl0M1VSWkc1YzVSY2U1QzFSVlN6djNHNDBRVzdTaHZvQzVNUnN0ZlZaUTEwZ1NpYXcwRXowSUphdHFXWTVHc2tyeTBRWWN4SmJiUFFTOVJUMNIBqwFBVV95cUxPSFNScnJwT2s4bjczTU5WS2FkNVktLVRGNzVqeHRvTFJHaWczMVNBWW1ITFZJYkZqRXFtUDlzQjdRSy1xa1RfaDVEeHg0b0hKN3N5YlI2cUZkWU5GV2d0anRoM3o2bmJSWmFHTnJ6VG1vUGNfdE1ZdXc0NmNtWF9jTzJJTVp4Mk1YXy1pOXhxRUpwNU9yakZjVTB0SnV4S0MzamJXNy1xYzdLTEE?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon &nbsp;&nbsp; The Indian Express ",
+          "published": "2026-11-24T11:18:28+00:00",
           "pop": 1
         }
       ],
       "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "b3d5602794e1",
+      "title": "GTA 6 fully pirated, but no PC can boot it (for now) - Korben",
+      "items": [
+        {
+          "title": "GTA 6 fully pirated, but no PC can boot it (for now) - Korben",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTFUwZzlmR2lYbmN4QzhRQXJvbWZxc0hla1JZVVJGbzREQ2V3MTFNYUc5a1JMOWtGRXlHWDRyWFJMVnl1Z3ZQSGJETlhXUkNmLVdVLWR5eVNxVnpwYXlIdUhtdmZ3WEdJS1ZsN2RnU0p0UGs?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 fully pirated, but no PC can boot it (for now) &nbsp;&nbsp; Korben ",
+          "published": "2026-11-24T09:27:00+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "0c4b6aa84461",
+      "title": "Bombed debut, dusty record in loft, GTA 6 comeback: The ‘Aaj Shanibar’ journey - The Indian Express",
+      "items": [
+        {
+          "title": "Bombed debut, dusty record in loft, GTA 6 comeback: The ‘Aaj Shanibar’ journey - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlhQbjU3Sml5aldXNmpfY3RFampDT1FGWGJFdV9NcU9yZG1ZRXM5U1dZQUE4NEswaFR1Zzd5V1prR19NV2hiWDBwR2dhSU5VbWx3bW1Gbzd2cWlsZGRsVjJFZGl1ZmFOVHE4eHNJdnoxX1VvVGpRNTBvRlZSUWFXNGZpQzhzcGlsbEloQk9aMXJrT09CVjBjeXVHYllBaWfSAaYBQVVfeXFMT0VObTVMTG1JVDJxaWo2MFF6bjNRUDR6dUNhbDAxbjNWRzQ5ZU5VVFNuSUtYellKc0R3UjFXMjlsUkJZUm54eU5PaWRUUDhLX1p1aXJORWg4UTl5UXd3eURIc29kb3ZkbUNrSnlybVM4RU5rbi1Kb3UyX2xNQjVIVmZESm93cnU3SVpLQjAxcjVKR3JEOXk5UlJYZmdNOUJjb3dDOEJ0QQ?oc=5",
+          "source": "google_news",
+          "summary": " Bombed debut, dusty record in loft, GTA 6 comeback: The ‘Aaj Shanibar’ journey &nbsp;&nbsp; The Indian Express ",
+          "published": "2026-11-24T08:36:59+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "f78aea827054",
+      "title": "From the radio engineering faculty to creating GTA VI — a Russian helped make Rockstar Games’ hit - iXBT.games",
+      "items": [
+        {
+          "title": "From the radio engineering faculty to creating GTA VI — a Russian helped make Rockstar Games’ hit - iXBT.games",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzJ0S0VKbjlrNUlobzh4aDc4TDhtU2xqQlNMSVlDTXhGVjJGX242YWpCaVBZalo0VXUwUVRzcHlQNTB0al82V05RbVhFS1ZvNU8wQ0E5Y2NsdkhwNWl6a0pPaXVwNnFLVGNDV0xaWDRfRDRLQzBUSEpZUUdpSVgzbEpRX1lSQy1OUDd2ZTl6Y0hNUkwzalI0NXJpS08xVzRRQVpmUHJmd1l5WG9QOEN6VjI1eC1SS0t5c2fSAb8BQVVfeXFMT3FvUHdjNV9Sd1U4cndKYVdfZjMwdk1tT2ZjNHIteWFOUnNxRFdrTTFlWXJWSUF6Wl9RRi1YVzJmYnRteFVYYUdMblRrbElfbGlKd1I1Y1ZtNG12Qnd4Nm9jQWZvcTlEYWZjZlBrUEVhTGZYWGdxZHRHOTNkbEJMakhqUjJ2ZFNNNVU5aTZzZDdKZWhiUHBuUzZiR3ZsMV9RbjhYdjJMY0RhNG1RdHB4ZmpsZGVCVW9HcVVsQ2FwSFk?oc=5",
+          "source": "google_news",
+          "summary": " From the radio engineering faculty to creating GTA VI — a Russian helped make Rockstar Games’ hit &nbsp;&nbsp; iXBT.games ",
+          "published": "2026-11-24T10:57:00+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "6720b0ab00f5",
+      "title": "GTA 6 Update Fixes Seven Bugs as Players Request More Changes | Outlook Respawn - Outlook Respawn",
+      "items": [
+        {
+          "title": "GTA 6 Update Fixes Seven Bugs as Players Request More Changes | Outlook Respawn - Outlook Respawn",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmlEbDA5WWdRMm5aSjFjdkZESUdtY1J1TXl2QkZGS0Q0cHdGaUhCRHRMOE5QT0Q5RmFndDZpS0lrRDN5MEdXbVA1NUNzWnQzZVpscDFET0Z6b1F5RWhsLTduTE5wbTJyX3VNOVVNZlhjVnpNOGNQZExIUmkyWUlOU3dDU0VNbldhVGY4NDFtOUpGYmNMVVZGU0RKT0p5TjRGZHY1V2llcjNqZEJyRFkzVUU4Z9IBwAFBVV95cUxPbldqcnczdDU0R1pUNDR0QU9LWlcwX2tZeGptVS1kSEhnQ2tpTFNJOUpRYlVvbWg5dWMwS0h0bHpYR1JqN0h1dEdIUkEyTklzSGVOSFc3cnRVVVN6ajhGOXpyZ05CUk56TU9xX3BwVGNuZ0tUcTBFT182X1FNcVRzT1dRZTVtdXZNNHVPZGJLX2l1WWtpLXkyaE1BVUZtd3MwMDhncmdKOVE0ME9pd1JEZEZWRVJLZ2ttdnJZc2RsU3g?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 Update Fixes Seven Bugs as Players Request More Changes | Outlook Respawn &nbsp;&nbsp; Outlook Respawn ",
+          "published": "2026-11-24T10:00:00+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "b6d5866137d2",
+      "title": "Rockstar Games Reportedly Open to Red Dead Redemption Adaptation, but GTA Remains Off Limits - TwistedVoxel",
+      "items": [
+        {
+          "title": "Rockstar Games Reportedly Open to Red Dead Redemption Adaptation, but GTA Remains Off Limits - TwistedVoxel",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15enBVeEZGUHRhSVkzR0ViX1RGMk1Mc0VtUklVNVh4M19MM0dqWGxwaTYwZHJPMWxfNUpYQVp6MGVOUTBMSjZYVHhPSXJaR2pCajVPMDVZZjM2N2ZHQmg2X3NiSDF2ckNMRktYVFFXVlc0Vk90MUdaZFVEVQ?oc=5",
+          "source": "google_news",
+          "summary": " Rockstar Games Reportedly Open to Red Dead Redemption Adaptation, but GTA Remains Off Limits &nbsp;&nbsp; TwistedVoxel ",
+          "published": "2026-11-24T13:28:12+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "19993b3a4852",
+      "title": "Rockstar Games reveals 23 more tracks for GTA 6 deluxe soundtrack - Mezha.net",
+      "items": [
+        {
+          "title": "Rockstar Games reveals 23 more tracks for GTA 6 deluxe soundtrack - Mezha.net",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBPcG1pamhwNEpEOURvOUlmSmhVRnU3akpDQW85aHQ2aV9VNWMyU1h4YlI1Q1ZxZGl6bmhuVld1cS1DTG45Y1d1WjNjQmFTRDVaWjd3bW5DMExrZE9sdy1hMVJmNTA4Y0tMUm9pZV9GQTdqbFNwanhMbXBMSFA3dGtPNHJ2NmJu?oc=5",
+          "source": "google_news",
+          "summary": " Rockstar Games reveals 23 more tracks for GTA 6 deluxe soundtrack &nbsp;&nbsp; Mezha.net ",
+          "published": "2026-11-24T10:09:15+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "ac1e58d603cc",
+      "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more - Eurogamer.net",
+      "items": [
+        {
+          "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more - Eurogamer.net",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtUkhSczF1NW43ZzYyT2prUkZlaGpMaHdTVW1rNzZ6bGZhaXA1aHJpYUxnUnp1ZmhicDBqYWtuUWFxOVVxRDZ6ZVdyUXpFUzRaMzF4d1JHREZXSnNvY1NUUVBKeWxabjFUVEtkbEVUdUE5U1dhc3ZzajhIcnZMUQ?oc=5",
+          "source": "google_news",
+          "summary": " Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more &nbsp;&nbsp; Eurogamer.net ",
+          "published": "2026-11-24T10:03:50+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "8afe06a22080",
+      "title": "Rockstar Games Exceeds Lofty Expectations with Grand Theft Auto VI Masterpiece - Restart.run",
+      "items": [
+        {
+          "title": "Rockstar Games Exceeds Lofty Expectations with Grand Theft Auto VI Masterpiece - Restart.run",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVA2VmFTTVpBQkZiQ0U3TEVqQ0d5Q1JnRTRGVFNPbzlNU1ZOVlBHVTJSM3VmbnJBOFU1dnoyMFFHUlhXei1tZjlpQTVUeWxMMV9SSGVjWHY2U0RFT0E1N19IWndJN1FBbG9hc2RzMm5ZbFVvMGpRUmVOVEVBb0lvaVlmSS1qdnlMamVBdUkwQWZMRlV0T2JOR1NxX0tZMFhZUGdqNllPcWY0WGxmUDIxZQ?oc=5",
+          "source": "google_news",
+          "summary": " Rockstar Games Exceeds Lofty Expectations with Grand Theft Auto VI Masterpiece &nbsp;&nbsp; Restart.run ",
+          "published": "2026-11-24T08:29:07+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "4edb70a8b30a",
+      "title": "When is GTA 6 online coming out? Here’s everything we know - The Independent",
+      "items": [
+        {
+          "title": "When is GTA 6 online coming out? Here’s everything we know - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE1kemxOeFJCbFBDNGVoSWpoSDNNOVhPRGxfLURpSDB0LW4xMTY4cmJ1RmFldEtxaUxucmF0V2V3b3dtQUFmR2VBS05Oc29pckx3ZmxpTFQySXA2UklwQlVKQTgwM2F6ZlR6RmhWOEx5ZTY1aFEzbWYyV2tmT0JRX0gxQlFhbURtNlVzRHI1UXVoZkFNNWE1Y1p4QW5qQQ?oc=5",
+          "source": "google_news",
+          "summary": " When is GTA 6 online coming out? Here’s everything we know &nbsp;&nbsp; The Independent ",
+          "published": "2026-11-24T09:57:00+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "470730a3057f",
+      "title": "When Does GTA 6 Online Come Out? Everything We Know - HuffPost UK",
+      "items": [
+        {
+          "title": "When Does GTA 6 Online Come Out? Everything We Know - HuffPost UK",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1REZlBiWVpWZFotODhIckUxQTgzQzgxRGxSU2FlWXZYQ1c0Nl83ZHlURmdhbzhadVlFYXo4dXdmbGx0SmNJUEFGbXhzbnZBQUFZVC1rLWt3TDltZE1xTnZ6aGIxeWU0MnlIVm9HNlRlTTUtN0lvUktibmJ5VzI1RFUtVHNNVGROTjVwbG9CRjI1Y3JuYjNoYnNYS0tvTlpzX0VrejV0eTVoLWpBeHc?oc=5",
+          "source": "google_news",
+          "summary": " When Does GTA 6 Online Come Out? Everything We Know &nbsp;&nbsp; HuffPost UK ",
+          "published": "2026-11-24T12:56:17+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "315872fa00d7",
+      "title": "GTA 6 devs ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’ — ‘The most exciting thing about building this world is how immense and varied it is’ - Yahoo Tech",
+      "items": [
+        {
+          "title": "GTA 6 devs ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’ — ‘The most exciting thing about building this world is how immense and varied it is’ - Yahoo Tech",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajFCd09TaXJVQ1ltdnhia3J3RjU4ZU5PNDdUMWQ0RGZZZmhOcTVJV0puX2FZSWJUS0J3cV9ZeENmbFNRZHFtVjI4akJIUzJ6cUVuUXhiek5scmp2YXlwQXpTVTlPeUJTa05xeUpoSmFCZkxtYVhIUHptZjNPUDlzVV9taw?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 devs ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’ — ‘The most exciting thing about building this world is how immense and varied it is’ &nbsp;&nbsp; Yahoo Tech ",
+          "published": "2026-11-24T08:51:23+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "94fb4c77bede",
+      "title": "GTA 6 receives first patch on PS5 and Xbox Series X|S with crash, autosave and Wanted Level fixes - Moneycontrol.com",
+      "items": [
+        {
+          "title": "GTA 6 receives first patch on PS5 and Xbox Series X|S with crash, autosave and Wanted Level fixes - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDVFbGt3eVphc29vWGJTNlN0WnBfT3FpSDA1eW9sOXlTMXhxbGhYTl9SVHItcVI5bkxFVFhXR2hQVXhvTlpOWGVVMUkyVjl0UXFOTnU3c0lhS09xdTA2VVFhbnFsS1VqSmJPR0xHRmR2QndKdmNKbGlUMFJ1b0JiSWhRcVZhcTlRNHFFWTJ4UjJsbWpCYVA0dzF2OW5wTnluUGhMS0VwSXFtRWN6UjF3UFV6RlVFQ2ZnNExIS2VWZWMzY1JDaEw5cnFyTVI5aERQVEo1WjVqLVRpaWlNeVF2S05WV2syMWNZM3E2OXJtMNIB9AFBVV95cUxNel95bUFjWGlyR01FTHF4QkkwY1pkLVMxTU93Zm5jeWlGYnN0Y1pWNXhCXzJEZHM1allIQUQ2SGZGTzBNMS02cW5PdGluZ1c3RElKT196MEFTUDhHX201dVlkNFM5U3plRldBSmJSUXV2RU00cDdBVHVIMTBjbnVWMk1kaWF1SVgtTzRFVmtoNEpTR2hUeFNuSkZ3S3o2Q2dIZkVtajRsN1Qxdm5pV3FHbFB5QnRfUTYzSmJJVGJSd1lNOHdadFZESlJBVHM4RnlsQTMwVV94Sk9rOTl3b2U5Yk8zenlVeV9LS19YMXlxOHBlbm9a?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 receives first patch on PS5 and Xbox Series X|S with crash, autosave and Wanted Level fixes &nbsp;&nbsp; Moneycontrol.com ",
+          "published": "2026-11-24T07:18:29+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.8,
+      "covered": false
+    },
+    {
+      "key": "3f1580f9eeab",
+      "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online - Euronews.com",
+      "items": [
+        {
+          "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSi03NXpzUzA4MDE3bURSb2FCcml4Q1loeDF3WURWTmxjSFpzdkprZ21BejU2eWVVWU5Qd1l1bFFyYnpqT2FSN1UySWdLVGFrV2N6RHdpNWZ1ajFRd0otYVRwVVBiYlZxXzYzUHg5N1RuVjNQVTdfN3Z4dF90UGluVlFuVFdxTGJUVzZZSzNyR0g3RjQ4OF9RdnB1T05CakVIR2FWeEt5N1ZJTGNPOGVmaG1LNW9JdUV3bUVpVzZpTEM?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online &nbsp;&nbsp; Euronews.com ",
+          "published": "2026-11-23T09:19:13+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.8,
+      "covered": false
+    },
+    {
+      "key": "50c021ec5f7e",
+      "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch? - IMDb",
+      "items": [
+        {
+          "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch? - IMDb",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uX0tQWUotbDEtQnhqeWRZVnIyakVyU1hzN2xVazhsTUN1OFhZQUJCYWhTQWptOTdSb3F5QlFXbGwxdU5VV2NQUDQ4TzdQRWtKSXc?oc=5",
+          "source": "google_news",
+          "summary": " ‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch? &nbsp;&nbsp; IMDb ",
+          "published": "2026-11-23T13:10:40+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.8,
+      "covered": false
+    },
+    {
+      "key": "5baf28588145",
+      "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra - MakeUseOf",
+      "items": [
+        {
+          "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FZy0yQU9ral9EdkdvMkJLRDJjaHdnanRpbjFHMWRYOGtXa3MwcFR0ZUs2eEtDQXhoeEQ0c0xfenNiM1J5dUhTQXR6MC1OQkZha3FzUVhyYmdaaUlmNkE?oc=5",
+          "source": "google_news",
+          "summary": " I'm playing GTA 6 at 60fps on PC without paying for anything extra &nbsp;&nbsp; MakeUseOf ",
+          "published": "2026-11-23T21:30:16+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.1,
+      "covered": false
+    },
+    {
+      "key": "989dbac81672",
+      "title": "Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe - ZDNET",
+      "items": [
+        {
+          "title": "Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe - ZDNET",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQjM1MUJfalFTZzBHcm1QQklLRE5Ka1pQemluejRfMGtiUXBhV2p5bk84WHhsMjVWSE9JOU15YkxRUWZPM1VzUk9vUGxzYzY3aFNqYnJvOG55bjJ3azVCS1oxZ2VQcUdNcGpGODVjMkE?oc=5",
+          "source": "google_news",
+          "summary": " Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe &nbsp;&nbsp; ZDNET ",
+          "published": "2026-11-23T20:15:00+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.1,
+      "covered": false
+    },
+    {
+      "key": "4119d91c4633",
+      "title": "GTA 6 is crashing for some PS5 users, Rockstar pushes out urgent fix - India Today",
+      "items": [
+        {
+          "title": "GTA 6 is crashing for some PS5 users, Rockstar pushes out urgent fix - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc1gzYThzb19hejNTajBfVk9KUU82RFlCZXhkMHIweGgybW1qTDJuRlAyMzhyVUV3UXVNZy1WT1IweXZ6Z2ZzaFhsSC1LOTVielJUY1kwWUVIdW8xWk9RV3JRXzBqU2diQVcwTWcyR0NRLTJlSFVYVnpuT0t2UFl5OHphZ0tEYmU2SXhUdDh1eFJBdF9vNjQxeGFXV3dMbjBMaE9jV18wNDQtaF9iSTdraHY3UGhySl9SS0JDZjZJYlpEM2FXc2x3cmFjYjRGbW5jQzVqdjcxam9NZUFZRVJyRTlDWTZoaDlOU1hSM3RPOEdFZ9IB9wFBVV95cUxOeXlmZkVJZ1VFajFzWXBPTnpoNFNDUmpjNXpMNjhrVmRfblJISTkzOVcxbnZ1Qk9HVldCM0Exd2RxOTFmTDR0RUw0OUJZdWpCdHp2REpsZEpzOEVFODhiY3dyUzViYjI2MzVhTXQyZF8tdmFEdTRMU2l5RzBnMFQ3dHBmZGhzSGVtRkdTeGprWFM1czlMelYySkZ5dG5pTk5kSHRtODRNUnJnalpEU2F2T2VLM1lONllaT1JoX3Z4MzQyN20xeVJ0cm1xRVBWZkk1YjJQQXpKTlQzb2tHVHFDSEIwZ1U1WmV2aHVUaHZGQVljdmt3MUlR?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 is crashing for some PS5 users, Rockstar pushes out urgent fix &nbsp;&nbsp; India Today ",
+          "published": "2026-11-24T07:17:31+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.1,
+      "covered": false
+    },
+    {
+      "key": "0d72d30840b8",
+      "title": "Two Sikkim artists earn credits on Rockstar Games' GTA VI - India Today NE",
+      "items": [
+        {
+          "title": "Two Sikkim artists earn credits on Rockstar Games' GTA VI - India Today NE",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1Z0MTV0QVJ4QmRQZEZLUTJ2bWJMOGg1d0pTOXFiWE1MT1p5eHNJUUtMNFAwV3phWFNLcVMwTDM2UnljS0JWclhRamVGWTFyV0dzcDJKZE1QREZvcWZjeG5lTG1UQndFTHRlWVNuUEZpMjZiNnFwLTBkSTlXSFl3YWhyVU5oWVVmN2JvQzJtZDBLSm1fQlRGa0tVSWk2bkFDWTJ0Nzd2elpRUlhCMEE4SDNHcGNjWW_SAbwBQVVfeXFMTlppS2JMY21XQkcyUU80S3RxUi1HZS1xNVplX1FkT3hmRG5Xa1ltNEJzczRfRjlaU2M5WnNndVJ6S3hFRkRpTXRNVE42M0NybU02OUZpQkY3ZENXTEJNbXg0SnN4NXZFNlVRSzRncGxZZl8tblZTLTl0dWttTnloVTM3QzRBRlVfYVQxVUcwUE5BWDljTUNDUzFJNmxvNlVjX1hyclhOWWczRTNFWmZTdWJrN0xybFpVbVJrMkY?oc=5",
+          "source": "google_news",
+          "summary": " Two Sikkim artists earn credits on Rockstar Games' GTA VI &nbsp;&nbsp; India Today NE ",
+          "published": "2026-11-24T04:38:44+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.1,
       "covered": false
     },
     {
@@ -774,89 +790,73 @@
           "pop": 1
         }
       ],
-      "score": 3.0,
-      "covered": false
-    },
-    {
-      "key": "cd6fcfe9b366",
-      "title": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says - GameSpot",
-      "items": [
-        {
-          "title": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says - GameSpot",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVVZaXBEU2J3MXZvYTJKajQ5SlVlWVpiaS1ZQWhJeE9DalhYM3lGRWkxdXk1UVdrbUNiUDBzeVRmNWM3Qy0xY01QUk82N255bm9nTlhnM3JIX0M4WVp5bF9OSzl1QTdkejBrVnFnemlqWXJqTTlISXNIXzJIVzJrUF9DVFhQVWRqcGY3elY5VFFSbHZuSWxYWmQ3V28yYXl3UnNoOXNUcnBZRVBVVUxDdGZR?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says &nbsp;&nbsp; GameSpot ",
-          "published": "2026-11-23T20:29:38+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 3.0,
-      "covered": false
-    },
-    {
-      "key": "6aec5852eb43",
-      "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts - IGN Southeast Asia",
-      "items": [
-        {
-          "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts - IGN Southeast Asia",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY0YzdkpOa2VfUGNKYlBIRmNENUxpSlNPcjdzb0U4NU9PVXpjTFZEOW5sb1FUMWMtMEFKaGh6MDV5YmFNTVZRMU1iWFFRRUo4eF9mUEFnc1RmSk9LdjBSbXcwcjUzTHkyei1nYXZQLWlYY3pNaFREYlV5MFEzenNTSUNzTDVwYW9PT29vWWRLMUhTMHAtUHd3TGRnUE5DRzJaTm5BcWNzVTJxM0xXajdRelU4aFBGTC12aFhveHFhcmItd3ljWXQ5OHF4Q3d5QVBrY0hoZGpLXzBHUVJwQlpKU1VwRG9yMl9v?oc=5",
-          "source": "google_news",
-          "summary": " Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts &nbsp;&nbsp; IGN Southeast Asia ",
-          "published": "2026-11-24T00:01:44+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 3.0,
-      "covered": false
-    },
-    {
-      "key": "189e509c7684",
-      "title": "GTA 6 PC Rumors: What's Real and What's Just Hype - PCMag",
-      "items": [
-        {
-          "title": "GTA 6 PC Rumors: What's Real and What's Just Hype - PCMag",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5elYwVXFYT1ZYSmpoSThtZDFSZ09wMVhMWkVvY3RJVTFTU3RhWldIMXlMRWdYM1k4NzhTaFNCMHN1d3hRSEl1VGZEaWpUS3A3cTJrNnRlYXB6MkY2WmZRMEduTWNvY29PZ2NFeVhJVVlNWFkyZnRKbw?oc=5",
-          "source": "google_news",
-          "summary": " GTA 6 PC Rumors: What's Real and What's Just Hype &nbsp;&nbsp; PCMag ",
-          "published": "2026-11-23T18:38:45+00:00",
-          "pop": 1
-        }
-      ],
       "score": 2.1,
       "covered": false
     }
   ],
   "breaking": [
     {
-      "key": "c6af1361ab66",
-      "title": "'GTA 6' on PC update: What we know about when it releases - Mashable",
+      "key": "fc8e6f4a642e",
+      "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
       "items": [
         {
-          "title": "'GTA 6' on PC update: What we know about when it releases - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
+          "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5",
           "source": "google_news",
-          "summary": " 'GTA 6' on PC update: What we know about when it releases &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:23:37+00:00",
+          "summary": " 5 ways GTA 6 revolutionises the open-world genre &nbsp;&nbsp; Red Bull ",
+          "published": "2026-11-24T11:19:04+00:00",
           "pop": 1
         },
         {
-          "title": "'GTA 6' on PC update: What we know about when it releases - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
+          "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5",
           "source": "google_news",
-          "summary": " 'GTA 6' on PC update: What we know about when it releases &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:23:37+00:00",
+          "summary": " 5 ways GTA 6 revolutionises the open-world genre &nbsp;&nbsp; Red Bull ",
+          "published": "2026-11-24T11:19:04+00:00",
           "pop": 1
         },
         {
-          "title": "'GTA 6' on PC update: What we know about when it releases - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
+          "title": "5 ways GTA 6 revolutionises the open-world genre - Red Bull",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5",
           "source": "google_news",
-          "summary": " 'GTA 6' on PC update: What we know about when it releases &nbsp;&nbsp; Mashable ",
-          "published": "2026-11-23T23:23:37+00:00",
+          "summary": " 5 ways GTA 6 revolutionises the open-world genre &nbsp;&nbsp; Red Bull ",
+          "published": "2026-11-24T11:19:04+00:00",
           "pop": 1
         }
       ],
-      "score": 21.0,
+      "score": 3.0,
+      "covered": false
+    },
+    {
+      "key": "11c0441ac45d",
+      "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
+      "items": [
+        {
+          "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2xtLXllUmFSRFc0Ym5FSU0xRDc3V3FiQ2hjOVFVX1dHRHktd3JiTE5WY0FiV2poR25MUm5NYzF4dk5iQzlPd09xcXk3QTA5eE9DbDl0M1VSWkc1YzVSY2U1QzFSVlN6djNHNDBRVzdTaHZvQzVNUnN0ZlZaUTEwZ1NpYXcwRXowSUphdHFXWTVHc2tyeTBRWWN4SmJiUFFTOVJUMNIBqwFBVV95cUxPSFNScnJwT2s4bjczTU5WS2FkNVktLVRGNzVqeHRvTFJHaWczMVNBWW1ITFZJYkZqRXFtUDlzQjdRSy1xa1RfaDVEeHg0b0hKN3N5YlI2cUZkWU5GV2d0anRoM3o2bmJSWmFHTnJ6VG1vUGNfdE1ZdXc0NmNtWF9jTzJJTVp4Mk1YXy1pOXhxRUpwNU9yakZjVTB0SnV4S0MzamJXNy1xYzdLTEE?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon &nbsp;&nbsp; The Indian Express ",
+          "published": "2026-11-24T11:18:28+00:00",
+          "pop": 1
+        },
+        {
+          "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2xtLXllUmFSRFc0Ym5FSU0xRDc3V3FiQ2hjOVFVX1dHRHktd3JiTE5WY0FiV2poR25MUm5NYzF4dk5iQzlPd09xcXk3QTA5eE9DbDl0M1VSWkc1YzVSY2U1QzFSVlN6djNHNDBRVzdTaHZvQzVNUnN0ZlZaUTEwZ1NpYXcwRXowSUphdHFXWTVHc2tyeTBRWWN4SmJiUFFTOVJUMNIBqwFBVV95cUxPSFNScnJwT2s4bjczTU5WS2FkNVktLVRGNzVqeHRvTFJHaWczMVNBWW1ITFZJYkZqRXFtUDlzQjdRSy1xa1RfaDVEeHg0b0hKN3N5YlI2cUZkWU5GV2d0anRoM3o2bmJSWmFHTnJ6VG1vUGNfdE1ZdXc0NmNtWF9jTzJJTVp4Mk1YXy1pOXhxRUpwNU9yakZjVTB0SnV4S0MzamJXNy1xYzdLTEE?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon &nbsp;&nbsp; The Indian Express ",
+          "published": "2026-11-24T11:18:28+00:00",
+          "pop": 1
+        },
+        {
+          "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2xtLXllUmFSRFc0Ym5FSU0xRDc3V3FiQ2hjOVFVX1dHRHktd3JiTE5WY0FiV2poR25MUm5NYzF4dk5iQzlPd09xcXk3QTA5eE9DbDl0M1VSWkc1YzVSY2U1QzFSVlN6djNHNDBRVzdTaHZvQzVNUnN0ZlZaUTEwZ1NpYXcwRXowSUphdHFXWTVHc2tyeTBRWWN4SmJiUFFTOVJUMNIBqwFBVV95cUxPSFNScnJwT2s4bjczTU5WS2FkNVktLVRGNzVqeHRvTFJHaWczMVNBWW1ITFZJYkZqRXFtUDlzQjdRSy1xa1RfaDVEeHg0b0hKN3N5YlI2cUZkWU5GV2d0anRoM3o2bmJSWmFHTnJ6VG1vUGNfdE1ZdXc0NmNtWF9jTzJJTVp4Mk1YXy1pOXhxRUpwNU9yakZjVTB0SnV4S0MzamJXNy1xYzdLTEE?oc=5",
+          "source": "google_news",
+          "summary": " GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon &nbsp;&nbsp; The Indian Express ",
+          "published": "2026-11-24T11:18:28+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 3.0,
       "covered": false
     }
   ]
