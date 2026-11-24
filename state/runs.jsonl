@@ -54,3 +54,5 @@
 {"ts": "2026-11-23T12:32:13.221858+00:00", "run": "20261123-123149-short", "event": "rejected", "feedback": "Too short: 64 words, need at least 95."}
 {"ts": "2026-11-23T16:23:15.603234+00:00", "run": "20261123-162315-short", "event": "start", "format": "short", "breaking": false}
 {"ts": "2026-11-23T16:26:00.900261+00:00", "run": "20261123-162315-short", "event": "done", "video_id": null, "title": "GTA 6 Update 603MB: என்ன மாறியது? Tamil #Shorts"}
+{"ts": "2026-11-24T00:14:15.375640+00:00", "run": "20261124-001415-long", "event": "start", "format": "long", "breaking": false}
+{"ts": "2026-11-24T00:15:08.313743+00:00", "run": "20261124-001415-long", "event": "rejected", "feedback": "Too short: 534 words, need at least 900."}
