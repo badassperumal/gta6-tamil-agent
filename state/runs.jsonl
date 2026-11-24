@@ -58,3 +58,5 @@
 {"ts": "2026-11-24T00:15:08.313743+00:00", "run": "20261124-001415-long", "event": "rejected", "feedback": "Too short: 534 words, need at least 900."}
 {"ts": "2026-11-24T02:12:10.658730+00:00", "run": "20261124-021210-short", "event": "start", "format": "short", "breaking": true}
 {"ts": "2026-11-24T02:14:32.427222+00:00", "run": "20261124-021210-short", "event": "done", "video_id": null, "title": "GTA 6 PC-ல கிடையாதா? அதிர்ச்சி தகவல்! | GTA 6 Tamil #Shorts"}
+{"ts": "2026-11-24T02:26:45.980763+00:00", "run": "20261124-022645-short", "event": "start", "format": "short", "breaking": false}
+{"ts": "2026-11-24T02:28:16.756105+00:00", "run": "20261124-022645-short", "event": "done", "video_id": null, "title": "GTA 6 Vice City Secret Portal Tamil #Shorts"}

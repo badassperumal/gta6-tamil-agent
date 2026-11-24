@@ -1,103 +1,97 @@
 {
   "plan": {
-    "pillar": "news",
-    "topic": "GTA 6 PC release update",
-    "story_key": "c6af1361ab66",
-    "angle": "Addressing PC players regarding the official platform availability at launch",
-    "working_title": "GTA 6 PC-ல எப்போ வரும்? 💻 முழு உண்மை Tamil #Shorts",
-    "hook_line": "பங்கு, GTA 6 இப்போதைக்கு PC-ல கிடையாதுன்னு சொல்றாங்களே, உண்மை என்ன தெரியுமா?",
+    "pillar": "secrets",
+    "topic": "GTA 6 Vice City Easter Egg portal",
+    "story_key": "e135bedff15f",
+    "angle": "Explaining the viral Easter egg in GTA 6 that connects to the original 2002 Vice City",
+    "working_title": "GTA 6-ல 2002 Vice City-க்கு போகலாமா? 🤯 Hidden Easter Egg! #Shorts",
+    "hook_line": "பங்கு, GTA 6-ல பழைய 2002 Vice City-யை ஓபன் பண்ற சீக்ரெட் ஈஸ்டர் எக் தெரிஞ்சா ஷாக் ஆயிடுவீங்க!",
     "footage_tags": [
-      "playstation 5 console",
-      "xbox series x",
-      "gta 6 official trailer",
-      "pc gaming setup"
+      "gta 6 gameplay",
+      "vice city easter egg",
+      "portal",
+      "ps5",
+      "jason and lucia"
     ],
     "facts": [
-      "GTA 6 releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "There is no PC version at launch."
+      "GTA 6 is set in the state of Leonida, which includes Vice City.",
+      "An Easter egg opens a portal to the original 2002 Vice City."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5"
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxORnk1Q2JVaU5IcTlua0Z1N2I1dXQ3WUdXanYzRzdEYTlVLUFaX0N2SFhlOFUzaFFWZXhURlJRS2t6QzVVdzFfbFVNZ0xUemxVbEtTNEY5UEZFbGZOTk5jaUFnYXFsNVFvUTJ4Q3YwcDhOZVpCMDB3emZGV2VXQ0VwMjNMZE5YNFhEUjltUGpoRFBfMkQySHpNaTREV1pkZ9IBowFBVV95cUxNa3BkRUNqSEN4d3UzR1hmNzJvTl9iV19RTUZ1TXd3U3pFTGg5TGt3cHhPOENrZm9OQTg3SkpKb3lxZkJnall0dzhpLVNMWjIzTEpWRXRBYmdjY01wdEROVWhGb1k4VzZxSDMzcUpaVFBLMExpeE8tc1diYUFHSW45ZW1lLTVfQ1Fua3FpUUxnTlpLN3F6bDR5Y3Y2S0pHQm9WWGNV?oc=5"
     ],
-    "why": "Directly addresses the heavy search interest and PC community questions regarding the platform release status using verified facts without repeating previous recent titles.",
+    "why": "Capitalizes on high search demand for GTA 6 secrets and Easter eggs using localized slang and short-form constraints without violating pre-launch rules since the game is now released.",
     "format": "short",
-    "breaking": true
+    "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "பங்கு, GTA 6 இப்போதைக்கு PC-ல கிடையாதுன்னு சொல்றாங்களே, உண்மை என்ன தெரியுமா?",
-        "visual": "pc gamer sad reaction monitor",
-        "onscreen": "PC Version இல்லையா?",
+        "narration": "பங்கு, GTA 6-ல பழைய 2002 Vice City-யை ஓபன் பண்ற சீக்ரெட் ஈஸ்டர் எக் தெரிஞ்சா ஷாக் ஆயிடுவீங்க!",
+        "visual": "vice city portal easter egg",
+        "onscreen": "2002 Vice City Portal?",
         "start": 0.0,
-        "end": 6.034
+        "end": 8.458
       },
       {
-        "narration": "Rockstar Games அதிகாரப்பூர்வமா அறிவிச்ச update என்னன்னா, GTA 6 வரப்போிற November 19, 2026-ல வெளிவருது.",
-        "visual": "rockstar games logo reveal trailer",
-        "onscreen": "Nov 19, 2026",
-        "start": 6.034,
-        "end": 15.476
+        "narration": "Rockstar Games ரிலீஸ் பண்ற இந்த செம கியூட்டான GTA 6-ல, Leonida ஸ்டேட் குள்ள ஒரு மெகா சர்ப்ரைஸ் வெச்சிருக்காங்க.",
+        "visual": "leonida map vice city",
+        "onscreen": "Leonida State",
+        "start": 8.458,
+        "end": 17.012
       },
       {
-        "narration": "ஆனா இந்த launch டேட்ல இந்த game வெறும் PlayStation 5 மற்றும் Xbox Series X|S console-களுக்கு மட்டும்தான் வருது.",
-        "visual": "ps5 and xbox series x consoles",
-        "onscreen": "PS5 & Xbox Only",
-        "start": 15.476,
-        "end": 22.902
+        "narration": "பழைய 2002 Vice City மேப் குள்ள போற மாதிரி ஒரு தரமான ஈஸ்டர் எக் போர்டல் ஒண்ணு இந்த கேம்ல ஒர்க் ஆகுது.",
+        "visual": "classic vice city map view",
+        "onscreen": "Secret Portal",
+        "start": 17.012,
+        "end": 24.966
       },
       {
-        "narration": "ரொம்ப முக்கியமான விஷயம் என்னன்னா, game ரிலீஸ் ஆகுறப்போ ஆரம்பத்துல PC version கிடையவே கிடையாது பாஸ்.",
-        "visual": "jason and lucia vice city artwork",
-        "onscreen": "No PC at Launch",
-        "start": 22.902,
-        "end": 30.328
+        "narration": "Jason மற்றும் Lucia கேரக்டர்ஸ் வச்சு விளையாடும்போது இந்த ஹிடன் ஸ்பாட்டை ஈஸியா கண்டுபிடிக்கலாம்.",
+        "visual": "jason and lucia gameplay",
+        "onscreen": "Jason & Lucia",
+        "start": 24.966,
+        "end": 31.24
       },
       {
-        "narration": "Leonida மாநிலத்தில் நடக்குற Jason மற்றும் Lucia கதைக்களத்தை அனுபவிக்க consoleதான் இப்போதைக்கு ஒரே வழி.",
-        "visual": "leonida vice city map overview",
-        "onscreen": "Vice City Leonida",
-        "start": 30.328,
-        "end": 36.794
+        "narration": "நவம்பர் 19, 2026-ல PlayStation 5 மற்றும் Xbox Series X|S-ல இந்த சீக்ரெட்டை நீங்களே ட்ரை பண்ணி பார்க்கலாம்.",
+        "visual": "ps5 xbox series x controller",
+        "onscreen": "Nov 19 2026",
+        "start": 31.24,
+        "end": 40.634
       },
       {
-        "narration": "PC-ல விளையாட காத்திருக்கிற gamers கொஞ்சம் பொறுமையாத்தான் இருக்கணும், இதுதான் இப்போதைக்கு நிலவரம்.",
-        "visual": "gaming pc setup rgb lights",
-        "onscreen": "Wait for PC",
-        "start": 36.794,
-        "end": 42.972
-      },
-      {
-        "narration": "நீங்க எந்த platform-ல GTA 6 விளையாடப் போறீங்க? கமெண்ட்ல சொல்லுங்க, அப்புறம் Subscribe பண்ணுங்க.",
-        "visual": "subscribe button animation youtube",
+        "narration": "இந்த சீக்ரெட் ஈஸ்டர் எக் பத்தி என்ன நினைக்கிறீங்க? மறக்காம Subscribe பண்ணுங்க!",
+        "visual": "gta 6 subscribe animation",
         "onscreen": "Subscribe பண்ணுங்க",
-        "start": 42.972,
-        "end": 50.206
+        "start": 40.634,
+        "end": 46.644
       }
     ],
-    "thumbnail_text": "GTA 6 PC UPDATE",
-    "end_question": "நீங்க எந்த platform-ல GTA 6 விளையாடப் போறீங்க?",
-    "word_count": 86
+    "thumbnail_text": "GTA 6 VICE CITY PORTAL",
+    "end_question": "இந்த சீக்ரெட் போர்டல் பத்தி என்ன நினைக்கிறீங்க?",
+    "word_count": 85
   },
   "meta": {
-    "title": "GTA 6 PC-ல கிடையாதா? அதிர்ச்சி தகவல்! | GTA 6 Tamil #Shorts",
-    "description": "GTA 6 PC-ல் வருமா வராதா? Rockstar Games-ன் லேட்டஸ்ட் அப்டேட் என்னவென்று இந்த வீடியோவில் பாருங்கள்.\n\nGTA 6 நவம்பர் 19, 2026 அன்று பிளேஸ்டேஷன் 5 மற்றும் எக்ஸ்பாக்ஸ் சீரிஸ் எக்ஸ்/எஸ் கன்சோல்களுக்கு மட்டுமே வெளியாகிறது. தொடக்கத்தில் PC வெர்ஷன் கிடையாது. லியோனிடா மாநிலத்தில் நடக்கும் ஜேசன் மற்றும் லூசியாவின் கதையை கன்சோலில் மட்டுமே விளையாட முடியும்.\n\nPC-க்காக காத்திருக்கும் கேம்கர்ஸ் தெரிந்துகொள்ள வேண்டிய முக்கியமான உண்மை இது.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க எந்த platform-ல GTA 6 விளையாடப் போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Vice City Secret Portal Tamil #Shorts",
+    "description": "GTA 6-ல பழைய 2002 Vice City-யை ஓபன் பண்ற சீக்ரெட் ஈஸ்டர் எக் தெரிஞ்சா ஷாக் ஆயிடுவீங்க!\n\nRockstar Games-ன் இந்த GTA 6 கேமில் Leonida ஸ்டேட் குள்ள ஒரு மெகா சர்ப்ரைஸ் இருக்கு. பழைய 2002 Vice City மேப் குள்ள போற மாதிரி ஒரு ஈஸ்டர் எக் போர்டல் ஒர்க் ஆகுது. Jason மற்றும் Lucia கேரக்டர்ஸ் வச்சு விளையாடும்போது இந்த ஹிடன் ஸ்பாட்டை ஈஸியா கண்டுபிடிக்கலாம். நவம்பர் 19, 2026-ல PS5 மற்றும் Xbox-ல இதை நீங்களும் ட்ரை பண்ணி பார்க்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த சீக்ரெட் போர்டல் பத்தி என்ன நினைக்கிறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 pc version",
-      "gta 6 release date",
+      "gta 6 vice city secret tamil",
+      "gta 6 secrets in tamil",
+      "gta 6 easter eggs tamil",
+      "gta 6 gameplay tamil",
+      "gta 6 trailer tamil",
+      "gta 6 jason lucia tamil",
+      "gta 6 map tamil",
+      "gta 6 ps5 tamil",
+      "gta tamil",
       "gta 6 news tamil",
       "gta 6 updates tamil",
-      "rockstar games",
-      "gta 6 gameplay tamil",
-      "ps5",
-      "xbox series x",
-      "gta 6 trailer tamil",
-      "gta 6 pc release",
+      "gta 6 leaks tamil",
       "tamil gaming",
-      "gta 6 facts tamil",
-      "gta vi tamil",
-      "gaming news tamil",
+      "gta v tamil",
       "GTA 6",
       "GTA VI"
     ]

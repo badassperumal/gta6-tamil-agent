@@ -227,6 +227,18 @@
       "duration": 50.2,
       "published_at": "2026-11-24T02:14:32.426606+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261124-022645-short",
+      "video_id": null,
+      "title": "GTA 6 Vice City Secret Portal Tamil #Shorts",
+      "format": "short",
+      "pillar": "secrets",
+      "topic": "GTA 6 Vice City Easter Egg portal",
+      "hook": "பங்கு, GTA 6-ல பழைய 2002 Vice City-யை ஓபன் பண்ற சீக்ரெட் ஈஸ்டர் எக் தெரிஞ்சா ஷாக் ஆயிடுவீங்க!",
+      "duration": 46.6,
+      "published_at": "2026-11-24T02:28:16.755361+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -266,7 +278,9 @@
     "40906e6dfb93",
     "aae76889206c",
     "c6af1361ab66",
-    "aadbfee337dc"
+    "aadbfee337dc",
+    "e135bedff15f",
+    "d770f2841b31"
   ],
   "breaking_days": {
     "2026-11-18": 1,
