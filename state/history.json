@@ -287,6 +287,18 @@
       "duration": 58.9,
       "published_at": "2026-11-25T08:31:46.560818+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261125-155655-short",
+      "video_id": null,
+      "title": "GTA 6-ல் Tommy Vercetti ஷர்ட் ரகசியம்! #Shorts",
+      "format": "short",
+      "pillar": "secrets",
+      "topic": "Vice City Easter Egg & Tommy Vercetti Shirt Unlock",
+      "hook": "Spoiler warning: GTA 6-ல் மறைந்துள்ள Tommy Vercetti ஷர்ட் ரகசியத்தை கண்டுபிடிப்போம்! இது உங்களுக்கு முழு Vice City அனுபவ",
+      "duration": 74.1,
+      "published_at": "2026-11-25T15:59:42.976137+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -335,7 +347,9 @@
     "2615c733cd14",
     "c2bfb3835170",
     "f5fdcde317c7",
-    "7011d39ffa09"
+    "7011d39ffa09",
+    "5a6e12c91f7e",
+    "b1ef75edc08a"
   ],
   "breaking_days": {
     "2026-11-18": 1,
