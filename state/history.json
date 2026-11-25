@@ -263,6 +263,18 @@
       "duration": 71.9,
       "published_at": "2026-11-24T16:16:11.917317+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261124-235827-short",
+      "video_id": null,
+      "title": "GTA 6 Police AI வேற லெவல்யா! 😱 #Shorts",
+      "format": "short",
+      "pillar": "reaction",
+      "topic": "GTA 6 Police AI and Physics Reaction in Tamil",
+      "hook": "மச்சான்ஸ், GTA 6-ல போலீஸ் AI வேற லெவல்யா! இவங்க பண்ணும் வேலையை பார்த்தீங்களா?",
+      "duration": 44.9,
+      "published_at": "2026-11-25T00:01:02.731458+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -308,7 +320,8 @@
     "fc8e6f4a642e",
     "8888ffd1a7f1",
     "fef079da075d",
-    "2615c733cd14"
+    "2615c733cd14",
+    "c2bfb3835170"
   ],
   "breaking_days": {
     "2026-11-18": 1,
