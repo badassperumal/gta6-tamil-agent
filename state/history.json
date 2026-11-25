@@ -299,6 +299,18 @@
       "duration": 74.1,
       "published_at": "2026-11-25T15:59:42.976137+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261125-191426-short",
+      "video_id": null,
+      "title": "GTA 6 9 Endings உண்மையா? | GTA 6 Tamil #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 has at least 9 distinct endings",
+      "hook": "ஹலோ மக்களே! GTA 6-ல மொத்தம் 9 distinct endings இருக்குனு Variety report பண்ணியிருக்காங்க. அது உண்மையா இல்லையானு இந்த vid",
+      "duration": 58.0,
+      "published_at": "2026-11-25T19:17:55.561258+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -349,7 +361,9 @@
     "f5fdcde317c7",
     "7011d39ffa09",
     "5a6e12c91f7e",
-    "b1ef75edc08a"
+    "b1ef75edc08a",
+    "9ead92d899e2",
+    "4ebed54bce35"
   ],
   "breaking_days": {
     "2026-11-18": 1,
@@ -358,6 +372,6 @@
     "2026-11-21": 2,
     "2026-11-23": 1,
     "2026-11-24": 2,
-    "2026-11-25": 1
+    "2026-11-25": 2
   }
 }

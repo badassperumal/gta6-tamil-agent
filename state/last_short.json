@@ -1,113 +1,104 @@
 {
   "plan": {
-    "pillar": "secrets",
-    "topic": "Vice City Easter Egg & Tommy Vercetti Shirt Unlock",
-    "story_key": "5a6e12c91f7e",
-    "angle": "First look at the Vice City Easter egg that unlocks the iconic Tommy Vercetti shirt – how to find it and why it matters for fans",
-    "working_title": "🔥 GTA 6 Vice City Easter Egg! Tommy Vercetti Shirt Unlock எப்படி? | Tamil Guide",
-    "hook_line": "வணக்கம் நண்பர்களே! GTA 6-ல் மறைந்துள்ள Tommy Vercetti ஷர்ட் ரகசியம் இப்போது கண்டுபிடிக்கலாம்!",
+    "pillar": "news",
+    "topic": "GTA 6 has at least 9 distinct endings",
+    "story_key": "9ead92d899e2",
+    "angle": "Discussing Variety's report that GTA 6 has at least 9 distinct endings for Jason and Lucia, and what it means for players in Tamil.",
+    "working_title": "GTA 6-க்கு 9 Ending-களா? 🤯 Shocking News Tamil #Shorts",
+    "hook_line": "GTA 6-ல மொத்தம் 9 Endings இருக்கா? ஜேசன் மற்றும் லூசியாவின் கதை எப்படி முடியுதுனு பாருங்க!",
     "footage_tags": [
-      "Vice City",
-      "Easter Egg",
-      "Tommy Vercetti",
-      "Shirt Unlock",
       "GTA 6",
-      "Tamil"
+      "Jason and Lucia",
+      "cutscene",
+      "endings",
+      "Variety report"
     ],
     "facts": [
-      "GTA 6 is set in the state of Leonida, which includes Vice City.",
-      "The game features an Easter egg that unlocks the Tommy Vercetti shirt."
+      "GTA 6 has at least 9 distinct endings according to reports.",
+      "The game stars Jason and Lucia in the state of Leonida, including Vice City."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VWVBFbjB3Q0MtYkllQ1VfNDJXMy1Wdk9jcXJXdEFHRVMyX2YxaUtFMFp0TEtuMUc1U0NPUGVrZERMUm55cWY1YThBOHRvSVJZWjh4RXo3bXdHa0d2M3lmNmVGM1RoclFyUlJRazdRMjNkSWVCZ1FJSXdZSWg?oc=5",
-      "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VWVBFbjB3Q0MtYkllQ1VfNDJXMy1Wdk9jcXJXdEFHRVMyX2YxaUtFMFp0TEtuMUc1U0NPUGVrZERMUm55cWY1YThBOHRvSVJZWjh4RXo3bXdHa0d2M3lmNmVGM1RoclFyUlJRazdRMjNkSWVCZ1FJSXdZSWg?oc=5"
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUs2anZGdkhTYThGVk1BejROaTJ4MXpLSGJ1WjdPS18wV2Q1R2xIMnQwM2NqdkJzSnpVbk8xZlluLW1LazFodHlKeFRWNkpEM1B4UjRNYXlGTG9BRVpheFFReVBnalp4LVFQOTlHd1dDOXZJdkVtWlV3U0tsU2dNTkwzSkJSSjFPT0U0?oc=5"
     ],
-    "why": "Easter egg guides are highly searched; a clear Tamil walkthrough on a beloved GTA 5 reference will boost CTR and retain viewers.",
+    "why": "The 9 distinct endings news is a major trending topic that drives immense curiosity and high CTR among Tamil gamers looking for story details.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "Spoiler warning: GTA 6-ல் மறைந்துள்ள Tommy Vercetti ஷர்ட் ரகசியத்தை கண்டுபிடிப்போம்! இது உங்களுக்கு முழு Vice City அனுபவத்தை மாற்றும்.",
-        "visual": "Easter egg teaser, Tommy Vercetti shirt, Vice City map",
-        "onscreen": "EASTER EGG!",
+        "narration": "ஹலோ மக்களே! GTA 6-ல மொத்தம் 9 distinct endings இருக்குனு Variety report பண்ணியிருக்காங்க. அது உண்மையா இல்லையானு இந்த video-ல பாக்கலாம்.",
+        "visual": "jason lucia vice city artwork",
+        "onscreen": "9 Endings in GTA 6?!",
         "start": 0.0,
-        "end": 10.426
+        "end": 10.762
       },
       {
-        "narration": "Vice City-யில் உள்ள பழைய குளிர்க் காரின் அருகே, ஒரு சிறிய கண்ணாடி சுவற்றை பாருங்கள். அந்த சுவரில் ஒரு மறைவு கீ-ஸ்விட்ச் உள்ளது.",
-        "visual": "Vice City old car, glass wall, key switch",
-        "onscreen": "",
-        "start": 10.426,
-        "end": 19.076
+        "narration": "Rockstar இந்த முறையோட கதைக்கு செம்ம முக்கியத்துவம் குடுத்திருக்காங்க. Leonida மாகாணத்துல நடக்குற இந்த சம்பவங்கள் ரொம்பவே சுவாரசியமா இருக்கப் போகுது.",
+        "visual": "leonida map overview swamp",
+        "onscreen": "Leonida Map",
+        "start": 10.762,
+        "end": 20.42
       },
       {
-        "narration": "அங்கு ஒரு மறைந்த சுவிட்ச் இருக்கும்; அதை அழுத்தினால், ஒரு கேமரா திரும்பி வரும். இந்த கேமரா, ஒரு பழைய விலையுயர்ந்த கார் காட்சியை காட்டும்.",
-        "visual": "camera reveal, old car interior, secret switch",
-        "onscreen": "",
-        "start": 19.076,
-        "end": 28.926
+        "narration": "நம்முடைய ஹீரோ Jason மற்றும் heroine Lucia-வோட choices வச்சு தான் இந்த ending-லாம் மாறப்போகுதுனு சொல்ல வராங்க.",
+        "visual": "lucia and jason cinematic scene",
+        "onscreen": "Jason & Lucia",
+        "start": 20.42,
+        "end": 26.646
       },
       {
-        "narration": "பிறகு, கேமரா திருப்பும் காட்சியில், 'Tommy Vercetti' லோகோவுடன் ஒரு ஸ்டிக்கர் இருக்கும்; அதை எடுத்துக்கொள்ளுங்கள். இந்த ஸ்டிக்கர், உங்கள் இன்வென்டரியில் ஒரு சிறப்பு ஆடை ஆகும்.",
-        "visual": "camera flip, Tommy Vercetti logo, inventory item",
-        "onscreen": "",
-        "start": 28.926,
-        "end": 40.792
+        "narration": "Vice City street-ல நம்ம பண்ற ஒவ்வொரு mission-ம் இந்த story-ல ரொம்ப முக்கியம். ஒவ்வொரு முடிவுக்கு பின்டியும் பெரிய twist இருக்கு.",
+        "visual": "vice city neon night driving",
+        "onscreen": "Vice City Action",
+        "start": 26.646,
+        "end": 34.216
       },
       {
-        "narration": "இந்த ஷர்ட் அணிந்தால், அந்த புகழ்பெற்ற Tommy Vercetti ஆடை மீண்டும் பெறலாம், இது Vice City-யின் கிளாசிக் ஸ்டைலை மீண்டும் கொண்டு வரும்.",
-        "visual": "Tommy shirt reveal, Jason character, Vice City skyline",
-        "onscreen": "",
-        "start": 40.792,
-        "end": 49.274
+        "narration": "November 19, 2026-க்கு PS5 மற்றும் Xbox Series X|S-ல game release ஆனதும், எந்த ending பாக்க போறீங்கனு அப்போ தான் தெரியும்.",
+        "visual": "playstation 5 console box",
+        "onscreen": "Nov 19 2026",
+        "start": 34.216,
+        "end": 45.026
       },
       {
-        "narration": "இப்போதே ரீபிளே செய்யலாம், உங்கள் நண்பர்களுக்கும் பகிர்ந்து கொள்ளுங்கள்! Subscribe பண்ணுங்க!",
-        "visual": "Replay footage, subscribe button",
-        "onscreen": "REPLAY NOW!",
-        "start": 49.274,
-        "end": 55.524
+        "narration": "PC-க்கு அந்த சமயத்துல launch இல்லையென்றாலும், இந்த multiple endings rumor gamer-களுக்கு செம்ம hype-ல கொண்டு போயிருக்கு.",
+        "visual": "jason looking at city skyline",
+        "onscreen": "Massive Hype",
+        "start": 45.026,
+        "end": 51.756
       },
       {
-        "narration": "Tommy Vercetti ஆடை, Vice City-யின் கிளாசிக் பாணி, பழைய ரசிகர்களுக்கு பெரும் உணர்வு. இந்த ஸ்டைலைப் பார்த்தால், பழைய நினைவுகள் மீண்டும் வருவதை உணர்வீர்கள்.",
-        "visual": "Vice City nostalgia, classic style, old fans",
-        "onscreen": "NOSTALGIA!",
-        "start": 55.524,
-        "end": 66.286
-      },
-      {
-        "narration": "இதைப் பார்க்காமல் GTA 6 அனுபவம் முழுமை பெறாது – மறுபடியும் ரீபிளே செய்து, இந்த ரகசியத்தை அனுபவியுங்கள்!",
-        "visual": "Easter egg final reveal, Replay loop, player reaction",
-        "onscreen": "",
-        "start": 66.286,
-        "end": 74.096
+        "narration": "உங்களுக்கு எந்த ending வரும்னு தோணுது? மறக்காம சொல்லுங்க, Subscribe பண்ணுங்க.",
+        "visual": "lucia police chase fast car",
+        "onscreen": "Subscribe பண்ணுங்க",
+        "start": 51.756,
+        "end": 57.982
       }
     ],
-    "thumbnail_text": "VICE CITY HIDDEN",
-    "end_question": "Tommy Vercetti ஷர்ட் எங்கு இருக்கிறது என்று யோசித்தீர்களா?",
-    "word_count": 134
+    "thumbnail_text": "GTA 6 9 ENDINGS?!",
+    "end_question": "உங்களுக்கு எந்த character-oda endingல game முடிக்க ஆசை?",
+    "word_count": 106
   },
   "meta": {
-    "title": "GTA 6-ல் Tommy Vercetti ஷர்ட் ரகசியம்! #Shorts",
-    "description": "GTA 6 ரகசியங்கள் தமிழில். GTA 6-ல் மறைந்துள்ள Tommy Vercetti ஷர்ட் ரகசியத்தை கண்டுபிடிப்போம்.\n\nVice City-யில் உள்ள பழைய குளிர்க் காரின் அருகே உள்ள மறைவு கீ-ஸ்விட்ச் மூலம் இந்த கிளாசிக் ஆடையை எப்படி பெறுவது என்று இந்த வீடியோவில் பார்க்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 Tommy Vercetti ஷர்ட் எங்கு இருக்கிறது என்று யோசித்தீர்களா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 9 Endings உண்மையா? | GTA 6 Tamil #Shorts",
+    "description": "GTA 6-ல மொத்தம் 9 endings இருக்கானு Variety report பண்ணியிருக்காங்க. Jason மற்றும் Lucia-வோட choices வச்சு இந்த endings மாறுமா என்பதை இந்த வீடியோவில் பார்க்கலாம்.\n\nRockstar Games உருவாக்கியுள்ள இந்த லியோனிடா மாகாண கதையில் பல twists இருக்கு. PS5 மற்றும் Xbox Series X/S-ல் 2026 நவம்பர் 19-ல் கேம் வெளியாகும் போது எந்த ending வரும்னு தெரிஞ்சிக்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு எந்த character-oda endingல game முடிக்க ஆசை?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 secrets in tamil",
-      "gta 6 tommy vercetti",
-      "vice city secret tamil",
-      "gta 6 tamil gameplay",
-      "gta 6 easter eggs tamil",
-      "gta 6 tips tamil",
-      "gta 6 shorts tamil",
-      "gta vi tamil",
+      "gta 6 endings tamil",
       "gta 6 news tamil",
+      "gta 6 jason lucia",
+      "gta 6 story tamil",
+      "gta 6 update tamil",
       "gta 6 leaks tamil",
-      "tamil gaming channel",
-      "gta tamil",
-      "gta 6 secrets",
-      "gta 6 hidden details",
+      "gta 6 gameplay tamil",
+      "gta 6 playstation 5",
+      "gta 6 xbox series x",
+      "rockstar games tamil",
+      "vice city tamil",
+      "gta tamil gaming",
+      "gta 6 release date tamil",
+      "tamil gaming shorts",
       "GTA 6",
       "GTA VI",
       "Tamil Gaming"
