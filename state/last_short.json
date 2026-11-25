@@ -1,107 +1,104 @@
 {
   "plan": {
-    "pillar": "news",
-    "topic": "GTA 6 has at least 9 distinct endings",
-    "story_key": "9ead92d899e2",
-    "angle": "Discussing Variety's report that GTA 6 has at least 9 distinct endings for Jason and Lucia, and what it means for players in Tamil.",
-    "working_title": "GTA 6-க்கு 9 Ending-களா? 🤯 Shocking News Tamil #Shorts",
-    "hook_line": "GTA 6-ல மொத்தம் 9 Endings இருக்கா? ஜேசன் மற்றும் லூசியாவின் கதை எப்படி முடியுதுனு பாருங்க!",
+    "pillar": "story",
+    "topic": "Jason and Lucia story details and Leonida setting",
+    "story_key": null,
+    "angle": "Exploring the Bonnie and Clyde style relationship of Jason and Lucia in Leonida",
+    "working_title": "GTA 6-ல் Jason மற்றும் Lucia காதல் கதை! 💔 #Shorts",
+    "hook_line": "GTA 6-ல Jason-க்கும் Lucia-வுக்கும் நடுவுல என்னதான் நடக்குது தெரியுமா?",
     "footage_tags": [
       "GTA 6",
       "Jason and Lucia",
-      "cutscene",
-      "endings",
-      "Variety report"
+      "Vice City",
+      "Leonida",
+      "Cutscene"
     ],
     "facts": [
-      "GTA 6 has at least 9 distinct endings according to reports.",
-      "The game stars Jason and Lucia in the state of Leonida, including Vice City."
+      "GTA 6 is set in the state of Leonida, which includes Vice City.",
+      "The two main characters are Jason and Lucia."
     ],
-    "sources": [
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUs2anZGdkhTYThGVk1BejROaTJ4MXpLSGJ1WjdPS18wV2Q1R2xIMnQwM2NqdkJzSnpVbk8xZlluLW1LazFodHlKeFRWNkpEM1B4UjRNYXlGTG9BRVpheFFReVBnalp4LVFQOTlHd1dDOXZJdkVtWlV3U0tsU2dNTkwzSkJSSjFPT0U0?oc=5"
-    ],
-    "why": "The 9 distinct endings news is a major trending topic that drives immense curiosity and high CTR among Tamil gamers looking for story details.",
+    "sources": [],
+    "why": "Focuses on the main characters Jason and Lucia in Tamil with strong viewer engagement potential, avoiding repetitive titles and respecting the story pillar.",
     "format": "short",
-    "breaking": true
+    "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "ஹலோ மக்களே! GTA 6-ல மொத்தம் 9 distinct endings இருக்குனு Variety report பண்ணியிருக்காங்க. அது உண்மையா இல்லையானு இந்த video-ல பாக்கலாம்.",
-        "visual": "jason lucia vice city artwork",
-        "onscreen": "9 Endings in GTA 6?!",
+        "narration": "ஹலோ மக்களே! GTA 6 ஸ்டோரி பத்தி ஒரு முக்கியமான spoiler warning. வீடியோவை ஃபுல்லா பாருங்க.",
+        "visual": "spoiler warning red screen",
+        "onscreen": "Spoiler Alert",
         "start": 0.0,
-        "end": 10.762
+        "end": 8.266
       },
       {
-        "narration": "Rockstar இந்த முறையோட கதைக்கு செம்ம முக்கியத்துவம் குடுத்திருக்காங்க. Leonida மாகாணத்துல நடக்குற இந்த சம்பவங்கள் ரொம்பவே சுவாரசியமா இருக்கப் போகுது.",
-        "visual": "leonida map overview swamp",
-        "onscreen": "Leonida Map",
-        "start": 10.762,
-        "end": 20.42
-      },
-      {
-        "narration": "நம்முடைய ஹீரோ Jason மற்றும் heroine Lucia-வோட choices வச்சு தான் இந்த ending-லாம் மாறப்போகுதுனு சொல்ல வராங்க.",
-        "visual": "lucia and jason cinematic scene",
+        "narration": "GTA 6-ல Jason-க்கும் Lucia-வுக்கும் நடுவுல என்னதான் நடக்குது தெரியுமா?",
+        "visual": "Jason and Lucia cinematic",
         "onscreen": "Jason & Lucia",
-        "start": 20.42,
-        "end": 26.646
+        "start": 8.266,
+        "end": 13.124
       },
       {
-        "narration": "Vice City street-ல நம்ம பண்ற ஒவ்வொரு mission-ம் இந்த story-ல ரொம்ப முக்கியம். ஒவ்வொரு முடிவுக்கு பின்டியும் பெரிய twist இருக்கு.",
-        "visual": "vice city neon night driving",
-        "onscreen": "Vice City Action",
-        "start": 26.646,
-        "end": 34.216
+        "narration": "Rockstar Games இந்த முறை செம மாசான ஒரு Bonnie and Clyde ஸ்டைல் காதல் கதையை தான் களம் இறக்க போறாங்க.",
+        "visual": "Bonnie and Clyde style couple car",
+        "onscreen": "Crime Couple",
+        "start": 13.124,
+        "end": 20.094
       },
       {
-        "narration": "November 19, 2026-க்கு PS5 மற்றும் Xbox Series X|S-ல game release ஆனதும், எந்த ending பாக்க போறீங்கனு அப்போ தான் தெரியும்.",
-        "visual": "playstation 5 console box",
-        "onscreen": "Nov 19 2026",
-        "start": 34.216,
-        "end": 45.026
+        "narration": "இந்த மொத்த கதையும் லியோனிடா (Leonida) மாநிலத்துல இருக்குற வைஸ் சிட்டி (Vice City) பின்னணியை வச்சுர்தான் நகருது.",
+        "visual": "Vice City neon map overview",
+        "onscreen": "Leonida & Vice City",
+        "start": 20.094,
+        "end": 28.936
       },
       {
-        "narration": "PC-க்கு அந்த சமயத்துல launch இல்லையென்றாலும், இந்த multiple endings rumor gamer-களுக்கு செம்ம hype-ல கொண்டு போயிருக்கு.",
-        "visual": "jason looking at city skyline",
-        "onscreen": "Massive Hype",
-        "start": 45.026,
-        "end": 51.756
+        "narration": "ஜேசனும் லூசியாவும் சேர்ந்து எப்படி இந்த பெரிய உலகத்துல சர்வைவ் ஆகுறாங்கன்றதுதான் இந்த மிஷனோட மெயின் ஹைலைட்.",
+        "visual": "Jason Lucia shootout mission",
+        "onscreen": "Survival Mission",
+        "start": 28.936,
+        "end": 36.698
       },
       {
-        "narration": "உங்களுக்கு எந்த ending வரும்னு தோணுது? மறக்காம சொல்லுங்க, Subscribe பண்ணுங்க.",
-        "visual": "lucia police chase fast car",
-        "onscreen": "Subscribe பண்ணுங்க",
-        "start": 51.756,
-        "end": 57.982
+        "narration": "இந்த கேம் ரிலீஸ் ஆனதுக்கு அப்புறம் நீங்க ஃபர்ஸ்ட் எந்த கேரக்டரை கண்ட்ரோல் பண்ணுவீங்க?",
+        "visual": "GTA 6 characters walking",
+        "onscreen": "Who's your pick?",
+        "start": 36.698,
+        "end": 42.252
+      },
+      {
+        "narration": "மறக்காம Subscribe பண்ணுங்க.",
+        "visual": "subscribe button animation",
+        "onscreen": "Subscribe Now",
+        "start": 42.252,
+        "end": 44.542
       }
     ],
-    "thumbnail_text": "GTA 6 9 ENDINGS?!",
-    "end_question": "உங்களுக்கு எந்த character-oda endingல game முடிக்க ஆசை?",
-    "word_count": 106
+    "thumbnail_text": "JASON & LUCIA STORY",
+    "end_question": "நீங்க Jason-ஐ பிடிக்குமா இல்ல Lucia-வா?",
+    "word_count": 79
   },
   "meta": {
-    "title": "GTA 6 9 Endings உண்மையா? | GTA 6 Tamil #Shorts",
-    "description": "GTA 6-ல மொத்தம் 9 endings இருக்கானு Variety report பண்ணியிருக்காங்க. Jason மற்றும் Lucia-வோட choices வச்சு இந்த endings மாறுமா என்பதை இந்த வீடியோவில் பார்க்கலாம்.\n\nRockstar Games உருவாக்கியுள்ள இந்த லியோனிடா மாகாண கதையில் பல twists இருக்கு. PS5 மற்றும் Xbox Series X/S-ல் 2026 நவம்பர் 19-ல் கேம் வெளியாகும் போது எந்த ending வரும்னு தெரிஞ்சிக்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு எந்த character-oda endingல game முடிக்க ஆசை?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Jason & Lucia Story Explained in Tamil #Shorts",
+    "description": "GTA 6 ஸ்டோரி என்ன தெரியுமா? ஜேசன் மற்றும் லூசியாவின் மாஸான காதல் கதை மற்றும் வைஸ் சிட்டி பின்னணி பற்றி இந்த ஷார்ட்ஸில் பார்க்கலாம்.\n\nRockstar Games உருவாக்கியுள்ள லியோனிடா மாநில வைஸ் சிட்டி பின்னணியில், Jason மற்றும் Lucia எப்படி சர்வைவ் ஆகிறார்கள் என்ற முக்கிய கதை குறிப்புகளை இந்த வீடியோவில் தமிழில் விளக்கியுள்ளோம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க Jason-ஐ பிடிக்குமா இல்ல Lucia-வா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "gta 6 tamil",
-      "gta 6 endings tamil",
-      "gta 6 news tamil",
-      "gta 6 jason lucia",
-      "gta 6 story tamil",
-      "gta 6 update tamil",
-      "gta 6 leaks tamil",
-      "gta 6 gameplay tamil",
-      "gta 6 playstation 5",
-      "gta 6 xbox series x",
-      "rockstar games tamil",
-      "vice city tamil",
-      "gta tamil gaming",
-      "gta 6 release date tamil",
-      "tamil gaming shorts",
+      "GTA 6 Tamil",
+      "GTA 6 Story Tamil",
+      "GTA 6 Jason Lucia",
+      "GTA 6 Vice City Tamil",
+      "GTA 6 Tamil Gameplay",
+      "GTA 6 Tamil News",
+      "GTA 6 Tamil Explainer",
+      "GTA 6 Leaks Tamil",
+      "Tamil Gaming",
+      "GTA 6 Tamil Shorts",
+      "GTA 6 Story Leaks",
+      "Rockstar Games Tamil",
+      "GTA 6 Updates Tamil",
+      "GTA 6 Tamil Channel",
+      "GTA 6 Plot Tamil",
       "GTA 6",
-      "GTA VI",
-      "Tamil Gaming"
+      "GTA VI"
     ]
   }
 }

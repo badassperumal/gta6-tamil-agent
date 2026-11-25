@@ -311,6 +311,18 @@
       "duration": 58.0,
       "published_at": "2026-11-25T19:17:55.561258+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261125-234318-short",
+      "video_id": null,
+      "title": "GTA 6 Jason & Lucia Story Explained in Tamil #Shorts",
+      "format": "short",
+      "pillar": "story",
+      "topic": "Jason and Lucia story details and Leonida setting",
+      "hook": "ஹலோ மக்களே! GTA 6 ஸ்டோரி பத்தி ஒரு முக்கியமான spoiler warning. வீடியோவை ஃபுல்லா பாருங்க.",
+      "duration": 44.5,
+      "published_at": "2026-11-25T23:47:34.726038+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -363,7 +375,8 @@
     "5a6e12c91f7e",
     "b1ef75edc08a",
     "9ead92d899e2",
-    "4ebed54bce35"
+    "4ebed54bce35",
+    "ead87a566064"
   ],
   "breaking_days": {
     "2026-11-18": 1,
