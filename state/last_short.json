@@ -1,108 +1,116 @@
 {
   "plan": {
-    "pillar": "reaction",
-    "topic": "GTA 6 Police AI and Physics Reaction in Tamil",
-    "story_key": null,
-    "angle": "Testing out the crazy realistic police AI and physics in GTA 6 open world, reacting to the madness in Tamil",
-    "working_title": "GTA 6 Police AI & Physics வேற லெவல்! 🤯 Tamil #Shorts",
-    "hook_line": "GTA 6-ல போலீஸ் AI வேற லெவல்யா! இவங்க பண்ணும் வேலையை பார்த்தீங்களா?",
+    "pillar": "news",
+    "topic": "GTA 6 Online release update",
+    "story_key": "f5fdcde317c7",
+    "angle": "All confirmed details about the upcoming GTA 6 Online launch – what we know, what’s still unknown, and when to expect it.",
+    "working_title": "GTA 6 Online ரிலீஸ் எப்பொழுது? | All Updates in Tamil",
+    "hook_line": "GTA 6 ஆன்லைன் வெளியீடு எப்போது? எல்லா விவரங்களும் இங்க!",
     "footage_tags": [
-      "GTA 6 gameplay",
-      "police chase",
-      "open world physics",
-      "Vice City street"
+      "GTA 6 Online",
+      "release update",
+      "news",
+      "Tamil",
+      "Rockstar"
     ],
     "facts": [
-      "GTA 6 is available on PlayStation 5 and Xbox Series X|S.",
-      "The game is set in Leonida and Vice City featuring Jason and Lucia."
+      "GTA 6 (Grand Theft Auto VI) by Rockstar Games releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
+      "The game is set in the state of Leonida, which includes Vice City.",
+      "The two main characters are Jason and Lucia.",
+      "There is no PC version at launch.",
+      "Rockstar has announced an upcoming GTA 6 Online mode, but no official launch date has been confirmed yet."
     ],
-    "sources": [],
-    "why": "Matches viewer request for police AI and physics testing in Tamil, capitalizing on post-launch gameplay reactions for high engagement.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzB4dmRBVlpRMUpYZnJRX3lnZkdTczgxS2s4cW1FVGhtbExIREl6RFNYaHphY1BZNzUtWDg5RlhDVmd6cUtFdmlGVzBwQVZXeW04Y05QMFJpNGdLNjNjdkwxSWxEeV9PRjdGMnhRV093aW9pS1NBRFpIbGd3WlJjTzZR?oc=5",
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzB4dmRBVlpRMUpYZnJRX3lnZkdTczgxS2s4cW1FVGhtbExIREl6RFNYaHphY1BZNzUtWDg5RlhDVmd6cUtFdmlGVzBwQVZXeW04Y05QMFJpNGdLNjNjdkwxSWxEeV9PRjdGMnhRV093aW9pS1NBRFpIbGd3WlJjTzZR?oc=5",
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzB4dmRBVlpRMUpYZnJRX3lnZkdTczgxS2s4cW1FVGhtbExIREl6RFNYaHphY1BZNzUtWDg5RlhDVmd6cUtFdmlGVzBwQVZXeW04Y05QMFJpNGdLNjNjdkwxSWxEeV9PRjdGMnhRV093aW9pS1NBRFpIbGd3WlJjTzZR?oc=5"
+    ],
+    "why": "High search demand for GTA 6 Online launch info; news pillar with a click‑bait Tamil title drives CTR and watch time.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "மச்சான்ஸ், GTA 6-ல போலீஸ் AI வேற லெவல்யா! இவங்க பண்ணும் வேலையை பார்த்தீங்களா?",
-        "visual": "police chase vice city night",
-        "onscreen": "CRAZY POLICE AI",
+        "narration": "⚠️ ஸ்பாய்லர் எச்சரிக்கை! GTA 6 ஆன்லைன் வெளியீடு எப்போது? எல்லா விவரங்களும் இங்க! இந்த official data தான் நமக்கு கிடைக்கும்.",
+        "visual": "warning text",
+        "onscreen": "Hook!",
         "start": 0.0,
-        "end": 7.522
+        "end": 10.714
       },
       {
-        "narration": "Rockstar Games இந்த முறை ஓபன் வேர்ல்ட் ஃபிசிக்ஸை வேறொரு இடத்துக்கு கொண்டு போயிருக்காங்க.",
-        "visual": "leonida map overview",
-        "onscreen": "NEXT GEN PHYSICS",
-        "start": 7.522,
-        "end": 12.908
+        "narration": "Rockstar Games-ன் GTA 6 19 நவம்பர் 2026-ம் தேதி PlayStation 5, Xbox Series X|S-ல் ரிலீஸ் ஆகும். PC-ல் launch இல்லை.",
+        "visual": "release date console",
+        "onscreen": "Release 19Nov",
+        "start": 10.714,
+        "end": 21.668
       },
       {
-        "narration": "Jason மற்றும் Lucia வச்சு வைஸ் சிட்டி ரோடுல இறங்குனா போதும், போலீஸ் நம்மள சும்மா விடாது!",
-        "visual": "jason lucia street action",
-        "onscreen": "VICE CITY MADNESS",
-        "start": 12.908,
-        "end": 19.062
+        "narration": "இது Leonida மாநிலத்தில, பல நகரங்கள், அதில் பிரசித்தி பெற்ற Vice City-வும் உள்ளது. முக்கிய கதாபாத்திரங்கள் Jason-மற்றும் Lucia.",
+        "visual": "Leonida map Vice City",
+        "onscreen": "Leonida",
+        "start": 21.668,
+        "end": 30.51
       },
       {
-        "narration": "Leonida ஸ்டேட் முழுக்க போலீஸ் ரியாக்ஷன் நம்மள செமத்தியா டென்ஷன் ஆக்கும் போலயே.",
-        "visual": "police shootout gameplay",
-        "onscreen": "INTENSE ACTION",
-        "start": 19.062,
-        "end": 24.448
+        "narration": "Rockstar GTA 6 Online mode-னு announce பண்ணியுள்ளதுன், பெயர் GTA 6 Online, ஆனா அதிகாரப்பூர்வ launch date இன்னும் வரலாகல.",
+        "visual": "online mode announcement",
+        "onscreen": "Online announced",
+        "start": 30.51,
+        "end": 39.64
       },
       {
-        "narration": "PlayStation 5 மற்றும் Xbox Series X|S-ல இதெல்லாம் விளையாடும் போது வேற லெவல் வைப் கிடைக்கும்.",
-        "visual": "ps5 controller gaming setup",
-        "onscreen": "PS5 & XBOX",
-        "start": 24.448,
-        "end": 30.962
+        "narration": "என்ன தெரியுது? ஆன்லைன் மாட் வரும், ஆனா எது platform-ல், எப்போ, missions, map size, vehicles பற்றிய details இப்போ தெரியவில்லை.",
+        "visual": "online unknown details",
+        "onscreen": "Details unknown",
+        "start": 39.64,
+        "end": 49.202
       },
       {
-        "narration": "நவம்பர் 19, 2026-க்கு அப்புறம் இந்த போலீஸ் தொல்லையை சமாளிக்க நீங்க ரெடியா?",
-        "visual": "car crash explosion game",
-        "onscreen": "GET READY",
-        "start": 30.962,
-        "end": 37.836
+        "narration": "PC-ல் launch ஆகும்னு சில theory-கள் இருக்கு, Rockstar-ன் past pattern-ன் படி later update-ல் வரலாம், ஆனால் இது ஒரு theory தான்.",
+        "visual": "pc theory speculation",
+        "onscreen": "Theory",
+        "start": 49.202,
+        "end": 56.004
       },
       {
-        "narration": "இந்த கில்மாறான போலீஸ் AI-ஐ சமாளிக்க முடியுமான்னு பொறுத்திருந்து பார்ப்போம்.",
-        "visual": "lucia running from police",
-        "onscreen": "SURVIVE THE COPS",
-        "start": 37.836,
-        "end": 42.694
-      },
-      {
-        "narration": "மறக்காம சப்ஸ்கிரைப் பண்ணுங்க!",
-        "visual": "subscribe button animation",
-        "onscreen": "SUBSCRIBE",
-        "start": 42.694,
-        "end": 44.888
+        "narration": "மீண்டும் பார்க்கலாம், Subscribe பண்ணுங்க!",
+        "visual": "loop subscribe",
+        "onscreen": "Subscribe!",
+        "start": 56.004,
+        "end": 58.918
       }
     ],
-    "thumbnail_text": "GTA 6 POLICE AI",
-    "end_question": "GTA 6-ல போலீஸை எப்படி சமாளிக்க போறீங்க?",
-    "word_count": 79
+    "thumbnail_text": "GTA6 ONLINE UPDATE",
+    "end_question": "நீங்கள் GTA 6 Online-ல் எந்த city-யை first explore செய்ய விருப்பம்?",
+    "word_count": 106
   },
   "meta": {
-    "title": "GTA 6 Police AI வேற லெவல்யா! 😱 #Shorts",
-    "description": "GTA 6 போலீஸ் AI ஒபன் வேர்ல்ட் ஃபிசிக்ஸ் எப்படி இருக்குனு பாருங்க மச்சான்ஸ். Jason மற்றும் Lucia வைஸ் சிட்டி போலீஸ் தொல்லையை சமாளிக்க நீங்க ரெடியா?\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 GTA 6-ல போலீஸை எப்படி சமாளிக்க போறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 ஆன்லைன் வெளியீடு எப்போது? முழு தகவல் Tamil #Shorts",
+    "description": "⚠️ GTA 6 ஆன்லைன் வெளியீடு தேதி மற்றும் விவரங்கள் Tamil-ல்!\nOfficial data reveals 19 நவம்பர் 2026 ரிலீஸ், ஆன்லைன் மோட் விவரங்கள் இன்னும் ரகசியம்!\nRockstar Games-ன் GTA 6 19 நவம்பர் 2026-ம் தேதி PS5, Xbox Series X|S-ல் ரிலீஸ், PC-ல் launch இல்லை.\nவிளையாட்டில் Leonida மாநிலம், பல நகரங்கள், பிரசித்தி பெற்ற Vice City உட்பட இருக்கும்.\nமுக்கிய கதாபாத்திரங்கள் Jason மற்றும் Lucia; GTA 6 Online அறிவிக்கப்பட்டது, ஆனால் launch date, platform, missions, map size, vehicles பற்றிய தகவல் இன்னும் கிடைக்கவில்லை.\nPC-ல் launch ஆகும் என்ற theories உள்ளன, ஆனால் அது future update-ல் மட்டுமே இருக்கலாம்.\nமீண்டும் பார்க்க, Subscribe பண்ணுங்க!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்கள் GTA 6 Online-ல் எந்த city-யை first explore செய்ய விருப்பம்?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "gta 6 tamil",
-      "gta 6 police ai",
-      "gta 6 gameplay tamil",
-      "gta 6 trailer tamil",
-      "gta 6 shorts tamil",
-      "gta 6 leaks tamil",
-      "gta 6 update tamil",
-      "gta vi tamil",
-      "gta 6 ps5 tamil",
-      "rockstar games tamil",
-      "vice city tamil",
-      "leonida state tamil",
-      "gta tamil gaming",
-      "gta 6 reaction tamil",
       "GTA 6",
+      "GTA6 Tamil",
+      "GTA 6 Tamil",
+      "GTA6 Online",
+      "GTA 6 release date",
+      "GTA 6 online release",
+      "GTA 6 Tamil news",
+      "GTA 6 Tamil update",
+      "GTA 6 online Tamil",
+      "Rockstar Games",
+      "GTA 6 PlayStation 5",
+      "GTA 6 Xbox Series X",
+      "GTA 6 Vice City",
+      "GTA 6 Jason",
+      "GTA 6 Lucia",
+      "GTA 6 Tamil gameplay",
+      "GTA 6 Tamil spoilers",
+      "GTA 6 Tamil tips",
+      "GTA 6 Tamil guide",
+      "GTA 6 Tamil 2026",
+      "GTA 6 Tamil release",
+      "GTA 6 Tamil rumors",
       "GTA VI",
       "Tamil Gaming"
     ]
