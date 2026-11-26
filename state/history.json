@@ -347,6 +347,18 @@
       "duration": 44.9,
       "published_at": "2026-11-26T16:53:35.957888+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261126-235610-short",
+      "video_id": null,
+      "title": "GTA 6 Secret Parrot Trick in Tamil #Shorts",
+      "format": "short",
+      "pillar": "secrets",
+      "topic": "Talking parrot secret money stash",
+      "hook": "ஹலோ மக்களே! GTA 6-ல வரப்போற ஒரு மிரட்டலான secret பத்தி தான் இன்னைக்கு பார்க்க போறோம். Spoiler warning முன்கூட்டியே சொல்ல",
+      "duration": 65.0,
+      "published_at": "2026-11-26T23:59:46.011293+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -404,7 +416,9 @@
     "73fa00efd834",
     "fc57fbe39244",
     "73fa00efd834",
-    "0779b31ae9c9"
+    "0779b31ae9c9",
+    "2a7cb048a303",
+    "51d758f83425"
   ],
   "breaking_days": {
     "2026-11-18": 1,

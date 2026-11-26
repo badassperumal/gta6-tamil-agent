@@ -1,102 +1,102 @@
 {
   "plan": {
-    "pillar": "news",
-    "topic": "GTA 6 first patch details",
-    "story_key": "73fa00efd834",
-    "angle": "Discussing the first GTA 6 patch that is now live, addressing fixes based on player feedback in Tamil.",
-    "working_title": "GTA 6 First Update வந்தாச்சு! என்னென்ன Fixes? Tamil #Shorts",
-    "hook_line": "GTA 6-க்கு வந்த முதல் Patch-ல என்னென்ன Fix பண்ணிருக்காங்கனு தெரியுமா?",
+    "pillar": "secrets",
+    "topic": "Talking parrot secret money stash",
+    "story_key": "2a7cb048a303",
+    "angle": "Highlighting the wild easter egg in GTA 6 where players follow a talking parrot to locate a hidden stash of money in Leonida.",
+    "working_title": "GTA 6-ல் பேசும் கிளி Secret Money Easter Egg! 🦜💰 #Shorts",
+    "hook_line": "GTA 6-ல ஒரு பேசும் கிளியை Follow பண்ணினா Secret Cash எடுக்க முடியும்னு தெரியுமா?",
     "footage_tags": [
-      "GTA 6 gameplay",
-      "Patch notes",
-      "Vice City",
-      "Jason and Lucia"
+      "gta 6 talking parrot",
+      "gta 6 hidden money stash",
+      "gta 6 secret location",
+      "vice city gameplay"
     ],
     "facts": [
-      "The first 'GTA 6' patch is live with 7 fixes addressing fan complaints."
+      "GTA 6 features a talking parrot that players can use to find a hidden stash of money."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTJtYkYtczdkLUlZRXBpUjNobEJHTUVKek9yQ3JRNDNTYzM3blpFbmlqckU1T29mcWhUVFFjUFU1VWtEbTVXOTR4OThnUHc0SHJEVEx0VkRnYVFSWjJPX2ZhdHlIc3QycDFrS21sRE5QbTBZbUxudWctbFd2TkNMc1k2cXF1bHhvYnc?oc=5"
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IanhESkJPU2JUZ2FVeV9oaDU4M0pWWXRkZXlWSTVnYWdPcV9FczhoXzcyU3J0dnZEMHNCSzNicHZ5SUk0ODhRbVNUWlNDNGw1QkVPOUxLUVYtUVo4M0w3b1FLS3k5LXlaTmNfbXJoR0VVU1lYamc?oc=5"
     ],
-    "why": "Covers the breaking news about the first official GTA 6 patch in Tamil, aligning with the current news pillar without repeating recent specific titles.",
+    "why": "Bizarre and funny secret easter eggs like a talking parrot leading to hidden cash trigger immediate curiosity and high completion rates in Tamil gaming Shorts.",
     "format": "short",
-    "breaking": true
+    "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "GTA 6-க்கு வந்த முதல் Patch-ல என்னென்ன Fix பண்ணிருக்காங்கனு தெரியுமா? செம breaking news அண்ணா!",
-        "visual": "gta 6 vice city neon lights",
-        "onscreen": "First Patch Live!",
+        "narration": "ஹலோ மக்களே! GTA 6-ல வரப்போற ஒரு மிரட்டலான secret பத்தி தான் இன்னைக்கு பார்க்க போறோம். Spoiler warning முன்கூட்டியே சொல்லிட்டேன், மிஸ் பண்ணிடாதீங்க!",
+        "visual": "vice city neon map overview",
+        "onscreen": "Secret Easter Egg",
         "start": 0.0,
-        "end": 7.402
+        "end": 12.058
       },
       {
-        "narration": "Rockstar Games ரிலீஸ் பண்ணியிருக்கிற இந்த முதல் update-ல மொத்தம் ஏழு முக்கியமான issues-ஐ fix பண்ணியிருக்காங்க.",
-        "visual": "rockstar games logo animation",
-        "onscreen": "7 Major Fixes",
-        "start": 7.402,
-        "end": 13.532
+        "narration": "Rockstar Games நம்ம Leonida மேப்ல செம ஒளிய வச்சிருக்காங்க. அதுல ஒரு ஜோலியான விஷயம் என்னன்னா, ஒரு பேசும் கிளி!",
+        "visual": "leonida swamp jungle parrot",
+        "onscreen": "Talking Parrot!",
+        "start": 12.058,
+        "end": 20.108
       },
       {
-        "narration": "ஸ்மூத் gameplay கொடுக்கணும்னு player-களோட feedback-ஐ வச்சு இந்த patches-ஐ செம ஒர்க்கப் பண்ணி இறக்கியிருக்காங்க.",
-        "visual": "jason lucia gameplay footage",
-        "onscreen": "Player Feedback",
-        "start": 13.532,
-        "end": 19.398
+        "narration": "இந்த talking parrot-ஐ நம்ம open world-ல கரெக்டா track பண்ணி follow பண்ணனும். அது சும்மா பறக்காது மக்களே, ஒரு மெசேஜ் சொல்லும்.",
+        "visual": "jungle exploration gameplay search",
+        "onscreen": "Follow The Bird",
+        "start": 20.108,
+        "end": 28.35
       },
       {
-        "narration": "Leonida map-ல சில இடங்கள்ல இருந்த சின்ன சின்ன glitches-யும் இந்த updateல கம்ப்ளீட்டா அடிச்சு தூக்கியிருக்காங்க.",
-        "visual": "leonida map overview",
-        "onscreen": "Glitch Fixes",
-        "start": 19.398,
-        "end": 25.384
+        "narration": "கிளி போற வழியிலேயே நம்ம Jason மற்றும் Lucia வச்சு கரெக்டா போனா, ஒரு பெரிய secret money stash-ஐ கண்டுபிடிக்கலாம்.",
+        "visual": "jason and lucia jungle walk",
+        "onscreen": "Hidden Stash",
+        "start": 28.35,
+        "end": 35.824
       },
       {
-        "narration": "Jason மற்றும் Lucia மிஷன்ஸ் பண்ணும்போது ஃபிரேம் டிராப் ஆகாம இருக்கதுக்கு இதோ இந்த அப்டேட் செம ஹெல்ப்ஃபுல்லா இருக்கும்.",
-        "visual": "lucia driving car fast",
-        "onscreen": "Better FPS",
-        "start": 25.384,
-        "end": 32.906
+        "narration": "இது ஒரு செம cool ஆன easter egg ah இருக்க போகுது. ஏன்னா இந்த cash வச்சு ஆரம்பத்திலேயே நம்ம car-ஐ upgrade பண்ணிக்கலாம்.",
+        "visual": "money cash loot bag open",
+        "onscreen": "Free Cash!",
+        "start": 35.824,
+        "end": 44.522
       },
       {
-        "narration": "நீங்களும் உங்க console-ல இந்த patch-ஐ download பண்ணிட்டீங்களா நண்பா? லோடு பண்ணி செக் பண்ணுங்க.",
-        "visual": "playstation 5 controller hands",
-        "onscreen": "Check Update",
-        "start": 32.906,
-        "end": 39.228
+        "narration": "இந்த mission ரொம்ப சுவாரஸ்யமா இருக்க போகுதுன்னு leaks சொல்லுது. ஆனால் நவம்பர் 19, 2026-ல PS5 மற்றும் Xbox Series X|S-ல தான் இது ரிலீஸ் ஆகுது.",
+        "visual": "ps5 xbox controller gaming",
+        "onscreen": "Nov 19, 2026",
+        "start": 44.522,
+        "end": 57.324
       },
       {
-        "narration": "இந்த fix-லாம் எப்படி இருக்குனு கமெண்ட்ல சொல்லுங்க, அப்படியே மறக்காம Subscribe பண்ணுங்க.",
-        "visual": "gta 6 characters looking at camera",
+        "narration": "PC-க்கு இப்போதைக்கு update இல்லை நண்பா. இந்த கிளி trick-ஐ உங்க friend-கிட்ட சொல்லுங்க, அப்படியே Subscribe பண்ணுங்க!",
+        "visual": "subscribe button animation youtube",
         "onscreen": "Subscribe பண்ணுங்க",
-        "start": 39.228,
-        "end": 44.878
+        "start": 57.324,
+        "end": 65.014
       }
     ],
-    "thumbnail_text": "FIRST PATCH LIVE",
-    "end_question": "உங்களுக்கு இந்த patch எந்த அளவுக்கு useful-ஆ இருக்கு?",
-    "word_count": 88
+    "thumbnail_text": "GTA 6 SECRET PARROT",
+    "end_question": "இந்த கிளி secret பத்தி நீங்க என்ன நினைக்கிறீங்க?",
+    "word_count": 123
   },
   "meta": {
-    "title": "GTA 6 First Patch Update Details in Tamil #Shorts",
-    "description": "GTA 6-ன் முதல் patch update பத்தி தெரிஞ்சுக்கணுமா? ராக்ஸ்டார் கேம்ஸ் ரிலீஸ் பண்ணியிருக்கிற இந்த அப்டேட்ல மொத்தம் ஏழு முக்கியமான issues-ஐ fix பண்ணியிருக்காங்க.\n\nஇந்த ஷார்ட்ஸில் Leonida map glitches மற்றும் Jason, Lucia மிஷன்ஸ் பத்தி என்ன சொல்லி இருக்காங்கன்னு பாருங்க.\n\n#GTA6 #GTA6Tamil #TamilGaming\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு இந்த patch எந்த அளவுக்கு useful-ஆ இருக்கு?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Secret Parrot Trick in Tamil #Shorts",
+    "description": "GTA 6-ல வரப்போற மிரட்டலான secret பத்தி இந்த வீடியோல பாக்க போறோம்.\nRockstar Games வச்சிருக்க இந்த talking parrot secret பத்தி தெரிஞ்சிக்கோங்க.\nஇந்த வீடியோவுல லியோனிடா மேப்ல இருக்கும் பேசும் கிளி மற்றும் ரகசிய பணம் பத்தி லீக்ஸ் தகவல்களை தமிழ்ல சொல்லியிருக்கோம். நவம்பர் 19, 2026 ரிலீஸ் பத்தின விவரங்களையும் பாருங்க. மறக்காம சப்ஸ்கிரைப் பண்ணுங்க!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த கிளி secret பத்தி நீங்க என்ன நினைக்கிறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 patch update tamil",
-      "gta 6 news tamil",
-      "gta 6 updates tamil",
-      "rockstar games tamil",
-      "gta 6 shorts tamil",
-      "gta 6 leaks tamil",
-      "tamil gaming",
+      "gta 6 secrets tamil",
       "gta 6 gameplay tamil",
-      "gta 6 new update",
-      "gta 6 patch notes",
-      "gta vi tamil",
+      "gta 6 map tamil",
+      "gta 6 easter eggs tamil",
+      "gta 6 leaks tamil",
+      "gta 6 money tamil",
+      "gta 6 ps5 tamil",
+      "gta 6 news tamil",
+      "gta 6 trailer tamil",
       "gta 6 jason lucia",
-      "gta 6 bugs fixed",
-      "gta 6 tamil gaming",
+      "gta 6 leonida tamil",
+      "tamil gaming",
+      "gta tamil",
+      "gta 6 shorts",
       "GTA 6",
       "GTA VI"
     ]
