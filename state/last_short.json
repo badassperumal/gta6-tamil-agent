@@ -1,104 +1,106 @@
 {
   "plan": {
-    "pillar": "story",
-    "topic": "Jason and Lucia story details and Leonida setting",
-    "story_key": null,
-    "angle": "Exploring the Bonnie and Clyde style relationship of Jason and Lucia in Leonida",
-    "working_title": "GTA 6-ல் Jason மற்றும் Lucia காதல் கதை! 💔 #Shorts",
-    "hook_line": "GTA 6-ல Jason-க்கும் Lucia-வுக்கும் நடுவுல என்னதான் நடக்குது தெரியுமா?",
+    "pillar": "comparison",
+    "topic": "GTA 6 first patch fixes vs fan complaints comparison",
+    "story_key": "73fa00efd834",
+    "angle": "Compare what players complained about on launch week versus the 7 fixes included in the first patch",
+    "working_title": "GTA 6 First Patch Update! என்னென்ன Fix பண்ணிருக்காங்க? 🛠️ #Shorts",
+    "hook_line": "GTA 6 வந்ததும் என்னென்ன ப்ராப்ளம் வந்துச்சு... Rockstar என்ன Fix பண்ணிருக்காங்கன்னு பாக்கலாமா?",
     "footage_tags": [
-      "GTA 6",
-      "Jason and Lucia",
-      "Vice City",
-      "Leonida",
-      "Cutscene"
+      "gta 6 gameplay",
+      "playstation 5",
+      "patch update",
+      "vice city"
     ],
     "facts": [
-      "GTA 6 is set in the state of Leonida, which includes Vice City.",
-      "The two main characters are Jason and Lucia."
+      "The first 'GTA 6' patch is live with 7 fixes addressing fan complaints.",
+      "GTA 6 is released on PlayStation 5 and Xbox Series X|S on 19 November 2026."
     ],
-    "sources": [],
-    "why": "Focuses on the main characters Jason and Lucia in Tamil with strong viewer engagement potential, avoiding repetitive titles and respecting the story pillar.",
+    "sources": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTJtYkYtczdkLUlZRXBpUjNobEJHTUVKek9yQ3JRNDNTYzM3blpFbmlqckU1T29mcWhUVFFjUFU1VWtEbTVXOTR4OThnUHc0SHJEVEx0VkRnYVFSWjJPX2ZhdHlIc3QycDFrS21sRE5QbTBZbUxudWctbFd2TkNMc1k2cXF1bHhvYnc?oc=5"
+    ],
+    "why": "Addresses the hot topic of the very first game patch addressing early player feedback on PS5/Xbox Series X|S, distinct from recent video titles.",
     "format": "short",
     "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "ஹலோ மக்களே! GTA 6 ஸ்டோரி பத்தி ஒரு முக்கியமான spoiler warning. வீடியோவை ஃபுல்லா பாருங்க.",
-        "visual": "spoiler warning red screen",
-        "onscreen": "Spoiler Alert",
+        "narration": "டேய் மக்களே! GTA 6 ரிலீஸ் ஆகி இப்போதான் ஒரு வாரம் ஆகுது, அதுக்குள்ள லான்ச் வீக்ல வந்த பக்ஸ்லாம் என்னென்ன தெரியுமா?",
+        "visual": "vice city chaos launch week",
+        "onscreen": "GTA 6 Launch Chaos!",
         "start": 0.0,
-        "end": 8.266
+        "end": 9.178
       },
       {
-        "narration": "GTA 6-ல Jason-க்கும் Lucia-வுக்கும் நடுவுல என்னதான் நடக்குது தெரியுமா?",
-        "visual": "Jason and Lucia cinematic",
-        "onscreen": "Jason & Lucia",
-        "start": 8.266,
-        "end": 13.124
+        "narration": "Jason மற்றும் Lucia வச்சு விளையாடும்போது பிளேயர்ஸ் ரொம்ப கம்ப்ளைன்ட் பண்ண மெயின் இஸ்யூஸ் என்னன்னா, சில மிஷன்ஸ்ல கிராஷ் ஆன ப்ராப்ளம் தான்.",
+        "visual": "jason and lucia gameplay",
+        "onscreen": "Game Crashes",
+        "start": 9.178,
+        "end": 18.284
       },
       {
-        "narration": "Rockstar Games இந்த முறை செம மாசான ஒரு Bonnie and Clyde ஸ்டைல் காதல் கதையை தான் களம் இறக்க போறாங்க.",
-        "visual": "Bonnie and Clyde style couple car",
-        "onscreen": "Crime Couple",
-        "start": 13.124,
-        "end": 20.094
+        "narration": "அதுமட்டுமில்லாம Leonida மேப்ல கார் டிரைவிங்ல சில லேக் வேற வந்துச்சுனு நம்ம gamers கடுப்பாகிட்டாங்க.",
+        "visual": "leonida map car drive",
+        "onscreen": "Driving Lag",
+        "start": 18.284,
+        "end": 25.014
       },
       {
-        "narration": "இந்த மொத்த கதையும் லியோனிடா (Leonida) மாநிலத்துல இருக்குற வைஸ் சிட்டி (Vice City) பின்னணியை வச்சுர்தான் நகருது.",
-        "visual": "Vice City neon map overview",
-        "onscreen": "Leonida & Vice City",
-        "start": 20.094,
-        "end": 28.936
+        "narration": "இதையெல்லாம் பார்த்த உடனே Rockstar செம ஸ்பீடா இறங்கி, ஃபர்ஸ்ட் பேட்ச் update-ஐ இப்போ ரிலீஸ் பண்ணிருக்காங்க.",
+        "visual": "rockstar games logo update",
+        "onscreen": "First Patch Live!",
+        "start": 25.014,
+        "end": 31.576
       },
       {
-        "narration": "ஜேசனும் லூசியாவும் சேர்ந்து எப்படி இந்த பெரிய உலகத்துல சர்வைவ் ஆகுறாங்கன்றதுதான் இந்த மிஷனோட மெயின் ஹைலைட்.",
-        "visual": "Jason Lucia shootout mission",
-        "onscreen": "Survival Mission",
-        "start": 28.936,
-        "end": 36.698
+        "narration": "இந்த ஃபர்ஸ்ட் patchல மொத்தம் 7 முக்கியமான fixes பண்ணிருக்காங்க, அதுல நம்ம கம்ப்ளைன்ட் பண்ண பக்ஸ் எல்லாமே கிளியர்!",
+        "visual": "patch notes screen fix",
+        "onscreen": "7 Major Fixes",
+        "start": 31.576,
+        "end": 38.762
       },
       {
-        "narration": "இந்த கேம் ரிலீஸ் ஆனதுக்கு அப்புறம் நீங்க ஃபர்ஸ்ட் எந்த கேரக்டரை கண்ட்ரோல் பண்ணுவீங்க?",
-        "visual": "GTA 6 characters walking",
-        "onscreen": "Who's your pick?",
-        "start": 36.698,
-        "end": 42.252
+        "narration": "இப்போ பிளேஸ்டேஷன் 5 மற்றும் எக்ஸ்பாக்ஸ் சீரிஸ் Xல கேம் செம ஸ்மூத்தா ஓடுது, நீங்க செக் பண்ணி பார்த்தீங்களா?",
+        "visual": "ps5 xbox series x controller",
+        "onscreen": "Super Smooth",
+        "start": 38.762,
+        "end": 45.828
       },
       {
-        "narration": "மறக்காம Subscribe பண்ணுங்க.",
-        "visual": "subscribe button animation",
-        "onscreen": "Subscribe Now",
-        "start": 42.252,
-        "end": 44.542
+        "narration": "இந்த update உங்களோட மிஷன்ஸை இன்னும் ஸ்மூத்தா மாத்திருக்கு, மறக்காம Subscribe பண்ணுங்க.",
+        "visual": "subscribe button animation tamil",
+        "onscreen": "Subscribe பண்ணுங்க",
+        "start": 45.828,
+        "end": 51.694
       }
     ],
-    "thumbnail_text": "JASON & LUCIA STORY",
-    "end_question": "நீங்க Jason-ஐ பிடிக்குமா இல்ல Lucia-வா?",
-    "word_count": 79
+    "thumbnail_text": "GTA 6 FIRST PATCH",
+    "end_question": "உங்களுக்கு எந்த bug செம கடுப்பு ஏத்துச்சு?",
+    "word_count": 100
   },
   "meta": {
-    "title": "GTA 6 Jason & Lucia Story Explained in Tamil #Shorts",
-    "description": "GTA 6 ஸ்டோரி என்ன தெரியுமா? ஜேசன் மற்றும் லூசியாவின் மாஸான காதல் கதை மற்றும் வைஸ் சிட்டி பின்னணி பற்றி இந்த ஷார்ட்ஸில் பார்க்கலாம்.\n\nRockstar Games உருவாக்கியுள்ள லியோனிடா மாநில வைஸ் சிட்டி பின்னணியில், Jason மற்றும் Lucia எப்படி சர்வைவ் ஆகிறார்கள் என்ற முக்கிய கதை குறிப்புகளை இந்த வீடியோவில் தமிழில் விளக்கியுள்ளோம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க Jason-ஐ பிடிக்குமா இல்ல Lucia-வா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 First Update வந்தாச்சு! என்னென்ன Fixes? #Shorts",
+    "description": "GTA 6 ரிலீஸ் ஆன ஃபர்ஸ்ட் வீக்ல வந்த பக்ஸ் மற்றும் லேக் ப்ராப்ளம்ஸ்க்கு ராக்ஸ்டார் இப்போ ஃபர்ஸ்ட் பேட்ச் அப்டேட் ரிலீஸ் பண்ணிருக்காங்க.\n\nஇந்த ஃபர்ஸ்ட் பேட்ச் அப்டேட்ல மிஷன் கிராஷ் இஸ்யூ மற்றும் கார் டிரைவிங் லேக் போன்ற முக்கியமான பக்ஸ்லாம் கிளியர் பண்ணி, இப்போ PS5 மற்றும் Xbox Series X-ல கேம் செம ஸ்மூத்தா ஓடுதுனு சொல்லிருக்காங்க. இந்த அப்டேட் பத்தி ஃபுல்லா பாக்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு எந்த bug செம கடுப்பு ஏத்துச்சு?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
-      "GTA 6 Tamil",
-      "GTA 6 Story Tamil",
-      "GTA 6 Jason Lucia",
-      "GTA 6 Vice City Tamil",
-      "GTA 6 Tamil Gameplay",
-      "GTA 6 Tamil News",
-      "GTA 6 Tamil Explainer",
-      "GTA 6 Leaks Tamil",
-      "Tamil Gaming",
-      "GTA 6 Tamil Shorts",
-      "GTA 6 Story Leaks",
-      "Rockstar Games Tamil",
-      "GTA 6 Updates Tamil",
-      "GTA 6 Tamil Channel",
-      "GTA 6 Plot Tamil",
+      "gta 6 tamil",
+      "gta 6 first update tamil",
+      "gta 6 patch notes tamil",
+      "gta 6 bugs tamil",
+      "gta 6 gameplay tamil",
+      "gta 6 ps5 tamil",
+      "gta 6 update tamil",
+      "gta 6 news tamil",
+      "gta 6 rockstar update",
+      "gta 6 tamil gaming",
+      "gta 6 shorts tamil",
+      "gta 6 leaks tamil",
+      "gta 6 jason lucia",
+      "gta 6 leonida map",
+      "gta 6 tamil channel",
       "GTA 6",
-      "GTA VI"
+      "GTA VI",
+      "Tamil Gaming"
     ]
   }
 }

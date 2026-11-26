@@ -323,6 +323,18 @@
       "duration": 44.5,
       "published_at": "2026-11-25T23:47:34.726038+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261126-153912-short",
+      "video_id": null,
+      "title": "GTA 6 First Update வந்தாச்சு! என்னென்ன Fixes? #Shorts",
+      "format": "short",
+      "pillar": "comparison",
+      "topic": "GTA 6 first patch fixes vs fan complaints comparison",
+      "hook": "டேய் மக்களே! GTA 6 ரிலீஸ் ஆகி இப்போதான் ஒரு வாரம் ஆகுது, அதுக்குள்ள லான்ச் வீக்ல வந்த பக்ஸ்லாம் என்னென்ன தெரியுமா?",
+      "duration": 51.7,
+      "published_at": "2026-11-26T15:41:38.824063+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -376,7 +388,9 @@
     "b1ef75edc08a",
     "9ead92d899e2",
     "4ebed54bce35",
-    "ead87a566064"
+    "ead87a566064",
+    "73fa00efd834",
+    "fc57fbe39244"
   ],
   "breaking_days": {
     "2026-11-18": 1,
