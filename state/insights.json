@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T09:04:22.313876+00:00",
+  "updated": "2026-11-27T09:22:04.569554+00:00",
   "pillar_weights": {
     "news": 3,
     "tips": 3,
@@ -9,18 +9,17 @@
     "reaction": 1
   },
   "notes": [
-    "Shorts format leveraging relatable humor (e.g.,watermelon pricing) drives high CTR and viral reach.",
-    "Easter eggs, secret portals (like Tommy Vercetti), and myths (aliens, ghosts) heavily outperform standard gameplay.",
-    "High-stakes challenges (surviving 6-star wanted level, military base infiltration) capture retention.",
-    "Episodic series (Episode 5-9) work well for long-form retention among dedicated subscribers.",
-    "Community drama and controversies (fake copyright strikes, bans) are effective click magnets in Tamil gaming.",
-    "Mixing Tamil slang with English gaming terms in titles boosts local CTR."
+    "High CTR driven by clickbait financial/meme comparisons (e.g., watermelon price, 3.5 crore rupees) in Shorts.",
+    "Episodic long-form lets-plays (Manguni Gamer, Tamil Gaming) command high retention via serialised Vice City exploration.",
+    "Easter egg, myth-hunting, and mod content (Python snakes, Red Hulk, 1980s portals) outperform standard gameplay.",
+    "Live streaming with high-stakes tags (24 hrs, 18+, controversial names) maximizes concurrent viewership.",
+    "Reddit recaps and localized pop-culture crossover (Thala references) successfully bridge community engagement."
   ],
   "title_patterns": [
-    "காமெடி/மீம் ஒப்பிடுதல் + GTA 6 + #shorts",
-    "Secret/Easter Egg கண்டுபிடிப்பது எப்படி? 🔥 + Tamil",
-    "CAN I SURVIVE [Extreme Challenge] in GTA 6?",
-    "Military Base / Expensive Car Stealing + 😭🔥"
+    "தர்பூசணி விலைக்கு GTA 6 வாங்குன மகா புத்திசாலி! 💀🎮🍉 | Funny Tamil Dub #shorts",
+    "Python🐍💀Spotted in GTA 6 Tamil ! #tamilgaming",
+    "GTA 6 😱 - விளையாடி ₹3.5 கோடி யா!? 🤯🤡 || #shorts ||",
+    "GTA 6 - Secret Portal to 1980s Vice City (Tommy Vercetti Easter Egg)"
   ],
   "competitors": [
     {
@@ -29,34 +28,9 @@
       "id": "6DDhrsLRrVY"
     },
     {
-      "title": "GTA 6 Has a CRAZY Random Event! 😱",
-      "channel": "Tamil Ultimate Gaming",
-      "id": "lcGqPnsO8vU"
-    },
-    {
-      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 07 | Manguni Gamer",
+      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 10 | Manguni Gamer",
       "channel": "Manguni Gamer",
-      "id": "DrmP7PC3USA"
-    },
-    {
-      "title": "GTA 6 Part 6 Free Roam + Tommy Vercetti Portal Live Tamil Gaming",
-      "channel": "Tamil Gaming தமிழ் கேமிங்",
-      "id": "yqV2V7yOyYY"
-    },
-    {
-      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 09 | Manguni Gamer",
-      "channel": "Manguni Gamer",
-      "id": "ZA0rbk_1yOQ"
-    },
-    {
-      "title": "GTA 6 Part 7 Free Roam + Story Live Tamil Gaming",
-      "channel": "Tamil Gaming தமிழ் கேமிங்",
-      "id": "QPVg3G7Rnos"
-    },
-    {
-      "title": "I Was NOT Ready for This Military Base in GTA 6!",
-      "channel": "Sharp Tamil Gaming",
-      "id": "uKHy5TAPhGA"
+      "id": "BpsKJqNjHSQ"
     },
     {
       "title": "Stealing the Most Expensive Car in GTA 6!",
@@ -64,9 +38,24 @@
       "id": "qLl0dX_iFj8"
     },
     {
-      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 08 | Manguni Gamer",
+      "title": "Invading the Airport in GTA 6 Free Roam!",
+      "channel": "Typical Gamer",
+      "id": "_BB1d3y6NNU"
+    },
+    {
+      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 09 | Manguni Gamer",
       "channel": "Manguni Gamer",
-      "id": "p1vVSWstvjk"
+      "id": "ZA0rbk_1yOQ"
+    },
+    {
+      "title": "THALA x THALA &amp; GTA 6 HATE ❗ - Reddit Recap",
+      "channel": "JK",
+      "id": "K3gBuVs1gVY"
+    },
+    {
+      "title": "GTA 6 Part 7 Free Roam + Story Live Tamil Gaming",
+      "channel": "Tamil Gaming தமிழ் கேமிங்",
+      "id": "QPVg3G7Rnos"
     },
     {
       "title": "GTA 6 Part 8 Free Roam + Story Live Tamil Gaming",
@@ -74,24 +63,14 @@
       "id": "u5_ycH_Kues"
     },
     {
-      "title": "Tommy Vercetti is Back! 🤯 GTA 6 Secret Portal-ஐ திறப்பது எப்படி? 🔥🌀 Tamil Gaming",
+      "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 08 | Manguni Gamer",
+      "channel": "Manguni Gamer",
+      "id": "p1vVSWstvjk"
+    },
+    {
+      "title": "GTA 6 Part 9 Free Roam + Story Live Tamil Gaming",
       "channel": "Tamil Gaming தமிழ் கேமிங்",
-      "id": "C7Ya1w56g_Y"
-    },
-    {
-      "title": "Tiger ah yengada vechurukinga😭🐅GTA 6 Tamil ! #tamilgaming #gta6 #gta6tamil",
-      "channel": "Soorya Gaming தமிழ்",
-      "id": "J3bEy6QPwpM"
-    },
-    {
-      "title": "GTA 6 Live Banned 😨 GTA 6 Fake Copyright Strike 🤡 #mrkk #gta6",
-      "channel": "Mr. KK - GNS",
-      "id": "YqrWWlbKwG0"
-    },
-    {
-      "title": "GTA 6 Hunting Psycho Killer who almost killed Jason",
-      "channel": "MokkaCommentry 2",
-      "id": "duQg2le9B_M"
+      "id": "e00y4KqmZZ8"
     },
     {
       "title": "Finally Entered Military base But😭!!GTA 6 #gta6 #tamilgameplay #tamil #gaming",
@@ -99,9 +78,14 @@
       "id": "p3uix0juRug"
     },
     {
-      "title": "GTA 6 FULL STORY MODE ! 🔥 DAY 2 – Tamil Gameplay (2K 60FPS)",
-      "channel": "AJGamestation",
-      "id": "-oTbfeD4XmE"
+      "title": "GTA 6 LIVE STREAM EPISODE - 2 |  24 Hrs live stream 18+ #madan #madanop #gta6",
+      "channel": "M A D A N",
+      "id": "b7F78hJAhdc"
+    },
+    {
+      "title": "Python🐍💀Spotted in GTA 6 Tamil ! #tamilgaming #gta6 #gta6tamil",
+      "channel": "Soorya Gaming தமிழ்",
+      "id": "yp9u-Ee2evQ"
     },
     {
       "title": "GTA 6 Ghost Possession on Lucia",
@@ -114,14 +98,29 @@
       "id": "xjeaZCyV8yw"
     },
     {
-      "title": "Did You Know in GTA 6? Epi-05 #shorts #gta6",
-      "channel": "Wulfric Gamer - தமிழ்",
-      "id": "7C2MoUmstUo"
+      "title": "GTA 6 - Secret Portal to 1980s Vice City (Tommy Vercetti Easter Egg) 😱 #gta6",
+      "channel": "Mr. KK - GNS",
+      "id": "q_0CvJE0zEM"
     },
     {
-      "title": "Gta6 alien 👽 Easter eggs tamil 😮#gta #gta #shorts",
-      "channel": "suren gamer tamil",
-      "id": "8jB0Gk4s1Fo"
+      "title": "💥 Game முக்காக நடந்த போர் 😮 GTA Evolution | iR Tamil 2.0",
+      "channel": "iR Tamil 2.0",
+      "id": "ntKcT-dYe9U"
+    },
+    {
+      "title": "🔥💥GTA 6 LIVE !!  MISSION COMPLETE 4K GAMEPLAY TAMIL!!",
+      "channel": "Gaming Tamizhan",
+      "id": "gd971Izqz4c"
+    },
+    {
+      "title": "Red Hulk😦🔥Encounter in GTA 6 Tamil ! #tamilgaming #gta6 #gta6tamil",
+      "channel": "Soorya Gaming தமிழ்",
+      "id": "xLt-ooyDhEE"
+    },
+    {
+      "title": "GTA 6 😱 - விளையாடி ₹3.5 கோடி யா!? 🤯🤡 || #shorts ||",
+      "channel": "Aswin Vibes",
+      "id": "WKbVPq_vp2I"
     }
   ]
 }
