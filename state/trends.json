@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:18:42.140161+00:00",
+  "updated": "2026-11-27T21:19:31.354594+00:00",
   "stories": [
     {
       "key": "059e5ca1d7b9",
@@ -370,7 +370,7 @@
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3dKeF9hajJ0LURTb3ZReWY2dlNqM1ktZk9LWmdTeDIwT0FOUS1WSDgzYzNZYjlKVEpIRTJTNFJLRWYzOHZDdi15MTBxMnVkZC1tcWRob2pGbzlhNGcwcWRuejdZNElnVjEwQ1dqRkxfZ2NCQjNIWE10OWpOWWlDeHZR?oc=5",
           "source": "google_news",
           "summary": " Can your PC run GTA VI? Minimum requirements and release date estimates &nbsp;&nbsp; ZDNET ",
-          "published": "2026-11-27T20:16:59+00:00",
+          "published": "2026-11-27T19:26:02+00:00",
           "pop": 1
         }
       ],
@@ -666,22 +666,6 @@
       "covered": false
     },
     {
-      "key": "66b7e445a3eb",
-      "title": "Fake GTA 6 on PC - Watch out for this deadly command - Korben",
-      "items": [
-        {
-          "title": "Fake GTA 6 on PC - Watch out for this deadly command - Korben",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nS0psZUZwa3hZUThEbWRUZTJSbnJIWTV0LU81cGJHNDhpbmY4UWlRanFXS0VIb3lIVEdwY29yUDJXblNsb18xaG5MaGl3OW1wNzZBUHc4OGVuUXlLUXRyVmFsdmNzWFE?oc=5",
-          "source": "google_news",
-          "summary": " Fake GTA 6 on PC - Watch out for this deadly command &nbsp;&nbsp; Korben ",
-          "published": "2026-11-27T12:31:07+00:00",
-          "pop": 1
-        }
-      ],
-      "score": 2.1,
-      "covered": false
-    },
-    {
       "key": "419b14aae166",
       "title": "Just How Big Was the Grand Theft Auto VI Launch? - The New York Times",
       "items": [
@@ -851,6 +835,30 @@
           "source": "google_news",
           "summary": " The best hidden side missions in GTA 6 and where to find them &nbsp;&nbsp; Red Bull ",
           "published": "2026-11-27T16:32:04+00:00",
+          "pop": 1
+        }
+      ],
+      "score": 2.0,
+      "covered": false
+    },
+    {
+      "key": "fbb0c0a579d6",
+      "title": "This Black Friday shopping hack could help you save $15 on 'GTA 6' for PS5 - Mashable",
+      "items": [
+        {
+          "title": "This Black Friday shopping hack could help you save $15 on 'GTA 6' for PS5 - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSS1RUElDajFkbkxsRGROUTFmVmVic1JBR2hvVWpjT3BFSHRkLXBPb0RISXhPdEtWNnBHUEV4WllKN0pwY0d2NE9lZWc4WERMMmlHaDF3SnJMbEw5TFV0eEEzWDFCcW54NURNUElHR0h3TUVXb2JSWDNFdHZiZ0xDWXVwNUsyNVdfbE9TNWd5VE1LZ0stZlhKS2RZdEc?oc=5",
+          "source": "google_news",
+          "summary": " This Black Friday shopping hack could help you save $15 on 'GTA 6' for PS5 &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-27T17:03:05+00:00",
+          "pop": 1
+        },
+        {
+          "title": "This Black Friday shopping hack could help you save $15 on 'GTA 6' for PS5 - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSS1RUElDajFkbkxsRGROUTFmVmVic1JBR2hvVWpjT3BFSHRkLXBPb0RISXhPdEtWNnBHUEV4WllKN0pwY0d2NE9lZWc4WERMMmlHaDF3SnJMbEw5TFV0eEEzWDFCcW54NURNUElHR0h3TUVXb2JSWDNFdHZiZ0xDWXVwNUsyNVdfbE9TNWd5VE1LZ0stZlhKS2RZdEc?oc=5",
+          "source": "google_news",
+          "summary": " This Black Friday shopping hack could help you save $15 on 'GTA 6' for PS5 &nbsp;&nbsp; Mashable ",
+          "published": "2026-11-27T17:03:05+00:00",
           "pop": 1
         }
       ],

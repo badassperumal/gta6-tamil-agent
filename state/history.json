@@ -371,6 +371,18 @@
       "duration": 48.2,
       "published_at": "2026-11-27T15:32:40.529764+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261127-211929-short",
+      "video_id": null,
+      "title": "GTA 6 1 Week Record Breaking Sales in Tamil #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "GTA 6 massive 1-week sales milestone",
+      "hook": "GTA 6 ரிலீஸாகி சரியா ஒரு வாரம் முடிஞ்ச நிலையில, இப்போ ஒரு மிகப்பெரிய sales milestone அடிச்சு சாதனை படைச்சிருக்கு மக்களே!",
+      "duration": 52.6,
+      "published_at": "2026-11-27T21:25:13.041115+00:00",
+      "breaking": true
     }
   ],
   "topic_keys": [
@@ -432,7 +444,9 @@
     "2a7cb048a303",
     "51d758f83425",
     "a9200ff4af7e",
-    "9d1b53200e1a"
+    "9d1b53200e1a",
+    "059e5ca1d7b9",
+    "764dac12986d"
   ],
   "breaking_days": {
     "2026-11-18": 1,
@@ -442,6 +456,7 @@
     "2026-11-23": 1,
     "2026-11-24": 2,
     "2026-11-25": 2,
-    "2026-11-26": 1
+    "2026-11-26": 1,
+    "2026-11-27": 1
   }
 }

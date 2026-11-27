@@ -1,105 +1,100 @@
 {
   "plan": {
     "pillar": "news",
-    "topic": "Vice City parallel universe rule explained",
-    "story_key": "a9200ff4af7e",
-    "angle": "Explain why Rockstar's parallel universe rule means GTA 6 doesn't reference 2002's Vice City",
-    "working_title": "GTA 6-ல் 2002 Vice City ஏன் வரல? 😲 Parallel Universe ரகசியம்! Tamil #Shorts",
-    "hook_line": "GTA 6-ல பழைய Vice City ரெஃபரன்ஸ் ஏன் சுத்தமா இல்ல தெரியுமா?",
+    "topic": "GTA 6 massive 1-week sales milestone",
+    "story_key": "059e5ca1d7b9",
+    "angle": "Reporting the breaking update that GTA 6 has smashed a massive sales milestone within just one week of launch on PS5 and Xbox Series X|S.",
+    "working_title": "GTA 6 வந்து 1 வாரம் ஆச்சு! Massive 1-Week Milestone சாதனை 💥 #Shorts",
+    "hook_line": "GTA 6 ரிலீஸாகி சரியா ஒரு வாரம் முடிஞ்ச நிலையில், இப்போ ஒரு மிகப்பெரிய சேல்ஸ் மைல்ஸ்டோன் சாதனை படைச்சிருக்கு!",
     "footage_tags": [
-      "GTA 6 Vice City trailer",
-      "Jason and Lucia",
-      "Leonida map",
-      "Rockstar Games logo"
+      "GTA 6 gameplay",
+      "Vice City PS5 gameplay",
+      "GTA 6 Jason Lucia",
+      "Rockstar Games milestone graphics"
     ],
     "facts": [
-      "GTA 6 releases on PlayStation 5 and Xbox Series X|S, set in Leonida including Vice City with Jason and Lucia.",
-      "Rockstar's strict parallel universe rule means GTA 6 does not reference 2002's Vice City."
+      "GTA 6 (Grand Theft Auto VI) by Rockstar Games released on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
+      "Reports from Polygon confirm GTA 6 has passed a massive sales milestone just 1 week after launch.",
+      "The game is currently playable only on PlayStation 5 and Xbox Series X|S with no PC version at launch."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1NScnlMQTZRTjNyNjJvZ3RkaXB6QU1hUkZOaUhybm9xNUtyUHE5bEZVcnI1YWZSZlprNGM1VlJCWlFRMndWc2w3eWxvZE81eDFEUEcyOUxDRGdCdUtQUnRCUFdkSFdTR3hXdEZ4X1plN2dtMFI2RFVBR25uV2taQzhSS0VUR3FMNWgw?oc=5"
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CQTFnQVF2c0VnQ0Z4WktEVS1oOF9IVm1vZzROWkVHWmVMNWg0bFNSRzE4dGZuMEtjLWpidXlhQURfbXNtMmNSVDdFbVkwVjBCVTVKd1kwV0xXVGZud2gyUFEwMnhYTkctUEJrQlc1Ylo4ZkdRYVpV?oc=5"
     ],
-    "why": "Addresses a fresh narrative-focused news headline about Rockstar's design choices with high search interest, avoiding any repetitive titles.",
+    "why": "Highest-scoring trending story (12.0) marking the official one-week sales milestone post-launch, driving viral interest among Tamil gaming fans.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "GTA 6-ல பழைய Vice City ரெஃபரன்ஸ் ஏன் சுத்தமா இல்ல தெரியுமா? இதோ ஒரு செம ஃபேக்ட்.",
-        "visual": "vice city map overview, neon lights night",
-        "onscreen": "Vice City Secret!",
+        "narration": "GTA 6 ரிலீஸாகி சரியா ஒரு வாரம் முடிஞ்ச நிலையில, இப்போ ஒரு மிகப்பெரிய sales milestone அடிச்சு சாதனை படைச்சிருக்கு மக்களே!",
+        "visual": "gta 6 logo breaking news",
+        "onscreen": "MASSIVE RECORD 💥",
         "start": 0.0,
-        "end": 7.426
+        "end": 8.578
       },
       {
-        "narration": "Rockstar Games ஃபாலோ பண்ற ஒரு முக்கியமான ரூட்தான் இந்த HD யூனிவர்ஸ் தியரி.",
-        "visual": "rockstar games logo animation, studio intro",
-        "onscreen": "HD Universe Rule",
-        "start": 7.426,
-        "end": 12.74
+        "narration": "Rockstar Games நவம்பர் 19 அன்னைக்கு அதிகாரப்பூர்வமா களமிறக்கின GTA 6, ஒட்டுமொத்த கேமிங் உலகத்தையும் மிரள வச்சிருக்கு.",
+        "visual": "vice city neon night",
+        "onscreen": "ROCKSTAR GAMES",
+        "start": 8.578,
+        "end": 17.636
       },
       {
-        "narration": "அதாவது 2002-ல வந்த பழைய Vice City கேமும், இப்போ வரப்போற GTA 6-ம் ஒரே உலகத்துல நடக்கல.",
-        "visual": "ps2 vice city gameplay clip, comparison",
-        "onscreen": "Different World",
-        "start": 12.74,
-        "end": 21.102
+        "narration": "பிரபல Polygon ரிப்போர்ட் படி, கேம் வந்த ஒரே வாரத்துல வரலாறு காணாத ஒரு massive sales milestone தொட்டு பெரிய ரெக்கார்ட் பண்ணியிருக்காம்!",
+        "visual": "polygon report article",
+        "onscreen": "HISTORIC MILESTONE",
+        "start": 17.636,
+        "end": 26.238
       },
       {
-        "narration": "Leonida ஸ்டேட்டில் Jason மற்றும் Lucia பண்ற இந்த ஸ்டோரி ஒரு தனி parallel universe.",
-        "visual": "jason and lucia trailer shots, leonida highway",
-        "onscreen": "Leonida State",
-        "start": 21.102,
-        "end": 26.824
+        "narration": "Leonida ஸ்டேட்டுக்குள்ள Jason மற்றும் Lucia கூட Vice City முழுக்க கேமர்ஸ் இப்போ பட்டைய கிளப்பி விளையாடிட்டு இருக்காங்க.",
+        "visual": "jason lucia driving",
+        "onscreen": "LEONIDA VICE CITY",
+        "start": 26.238,
+        "end": 34.048
       },
       {
-        "narration": "நவம்பர் 19, 2026-ல PlayStation 5 மற்றும் Xbox Series X|S-ல game release ஆகும்போது இதை நீங்களே பார்க்கலாம்.",
-        "visual": "ps5 controller, xbox series x console",
-        "onscreen": "Nov 19, 2026",
-        "start": 26.824,
-        "end": 36.29
+        "narration": "ஆச்சரியம் என்னன்னா, launch அப்போ PC version இல்லாம, வெறும் PlayStation 5 மற்றும் Xbox Series X|S-ல மட்டுமே இந்த பயங்கரமான சாதனை!",
+        "visual": "ps5 xbox controller gameplay",
+        "onscreen": "PS5 & XBOX ONLY",
+        "start": 34.048,
+        "end": 44.09
       },
       {
-        "narration": "அதனால பழைய கேரக்டர்ஸ் வருவாங்கன்னு எதிர்பார்க்காதீங்க, இது கம்ப்ளீட்டா ஒரு புதுசு.",
-        "visual": "lucia looking out car window, sunset",
-        "onscreen": "Brand New Story",
-        "start": 36.29,
-        "end": 42.252
-      },
-      {
-        "narration": "இந்த parallel universe ரூல் உங்களுக்கு பிடிச்சிருக்கா? மறக்காம Subscribe பண்ணுங்க.",
-        "visual": "subscribe button animation, gta 6 logo",
-        "onscreen": "Subscribe பண்ணுங்க",
-        "start": 42.252,
-        "end": 48.19
+        "narration": "கன்சோல் பிளேயர்ஸ் காட்டுன இந்த வரவேற்பு வேற லெவல்! நீங்க PS5-ல விளையாடுறீங்களா இல்ல Xbox-லா? Subscribe பண்ணுங்க!",
+        "visual": "supercar speeding sunset",
+        "onscreen": "Subscribe பண்ணுங்க!",
+        "start": 44.09,
+        "end": 52.62
       }
     ],
-    "thumbnail_text": "VICE CITY SECRET",
-    "end_question": "உங்களுக்கு பழைய Vice City புடிக்குமா இல்ல இந்த GTA 6 Leonida மேப் புடிக்குமா?",
-    "word_count": 84
+    "thumbnail_text": "MASSIVE 1-WEEK RECORD",
+    "end_question": "நீங்க GTA 6-ஐ PS5-ல விளையாடுறீங்களா இல்ல Xbox Series-லா?",
+    "word_count": 96
   },
   "meta": {
-    "title": "GTA 6 Vice City Secret Tamil #Shorts",
-    "description": "GTA 6-ல பழைய Vice City ரெஃபரன்ஸ் ஏன் சுத்தமா இல்லனு தெரியுமா? \nRockstar Games-ன் HD யூனிவர்ஸ் தியரி பத்தி தெரிஞ்சுக்கோங்க.\n\nஇந்த ஷார்ட்ஸில், பழைய Vice City கேமும் இப்போ வரப்போற GTA 6-ம் ஒரே உலகத்துல நடக்கலங்குற உண்மையை பார்க்கலாம். Leonida ஸ்டேட்டில் Jason மற்றும் Lucia பண்ற ஸ்டோரி ஒரு தனி parallel universe. நவம்பர் 19, 2026-ல PS5 மற்றும் Xbox Series X|S-ல game release ஆகும்போது இதை நீங்களே பார்க்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு பழைய Vice City புடிக்குமா இல்ல இந்த GTA 6 Leonida மேப் புடிக்குமா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 1 Week Record Breaking Sales in Tamil #Shorts",
+    "description": "GTA 6 ரிலீஸாகி ஒரு வாரம் ஆன நிலையில், கேமிங் உலகத்தை மிரள வைக்கும் மிகப்பெரிய sales milestone அடித்துள்ளது.\nRockstar Games-ன் பிளாக்பஸ்டர் கேம் வெறும் PS5 மற்றும் Xbox Series X|S மூலமாகவே வரலாற்று சாதனை படைத்துள்ளது.\nJason மற்றும் Lucia உடன் Vice City-ல் வைக்கும் கலக்கல் வரவேற்பை இந்த வீடியோவில் பார்க்கலாம்.\nநீங்கள் எந்த கன்சோலில் விளையாடுகிறீர்கள் என்பதை கமெண்ட் செய்யுங்கள்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 நீங்க GTA 6-ஐ PS5-ல விளையாடுறீங்களா இல்ல Xbox Series-லா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 vice city",
+      "gta 6 sales tamil",
       "gta 6 news tamil",
-      "rockstar games",
-      "gta 6 secrets tamil",
-      "gta 6 facts tamil",
-      "gta vi tamil",
-      "tamil gaming",
+      "gta 6 update tamil",
+      "gta 6 record tamil",
+      "rockstar games tamil",
       "gta 6 gameplay tamil",
-      "ps5 tamil",
-      "xbox series x tamil",
-      "gta 6 release date",
-      "gta v vs gta 6",
-      "gaming tamil",
-      "gta 6 story tamil",
+      "vice city tamil",
+      "jason and lucia tamil",
+      "ps5 games tamil",
+      "xbox games tamil",
+      "gaming news tamil",
+      "gta 6 launch tamil",
+      "gta 6 shorts tamil",
+      "tamil gaming channel",
       "GTA 6",
-      "GTA VI"
+      "GTA VI",
+      "Tamil Gaming"
     ]
   }
 }
