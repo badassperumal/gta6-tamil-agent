@@ -383,6 +383,18 @@
       "duration": 52.6,
       "published_at": "2026-11-27T21:25:13.041115+00:00",
       "breaking": true
+    },
+    {
+      "run": "20261127-233709-short",
+      "video_id": null,
+      "title": "GTA 6-ல அடுத்த Story DLC வருதா? Tamil #Shorts",
+      "format": "short",
+      "pillar": "story",
+      "topic": "GTA 6 Story DLC Plans",
+      "hook": "Story spoiler alert நண்பா! GTA 6 ரிலீஸாகி ஒரு வாரம் ஆன நிலையில, இப்போவே அடுத்த Story DLC வருமானு பெரிய விவாதம் போயிட்டு ",
+      "duration": 52.7,
+      "published_at": "2026-11-27T23:40:40.072625+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -446,7 +458,9 @@
     "a9200ff4af7e",
     "9d1b53200e1a",
     "059e5ca1d7b9",
-    "764dac12986d"
+    "764dac12986d",
+    "e5d2d532c243",
+    "89945c1437dc"
   ],
   "breaking_days": {
     "2026-11-18": 1,
