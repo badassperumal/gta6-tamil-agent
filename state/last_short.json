@@ -1,102 +1,103 @@
 {
   "plan": {
-    "pillar": "secrets",
-    "topic": "Talking parrot secret money stash",
-    "story_key": "2a7cb048a303",
-    "angle": "Highlighting the wild easter egg in GTA 6 where players follow a talking parrot to locate a hidden stash of money in Leonida.",
-    "working_title": "GTA 6-ல் பேசும் கிளி Secret Money Easter Egg! 🦜💰 #Shorts",
-    "hook_line": "GTA 6-ல ஒரு பேசும் கிளியை Follow பண்ணினா Secret Cash எடுக்க முடியும்னு தெரியுமா?",
+    "pillar": "news",
+    "topic": "Vice City parallel universe rule explained",
+    "story_key": "a9200ff4af7e",
+    "angle": "Explain why Rockstar's parallel universe rule means GTA 6 doesn't reference 2002's Vice City",
+    "working_title": "GTA 6-ல் 2002 Vice City ஏன் வரல? 😲 Parallel Universe ரகசியம்! Tamil #Shorts",
+    "hook_line": "GTA 6-ல பழைய Vice City ரெஃபரன்ஸ் ஏன் சுத்தமா இல்ல தெரியுமா?",
     "footage_tags": [
-      "gta 6 talking parrot",
-      "gta 6 hidden money stash",
-      "gta 6 secret location",
-      "vice city gameplay"
+      "GTA 6 Vice City trailer",
+      "Jason and Lucia",
+      "Leonida map",
+      "Rockstar Games logo"
     ],
     "facts": [
-      "GTA 6 features a talking parrot that players can use to find a hidden stash of money."
+      "GTA 6 releases on PlayStation 5 and Xbox Series X|S, set in Leonida including Vice City with Jason and Lucia.",
+      "Rockstar's strict parallel universe rule means GTA 6 does not reference 2002's Vice City."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IanhESkJPU2JUZ2FVeV9oaDU4M0pWWXRkZXlWSTVnYWdPcV9FczhoXzcyU3J0dnZEMHNCSzNicHZ5SUk0ODhRbVNUWlNDNGw1QkVPOUxLUVYtUVo4M0w3b1FLS3k5LXlaTmNfbXJoR0VVU1lYamc?oc=5"
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1NScnlMQTZRTjNyNjJvZ3RkaXB6QU1hUkZOaUhybm9xNUtyUHE5bEZVcnI1YWZSZlprNGM1VlJCWlFRMndWc2w3eWxvZE81eDFEUEcyOUxDRGdCdUtQUnRCUFdkSFdTR3hXdEZ4X1plN2dtMFI2RFVBR25uV2taQzhSS0VUR3FMNWgw?oc=5"
     ],
-    "why": "Bizarre and funny secret easter eggs like a talking parrot leading to hidden cash trigger immediate curiosity and high completion rates in Tamil gaming Shorts.",
+    "why": "Addresses a fresh narrative-focused news headline about Rockstar's design choices with high search interest, avoiding any repetitive titles.",
     "format": "short",
     "breaking": false
   },
   "script": {
     "scenes": [
       {
-        "narration": "ஹலோ மக்களே! GTA 6-ல வரப்போற ஒரு மிரட்டலான secret பத்தி தான் இன்னைக்கு பார்க்க போறோம். Spoiler warning முன்கூட்டியே சொல்லிட்டேன், மிஸ் பண்ணிடாதீங்க!",
-        "visual": "vice city neon map overview",
-        "onscreen": "Secret Easter Egg",
+        "narration": "GTA 6-ல பழைய Vice City ரெஃபரன்ஸ் ஏன் சுத்தமா இல்ல தெரியுமா? இதோ ஒரு செம ஃபேக்ட்.",
+        "visual": "vice city map overview, neon lights night",
+        "onscreen": "Vice City Secret!",
         "start": 0.0,
-        "end": 12.058
+        "end": 7.426
       },
       {
-        "narration": "Rockstar Games நம்ம Leonida மேப்ல செம ஒளிய வச்சிருக்காங்க. அதுல ஒரு ஜோலியான விஷயம் என்னன்னா, ஒரு பேசும் கிளி!",
-        "visual": "leonida swamp jungle parrot",
-        "onscreen": "Talking Parrot!",
-        "start": 12.058,
-        "end": 20.108
+        "narration": "Rockstar Games ஃபாலோ பண்ற ஒரு முக்கியமான ரூட்தான் இந்த HD யூனிவர்ஸ் தியரி.",
+        "visual": "rockstar games logo animation, studio intro",
+        "onscreen": "HD Universe Rule",
+        "start": 7.426,
+        "end": 12.74
       },
       {
-        "narration": "இந்த talking parrot-ஐ நம்ம open world-ல கரெக்டா track பண்ணி follow பண்ணனும். அது சும்மா பறக்காது மக்களே, ஒரு மெசேஜ் சொல்லும்.",
-        "visual": "jungle exploration gameplay search",
-        "onscreen": "Follow The Bird",
-        "start": 20.108,
-        "end": 28.35
+        "narration": "அதாவது 2002-ல வந்த பழைய Vice City கேமும், இப்போ வரப்போற GTA 6-ம் ஒரே உலகத்துல நடக்கல.",
+        "visual": "ps2 vice city gameplay clip, comparison",
+        "onscreen": "Different World",
+        "start": 12.74,
+        "end": 21.102
       },
       {
-        "narration": "கிளி போற வழியிலேயே நம்ம Jason மற்றும் Lucia வச்சு கரெக்டா போனா, ஒரு பெரிய secret money stash-ஐ கண்டுபிடிக்கலாம்.",
-        "visual": "jason and lucia jungle walk",
-        "onscreen": "Hidden Stash",
-        "start": 28.35,
-        "end": 35.824
+        "narration": "Leonida ஸ்டேட்டில் Jason மற்றும் Lucia பண்ற இந்த ஸ்டோரி ஒரு தனி parallel universe.",
+        "visual": "jason and lucia trailer shots, leonida highway",
+        "onscreen": "Leonida State",
+        "start": 21.102,
+        "end": 26.824
       },
       {
-        "narration": "இது ஒரு செம cool ஆன easter egg ah இருக்க போகுது. ஏன்னா இந்த cash வச்சு ஆரம்பத்திலேயே நம்ம car-ஐ upgrade பண்ணிக்கலாம்.",
-        "visual": "money cash loot bag open",
-        "onscreen": "Free Cash!",
-        "start": 35.824,
-        "end": 44.522
-      },
-      {
-        "narration": "இந்த mission ரொம்ப சுவாரஸ்யமா இருக்க போகுதுன்னு leaks சொல்லுது. ஆனால் நவம்பர் 19, 2026-ல PS5 மற்றும் Xbox Series X|S-ல தான் இது ரிலீஸ் ஆகுது.",
-        "visual": "ps5 xbox controller gaming",
+        "narration": "நவம்பர் 19, 2026-ல PlayStation 5 மற்றும் Xbox Series X|S-ல game release ஆகும்போது இதை நீங்களே பார்க்கலாம்.",
+        "visual": "ps5 controller, xbox series x console",
         "onscreen": "Nov 19, 2026",
-        "start": 44.522,
-        "end": 57.324
+        "start": 26.824,
+        "end": 36.29
       },
       {
-        "narration": "PC-க்கு இப்போதைக்கு update இல்லை நண்பா. இந்த கிளி trick-ஐ உங்க friend-கிட்ட சொல்லுங்க, அப்படியே Subscribe பண்ணுங்க!",
-        "visual": "subscribe button animation youtube",
+        "narration": "அதனால பழைய கேரக்டர்ஸ் வருவாங்கன்னு எதிர்பார்க்காதீங்க, இது கம்ப்ளீட்டா ஒரு புதுசு.",
+        "visual": "lucia looking out car window, sunset",
+        "onscreen": "Brand New Story",
+        "start": 36.29,
+        "end": 42.252
+      },
+      {
+        "narration": "இந்த parallel universe ரூல் உங்களுக்கு பிடிச்சிருக்கா? மறக்காம Subscribe பண்ணுங்க.",
+        "visual": "subscribe button animation, gta 6 logo",
         "onscreen": "Subscribe பண்ணுங்க",
-        "start": 57.324,
-        "end": 65.014
+        "start": 42.252,
+        "end": 48.19
       }
     ],
-    "thumbnail_text": "GTA 6 SECRET PARROT",
-    "end_question": "இந்த கிளி secret பத்தி நீங்க என்ன நினைக்கிறீங்க?",
-    "word_count": 123
+    "thumbnail_text": "VICE CITY SECRET",
+    "end_question": "உங்களுக்கு பழைய Vice City புடிக்குமா இல்ல இந்த GTA 6 Leonida மேப் புடிக்குமா?",
+    "word_count": 84
   },
   "meta": {
-    "title": "GTA 6 Secret Parrot Trick in Tamil #Shorts",
-    "description": "GTA 6-ல வரப்போற மிரட்டலான secret பத்தி இந்த வீடியோல பாக்க போறோம்.\nRockstar Games வச்சிருக்க இந்த talking parrot secret பத்தி தெரிஞ்சிக்கோங்க.\nஇந்த வீடியோவுல லியோனிடா மேப்ல இருக்கும் பேசும் கிளி மற்றும் ரகசிய பணம் பத்தி லீக்ஸ் தகவல்களை தமிழ்ல சொல்லியிருக்கோம். நவம்பர் 19, 2026 ரிலீஸ் பத்தின விவரங்களையும் பாருங்க. மறக்காம சப்ஸ்கிரைப் பண்ணுங்க!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த கிளி secret பத்தி நீங்க என்ன நினைக்கிறீங்க?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 Vice City Secret Tamil #Shorts",
+    "description": "GTA 6-ல பழைய Vice City ரெஃபரன்ஸ் ஏன் சுத்தமா இல்லனு தெரியுமா? \nRockstar Games-ன் HD யூனிவர்ஸ் தியரி பத்தி தெரிஞ்சுக்கோங்க.\n\nஇந்த ஷார்ட்ஸில், பழைய Vice City கேமும் இப்போ வரப்போற GTA 6-ம் ஒரே உலகத்துல நடக்கலங்குற உண்மையை பார்க்கலாம். Leonida ஸ்டேட்டில் Jason மற்றும் Lucia பண்ற ஸ்டோரி ஒரு தனி parallel universe. நவம்பர் 19, 2026-ல PS5 மற்றும் Xbox Series X|S-ல game release ஆகும்போது இதை நீங்களே பார்க்கலாம்.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 உங்களுக்கு பழைய Vice City புடிக்குமா இல்ல இந்த GTA 6 Leonida மேப் புடிக்குமா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
       "gta 6 tamil",
-      "gta 6 secrets tamil",
-      "gta 6 gameplay tamil",
-      "gta 6 map tamil",
-      "gta 6 easter eggs tamil",
-      "gta 6 leaks tamil",
-      "gta 6 money tamil",
-      "gta 6 ps5 tamil",
+      "gta 6 vice city",
       "gta 6 news tamil",
-      "gta 6 trailer tamil",
-      "gta 6 jason lucia",
-      "gta 6 leonida tamil",
+      "rockstar games",
+      "gta 6 secrets tamil",
+      "gta 6 facts tamil",
+      "gta vi tamil",
       "tamil gaming",
-      "gta tamil",
-      "gta 6 shorts",
+      "gta 6 gameplay tamil",
+      "ps5 tamil",
+      "xbox series x tamil",
+      "gta 6 release date",
+      "gta v vs gta 6",
+      "gaming tamil",
+      "gta 6 story tamil",
       "GTA 6",
       "GTA VI"
     ]

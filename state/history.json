@@ -359,6 +359,18 @@
       "duration": 65.0,
       "published_at": "2026-11-26T23:59:46.011293+00:00",
       "breaking": false
+    },
+    {
+      "run": "20261127-152924-short",
+      "video_id": null,
+      "title": "GTA 6 Vice City Secret Tamil #Shorts",
+      "format": "short",
+      "pillar": "news",
+      "topic": "Vice City parallel universe rule explained",
+      "hook": "GTA 6-ல பழைய Vice City ரெஃபரன்ஸ் ஏன் சுத்தமா இல்ல தெரியுமா? இதோ ஒரு செம ஃபேக்ட்.",
+      "duration": 48.2,
+      "published_at": "2026-11-27T15:32:40.529764+00:00",
+      "breaking": false
     }
   ],
   "topic_keys": [
@@ -418,7 +430,9 @@
     "73fa00efd834",
     "0779b31ae9c9",
     "2a7cb048a303",
-    "51d758f83425"
+    "51d758f83425",
+    "a9200ff4af7e",
+    "9d1b53200e1a"
   ],
   "breaking_days": {
     "2026-11-18": 1,
