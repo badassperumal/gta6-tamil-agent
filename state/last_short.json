@@ -1,100 +1,104 @@
 {
   "plan": {
-    "pillar": "story",
-    "topic": "GTA 6 Story DLC Plans",
-    "story_key": "e5d2d532c243",
-    "angle": "Analyzing reports and community speculation on whether Rockstar plans to release single-player Story DLC for GTA 6 after launch",
-    "working_title": "GTA 6-க்கு புது Story DLC வருதா? 🤔 | Story DLC Explained Tamil #Shorts",
-    "hook_line": "GTA 6 ரிலீஸாகி ஒரு வாரம் ஆன நிலையில, அடுத்து Story DLC வருமாங்கிற கேள்வி வைரல் ஆயிட்டு இருக்கு!",
+    "pillar": "news",
+    "topic": "GTA 6 carbon footprint and hyper-real gaming discussion",
+    "story_key": "4d5878c92e3c",
+    "angle": "Discussing the environmental talk surrounding GTA 6's massive hyper-real open world in Leonida",
+    "working_title": "GTA 6 Graphics-ஸும் Carbon Footprint-ம்! 🌍 அதிர்ச்சி தகவல் Tamil #Shorts",
+    "hook_line": "GTA 6-ன் பிரம்மாண்டமான கிராபிக்ஸ் சுற்றுச்சூழலை பாதிக்குமா? ஒரு நிமிஷம் கேளுங்க!",
     "footage_tags": [
-      "Lucia and Jason cinematic cutscene",
-      "Vice City street exploration",
-      "GTA 6 story mission gameplay",
-      "Rockstar Games logo"
+      "Vice City aerial view",
+      "Leonida hyper real graphics",
+      "Jason and Lucia walking",
+      "PS5 gameplay"
     ],
     "facts": [
-      "GTA 6 releases on 19 November 2026 on PlayStation 5 and Xbox Series X|S.",
-      "The game is set in the state of Leonida, which includes Vice City, with main characters Jason and Lucia.",
-      "Discussions and reports have emerged regarding Rockstar Games' potential story DLC plans for GTA 6."
+      "GTA 6 is set in the state of Leonida, which includes Vice City, featuring Jason and Lucia.",
+      "The game releases on PlayStation 5 and Xbox Series X|S."
     ],
     "sources": [
-      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DZzNETVZwSkl3UlBfY3ZHbFVDcE5mTWFwSXIyaHRCN3ZJVGdOZEQzM2QyejNxQlJ5eFJDa3pjVGNJOHZGUk4wMTNxZElqNGVTNklGVkYtQmNhOW9JT3FBUVR3?oc=5"
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelk4UEI4RE01MW0yYjdBTzcyd1BjTU5ST3ctc3hDcDNZLVN3b3hFWUJTUjBsbEJMZWNYY09IUzQ0TEx3SEhacjVRdFRTdFQ3YkZ4OTc0eWpzY1FzbmFFakFfNEhNc1g1SkFyaVhrcUtNLWFrbFZnbnhjQkFUZ0Z0Y09uYjE3d0NHUktHTVkyMTJfRGQ2OTUyanY5VzZGS24xWEpHYzBoLXRyd9IBtwFBVV95cUxPVjVSRmh0T0Vwam9RRjhfamVQaFlmcFc4eWp1QzF5aU9KeVprdndsYnVUcWdYbHNPU0poZDNFT2EzZWxXc3RZekR4SU1KNGVoRGtWMFh1eUdaT2lBU0JWaGpQRmZuM2k3dVdTSzluZk0wQnJ3YTlkeER1N3hvNEhyaTUzaFRaV2hXcHQwUThnYXlwYzlBSGg3Y2FqV2ZjcGtXeWpGWWNNRFR6TjhUYV9NY0hXNEMwdUk?oc=5"
     ],
-    "why": "Matches the suggested story pillar, addresses high fan curiosity on whether GTA 6 will avoid GTA 5's lack of single-player DLC, and hasn't been covered in recent titles.",
+    "why": "Covers the trending news story about GTA 6's massive scale and industry impact while keeping strictly to verified facts and avoiding repeat titles.",
     "format": "short",
-    "breaking": false
+    "breaking": true
   },
   "script": {
     "scenes": [
       {
-        "narration": "Story spoiler alert நண்பா! GTA 6 ரிலீஸாகி ஒரு வாரம் ஆன நிலையில, இப்போவே அடுத்த Story DLC வருமானு பெரிய விவாதம் போயிட்டு இருக்கு!",
-        "visual": "vice city neon night",
-        "onscreen": "STORY DLC வருதா?",
+        "narration": "GTA 6-ன் பிரம்மாண்டமான கிராபிக்ஸ் சுற்றுச்சூழலை பாதிக்குமா? ஒரு நிமிஷம் கேளுங்க!",
+        "visual": "Vice City beach sunset cinematic",
+        "onscreen": "Environment Impact?",
         "start": 0.0,
-        "end": 10.57
+        "end": 7.09
       },
       {
-        "narration": "Leonida மாகாணத்துல நம்ம Jason மற்றும் Lucia-வோட கதைக்கு அப்புறம், புதுசா single-player missions வருமானு பல reports பேச ஆரம்பிச்சிருக்காங்க.",
-        "visual": "jason lucia cinematic",
-        "onscreen": "NEW MISSIONS?",
-        "start": 10.57,
-        "end": 19.772
+        "narration": "Rockstar Games தயாரிப்பில் Leonida ஸ்டேட்-ல் வரும் இந்த hyper-real ஓபன் வேர்ல்டு நம்மைக் கவர்ந்தாலும், பெரிய விவாதம் போயிட்டு இருக்கு.",
+        "visual": "Jason and Lucia in car",
+        "onscreen": "Leonida Open World",
+        "start": 7.09,
+        "end": 15.236
       },
       {
-        "narration": "ஆனா இது Rockstar Games கன்ஃபார்ம் பண்ண உண்மை இல்ல, இப்போதைக்கு இது ஒரு சுவாரஸ்யமான community speculation மற்றும் theory தான்.",
-        "visual": "rockstar games logo",
-        "onscreen": "THEORY ONLY",
-        "start": 19.772,
-        "end": 28.014
+        "narration": "இவ்வளவு பெரிய map மற்றும் மிரட்டலான details-க்கு அதிக power தேவைப்படுறதால, carbon footprint பத்தின பேச்சுக்கள் இப்போ சூடு பிடிச்சிருக்கு.",
+        "visual": "PS5 console glowing tech",
+        "onscreen": "Carbon Footprint",
+        "start": 15.236,
+        "end": 23.55
       },
       {
-        "narration": "GTA 5-க்கு அப்புறம் GTA 6-லயாவது நல்ல single-player content வரணும்னு Vice City gamers ரொம்ப எதிர்பார்ப்போட காத்துட்டு இருக்காங்க.",
-        "visual": "vice city street gameplay",
-        "onscreen": "SINGLE PLAYER EXPANSION",
-        "start": 28.014,
-        "end": 38.536
+        "narration": "ஆனா இது games-ன் அடுத்த கட்ட வளர்ச்சிக்கான ஒரு சின்ன விலைன்னு சிலபேர் சொல்றாங்க, இது ஒரு theory தான்.",
+        "visual": "Graphics comparison rendering",
+        "onscreen": "Next-Gen Tech",
+        "start": 23.55,
+        "end": 30.184
       },
       {
-        "narration": "ஒருவேளை புது map updates மற்றும் missions வந்தா, நம்ம Leonida இன்னும் வேற லெவல்ல அதிரும்ல?",
-        "visual": "vice city map overview",
-        "onscreen": "LEONIDA EXPANSION",
-        "start": 38.536,
-        "end": 44.618
+        "narration": "இந்த செம game வரும் நவம்பர் 19, 2026 அன்று PlayStation 5 மற்றும் Xbox Series X|S-ல் ரிலீஸ் ஆகுது.",
+        "visual": "PS5 and Xbox controllers",
+        "onscreen": "Nov 19, 2026",
+        "start": 30.184,
+        "end": 38.858
       },
       {
-        "narration": "உங்களுக்கு புது Story DLC வந்தா பிடிக்குமானு கமெண்ட் பண்ணிட்டு, மறக்காம Subscribe பண்ணுங்க! ஏன்னா இப்போ...",
-        "visual": "vice city sunset drive",
-        "onscreen": "SUBSCRIBE பண்ணுங்க!",
-        "start": 44.618,
-        "end": 52.74
+        "narration": "PC-க்கு இப்போதைக்கு இல்லை நண்பா, அடுத்த update-க்காக வெயிட் பண்ணனும்.",
+        "visual": "Vice City night lights",
+        "onscreen": "No PC at Launch",
+        "start": 38.858,
+        "end": 43.188
+      },
+      {
+        "narration": "உங்களுக்கு இந்த graphics லெவல் பிடிச்சிருக்கா? மறக்காமல் Subscribe பண்ணுங்க!",
+        "visual": "Lucia action pose",
+        "onscreen": "Subscribe pannunga!",
+        "start": 43.188,
+        "end": 48.886
       }
     ],
-    "thumbnail_text": "STORY DLC CONFIRMED?",
-    "end_question": "GTA 6-க்கு புது Story DLC கண்டிப்பா வரணுமா நண்பா?",
-    "word_count": 95
+    "thumbnail_text": "GTA 6 CARBON FOOTPRINT",
+    "end_question": "இந்த graphics லெவல் உங்களுக்குப் பிடிச்சிருக்கா?",
+    "word_count": 88
   },
   "meta": {
-    "title": "GTA 6-ல அடுத்த Story DLC வருதா? Tamil #Shorts",
-    "description": "GTA 6 Story DLC வரப்போகுதா? Leonida-வில் Jason மற்றும் Lucia கதைக்கு அப்புறம் என்ன நடக்கும்?\nGTA 6 single player missions மற்றும் map updates பற்றிய புதிய community speculation தமிழில்!\n\nGTA 6 ரிலீஸுக்குப் பிறகு புதிய Story DLC வருமானு கேமர்ஸ் மத்தியில் பெரிய விவாதம் போயிட்டு இருக்கு.\nRockstar Games இன்னும் இதை உறுதிப்படுத்தல, இப்போதைக்கு இது ஒரு சுவாரஸ்யமான theory மட்டுமே.\nGTA 5-ல மிஸ்ஸான single-player DLC நம்ம GTA 6-ல வந்தா கண்டிப்பா வேற லெவல்ல இருக்கும்.\nஉங்களுக்கு GTA 6 Story DLC வரணுமானு மறக்காம கமெண்ட் பண்ணுங்க!\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 GTA 6-க்கு புது Story DLC கண்டிப்பா வரணுமா நண்பா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
+    "title": "GTA 6 கிராபிக்ஸ் சுற்றுச்சூழலை பாதிக்குமா? அதிர்ச்சி தகவல் Tamil #Shorts",
+    "description": "GTA 6 graphics and carbon footprint discussion in Tamil. Rockstar Games-ன் லியோனிடா ஓபன் வேர்ல்டு மற்றும் PS5, Xbox ரிலீஸ் தேதி பற்றிய முழு விவரம்.\n\nGTA 6 game-ன் பிரம்மாண்டமான கிராபிக்ஸ் சுற்றுச்சூழலை பாதிக்குமா என்ற விவாதம் பத்தி இந்த ஷார்ட்ஸில் பாக்கலாம். நவம்பர் 19, 2026-ல் வரவிருக்கும் இந்த கேம் பற்றிய முக்கியத் தகவல்களை தெரிந்து கொள்ள உடனே பாருங்க.\n\n🔔 Subscribe @GTA6Tamil — daily GTA 6 updates in Tamil!\n💬 இந்த graphics லெவல் உங்களுக்குப் பிடிச்சிருக்கா?\n\nGrand Theft Auto VI © Rockstar Games / Take-Two Interactive. This channel is a fan channel and is not affiliated with Rockstar Games.\nNarration uses AI-generated Tamil voice.\n\n#GTA6 #GTA6Tamil #TamilGaming",
     "tags": [
+      "gta 6 tamil",
+      "gta 6 release date tamil",
+      "gta 6 graphics tamil",
+      "gta 6 news tamil",
+      "gta 6 ps5 xbox tamil",
+      "rockstar games tamil",
+      "gta 6 updates tamil",
+      "gta v tamil",
+      "tamil gaming",
+      "gta 6 facts tamil",
+      "gta 6 trailer tamil",
+      "gta 6 gameplay tamil",
+      "gta 6 tamil gaming",
+      "gaming news tamil",
+      "gta 6 leaks tamil",
       "GTA 6",
-      "GTA 6 Tamil",
-      "GTA 6 story dlc tamil",
-      "GTA 6 dlc tamil",
-      "GTA 6 tamil story",
-      "GTA 6 leak tamil",
-      "GTA 6 tamil gameplay",
-      "GTA 6 Jason Lucia tamil",
-      "GTA 6 missions tamil",
-      "GTA 6 update tamil",
-      "GTA 6 Leonida tamil",
-      "Tamil gaming",
-      "Tamil gaming shorts",
-      "GTA Tamil",
-      "GTA 6 rumors tamil",
-      "GTA 6 theories tamil",
-      "GTA VI Tamil",
-      "GTA 6 news tamil",
       "GTA VI"
     ]
   }
